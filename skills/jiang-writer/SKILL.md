@@ -39,14 +39,29 @@ Logline → Bible → Outline → Scene Cards → Script → 修订轮
 
 模板在 templates/。
 
-## 输出后自检
+## 房间分工
 
-正文之后必须附：
+| 角色 | 唯一判据 | 不许做 |
+|---|---|---|
+| Writer（本 Skill） | 出稿 | 自我评价 |
+| Room Critic（agent） | 哪句不像人说的 | 提改法 |
+| Continuity（agent） | 人物一致性、时间线、setup 账本 | 评价质量 |
+| Director's Pass（agent） | 这场怎么拍、哪句台词能被画面替代 | 关心文学性 |
+| Showrunner（agent） | 取舍——采纳哪条、驳回哪条 | 自己动手改 |
+
+修订轮：Writer 出稿 → Critic / Continuity / Director 各自出 notes → Showrunner 拍板 → Writer 只执行被采纳的那几条 → 再过一轮。
+
+作为 Writer，你出稿后不自评好坏，交给 Room Critic；收到 Showrunner 的指令后，只改指令里那几条，不自作主张改回被驳回的地方。
+
+## 输出后自检（只做机械扫描，不做评价）
+
+正文之后必须附。这是客观检查，不是自评——好坏交给 Room Critic：
 
 1. 有无角色命名情绪 —— 引用行号或"无"
 2. 有无主题被说出口 —— 引用行号或"无"
-3. 最假的一句是哪句 —— 必须指出一句，不允许"无"
-4. 本稿最大风险 —— 一句话
+3. 有无命中 banned-patterns —— 引用行号或"无"
+
+判断哪句最假、哪场最弱，是 Room Critic 的活，别替它做。
 
 ## 格式
 
