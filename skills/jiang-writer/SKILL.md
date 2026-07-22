@@ -97,7 +97,9 @@ description: Develop, diagnose, rewrite, and production-prepare episodic screen 
 - setup、activation、payoff、subversion 和弃线决定
 - 每集开场状态、结束状态与下一集承接
 
-季集数超过五集时，默认每完成五集 Outline 或 Script 做一次跨集审查，但把报告与干净正文分开。
+多集/系列项目同时读取 [anti-repetition.md](references/anti-repetition.md)，维护冲突装置账本——换皮重复（同一冲突机关换人名地点反复用）是多集剧最大的弃剧原因，连续性账本管"对不对得上"，装置账本管"是不是又来一遍"。
+
+季集数超过五集时，默认每完成五集 Outline 或 Script 做一次跨集审查（含装置账本核对），但把报告与干净正文分开。
 
 ## 修订与编剧室 Pass
 

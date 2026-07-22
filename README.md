@@ -1,6 +1,6 @@
-# jiang-writer v2.2
+# jiang-writer v2.3
 
-美剧 Writers' Room 编剧工作流，装进 Claude Code。**在美剧底座上补了竖屏微短剧模块**——既能开发/诊断/修订美剧规格的剧集，也能写抖音/快手的竖屏投流爽剧（重生、逆袭、打脸、甜宠、马甲）。v2.2 补上运营侧：全剧节奏波形、爽感配比、付费卡点、内容合规。
+美剧 Writers' Room 编剧工作流，装进 Claude Code。**在美剧底座上补了竖屏微短剧模块**——既能开发/诊断/修订美剧规格的剧集，也能写抖音/快手的竖屏投流爽剧（重生、逆袭、打脸、甜宠、马甲）。v2.2 补上运营侧：全剧节奏波形、爽感配比、付费卡点、内容合规。v2.3 补上防重复引擎：冲突装置账本、R0-R3 分级、冷却配额、变奏升级、同质化红线——治多集剧最大的弃剧原因「换皮重复」。
 
 ## 结构
 
@@ -13,6 +13,7 @@ skills/jiang-writer/
     vertical-microdrama.md     ★ 竖屏投流爽剧：单集钩子/爽点手艺
     vertical-season-and-monetization.md  ★ v2.2：全剧节奏波形/爽感配比/付费卡点
     vertical-compliance.md     ★ v2.2：内容合规红线（七维度/P0-P2/出海）
+    anti-repetition.md         ★ v2.3：防重复——冲突装置账本/冷却配额/变奏升级
     structure.md / series-engine.md / dialogue-and-subtext.md
     character-voice.md / ai-patterns.md / continuity-and-story-ledger.md
     critic-pass.md / voice-pass.md / showrunner-pass.md / director-pass.md
