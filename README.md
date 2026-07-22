@@ -1,6 +1,6 @@
-# jiang-writer v2.1
+# jiang-writer v2.2
 
-美剧 Writers' Room 编剧工作流，装进 Claude Code。**v2.1 在美剧底座上补了竖屏微短剧模块**——既能开发/诊断/修订美剧规格的剧集，也能写抖音/快手的竖屏投流爽剧（重生、逆袭、打脸、甜宠、马甲）。
+美剧 Writers' Room 编剧工作流，装进 Claude Code。**在美剧底座上补了竖屏微短剧模块**——既能开发/诊断/修订美剧规格的剧集，也能写抖音/快手的竖屏投流爽剧（重生、逆袭、打脸、甜宠、马甲）。v2.2 补上运营侧：全剧节奏波形、爽感配比、付费卡点、内容合规。
 
 ## 结构
 
@@ -10,7 +10,9 @@ skills/jiang-writer/
   agents/openai.yaml           OpenAI 界面配置（非 Claude Code）
   references/                  按需加载的规则库
     format-selection.md        剧集形态选择（含竖屏微短剧一行）
-    vertical-microdrama.md     ★ v2.1 新增：竖屏投流爽剧规则
+    vertical-microdrama.md     ★ 竖屏投流爽剧：单集钩子/爽点手艺
+    vertical-season-and-monetization.md  ★ v2.2：全剧节奏波形/爽感配比/付费卡点
+    vertical-compliance.md     ★ v2.2：内容合规红线（七维度/P0-P2/出海）
     structure.md / series-engine.md / dialogue-and-subtext.md
     character-voice.md / ai-patterns.md / continuity-and-story-ledger.md
     critic-pass.md / voice-pass.md / showrunner-pass.md / director-pass.md
@@ -37,6 +39,10 @@ skills/jiang-writer/
 | 扁平配角 | 冲突同质化 | 配角可功能化，主角需一个钩人反差 |
 
 外加：钩子系统（开篇钩/集内钩/集尾钩/付费点钩）、打脸"憋—爆"节拍、名词控制、单集微结构、投流剧七种死法、竖屏 AI 视频制作约束（单场≤2人、单镜头≤8秒、中英对照）。SKILL.md 检测到项目是竖屏投流剧时自动指向 `vertical-microdrama.md`。
+
+**v2.2 运营侧**（消化自研究开源短剧生态的通用方法论，按本 Skill「数值当基线不当硬配额」的分寸重写）：
+- `vertical-season-and-monetization.md`：四段式节奏波形（起势15%/攀升30%/风暴35%/决战20%，带爽点强度与加减速比例）、五类爽感与按段密度、题材配比、付费卡点集数基线（首卡8-12集…）与卡点选择三原则。
+- `vertical-compliance.md`：七个合规维度、P0红线/P1-P2灰区分级、逐集与全剧自检、题材高发踩坑、出海补充。
 
 ## 安装（电脑端）
 

@@ -24,6 +24,8 @@
 
 **仍然守住的**：爽点要有"憋"才有"爆"；打脸要落在具体行为而非空喊；主角的狠要有来处（前世／屈辱）；金句是角色的，不是可无损换到任何剧的作者万能句。区分"这个角色的陈词滥调"和"作者的偷懒"，标准和 [ai-patterns.md](ai-patterns.md) 一致，只是阈值放宽。
 
+全剧级的节奏波形、爽感类型与密度、付费卡点位置见 [vertical-season-and-monetization.md](vertical-season-and-monetization.md)。定稿前的内容合规审查见 [vertical-compliance.md](vertical-compliance.md)。本文只管单集内的钩子与爽点手艺。
+
 ## 钩子系统
 
 留存是本形态第一指标，钩子是留存的唯一杠杆。

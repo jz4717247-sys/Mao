@@ -42,6 +42,7 @@ description: Develop, diagnose, rewrite, and production-prepare episodic screen 
 先读 [format-selection.md](references/format-selection.md)，不要把流媒体、广告网、美剧一小时剧和半小时剧强塞进同一幕数。
 
 **竖屏微短剧例外**：项目是抖音／快手／短剧 App 的竖屏投流剧（重生、逆袭、打脸、甜宠、赘婿、马甲等）时，先读 [vertical-microdrama.md](references/vertical-microdrama.md)。这一形态**反转**了本 Skill 多条美剧默认值——内心 OS、情绪直给、打脸金句、setup 全回收在此是类型承诺而非风险，不要用美剧的克制感磨掉爽感。该文覆盖 structure 与 dialogue 中与本形态冲突的部分。
+排全剧节奏、爽感配比或付费卡点时读 [vertical-season-and-monetization.md](references/vertical-season-and-monetization.md)；定稿前或用户要求合规检查时读 [vertical-compliance.md](references/vertical-compliance.md)——不合规稿在投流平台无法上线。
 
 开发新项目或重做 Pilot 时，再读 [series-engine.md](references/series-engine.md)。先证明“为什么能持续产出集数”，再扩写季弧。
 
