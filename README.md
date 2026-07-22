@@ -1,61 +1,64 @@
-# jiang-writer
+# jiang-writer v2.1
 
-美剧 Writers' Room 编剧工作流，装进 Claude Code。一个 Skill（写稿）+ 两个 subagent（诊断、导演稿），核心目标是去掉剧本里的 AI 腔。
+美剧 Writers' Room 编剧工作流，装进 Claude Code。**v2.1 在美剧底座上补了竖屏微短剧模块**——既能开发/诊断/修订美剧规格的剧集，也能写抖音/快手的竖屏投流爽剧（重生、逆袭、打脸、甜宠、马甲）。
 
-## 装什么
+## 结构
 
-| 文件 | 作用 |
-|---|---|
-| `skills/jiang-writer/SKILL.md` | 主 Skill，写稿时自动触发 |
-| `skills/jiang-writer/references/banned-patterns.md` | 禁用句式，长期资产，持续追加 |
-| `skills/jiang-writer/references/dialogue-rules.md` | 对话规则 + 正反样例 |
-| `skills/jiang-writer/references/structure.md` | 场景 / Act / 主题结构 |
-| `skills/jiang-writer/templates/` | bible / outline / scene-card 模板 |
-| `agents/room-critic.md` | 只诊断不改稿的批评者 |
-| `agents/continuity.md` | 连戏：人物一致性 / 时间线 / setup 账本，不评价质量 |
-| `agents/director-pass.md` | 从 AI 视频可拍性反推剧本 |
-| `agents/showrunner.md` | 取舍：采纳/驳回各方 notes，不自己改稿 |
-
-### 房间分工
-
-| 角色 | 唯一判据 | 不许做 |
-|---|---|---|
-| Writer | 出稿 | 自我评价 |
-| Room Critic | 哪句不像人说的 | 提改法 |
-| Continuity | 人物一致性、时间线、setup 账本 | 评价质量 |
-| Director's Pass | 这场怎么拍、哪句台词能被画面替代 | 关心文学性 |
-| Showrunner | 取舍——采纳哪条、驳回哪条 | 自己动手改 |
-
-修订轮：Writer 出稿 → Critic / Continuity / Director 各自出 notes → Showrunner 拍板 → Writer 只执行采纳项 → 再过一轮。
-
-`install.sh` 是以上全部内容的自包含副本，供直接粘贴终端。仓库里的 `skills/`、`agents/` 目录是同样内容的可读版本——用手机在 GitHub App 里读、改都行，改完再同步进 `install.sh`。
-
-## 装到电脑
-
-前提：先装了 Claude Code（`npm install -g @anthropic-ai/claude-code`）。
-
-```bash
-bash install.sh
+```
+skills/jiang-writer/
+  SKILL.md                     主控：任务模式路由、canon lock、流程、质量门槛
+  agents/openai.yaml           OpenAI 界面配置（非 Claude Code）
+  references/                  按需加载的规则库
+    format-selection.md        剧集形态选择（含竖屏微短剧一行）
+    vertical-microdrama.md     ★ v2.1 新增：竖屏投流爽剧规则
+    structure.md / series-engine.md / dialogue-and-subtext.md
+    character-voice.md / ai-patterns.md / continuity-and-story-ledger.md
+    critic-pass.md / voice-pass.md / showrunner-pass.md / director-pass.md
+    revision-room.md / quality-rubric.md / evaluation-cases.md
+    voice-card-example.md
+  assets/templates/            按需复制的模板
+    series-bible / season-board / episode-outline / beat-sheet
+    scene-card / teleplay-format / character-voice-card
+    continuity-ledger / script-notes
+    vertical-episode.md        ★ v2.1 新增：竖屏单集卡（钩子链/爽点节拍）
 ```
 
-会写入 `~/.claude/skills/jiang-writer/` 和 `~/.claude/agents/`。装完重启 Claude Code。
+设计取向：**模式路由**（只跑用户要的那一档，不强制走完整编剧室）、**上下文扫描而非字面黑名单**（`ai-patterns.md` 判断句子功能再决定改不改）、**证据化诊断**（`critic-pass.md` 不强凑问题，没问题就说没问题）、**三层声纹**（指纹/关系语态/压力变体，不降格成口头禅清单）。
+
+## 竖屏微短剧模块（v2.1 新增）
+
+美剧的"风险信号"，在竖屏投流爽剧里多是**类型承诺**。该模块反转了这些默认值：
+
+| 手法 | 美剧判断 | 竖屏微短剧判断 |
+|---|---|---|
+| 内心 OS / 情绪直给 | 作者替角色解释，风险 | 刚需，承担重生记忆与身份反差 |
+| 打脸金句 / 主题直给 | 万能句、作者腔 | 类型核心买点（但要落在具体人和事） |
+| setup 全回收 | 工整过度 | 资产，留存靠钩子兑现 |
+| 扁平配角 | 冲突同质化 | 配角可功能化，主角需一个钩人反差 |
+
+外加：钩子系统（开篇钩/集内钩/集尾钩/付费点钩）、打脸"憋—爆"节拍、名词控制、单集微结构、投流剧七种死法、竖屏 AI 视频制作约束（单场≤2人、单镜头≤8秒、中英对照）。SKILL.md 检测到项目是竖屏投流剧时自动指向 `vertical-microdrama.md`。
+
+## 安装（电脑端）
+
+前提：已装 Claude Code（`npm install -g @anthropic-ai/claude-code`）。
+
+```bash
+git clone <本仓库> && cd Mao
+bash install.sh          # 复制 skills/jiang-writer 到 ~/.claude/skills/
+```
+
+装完重启 Claude Code。（v2.1 文件数较多，安装脚本改为从 clone 的仓库复制，不再是可粘贴的自包含脚本。）
 
 ## 用法
 
-- 写稿：直接说"帮我写这集的 cold open"，Skill 自动触发
-- 批稿：`用 room-critic 看一下这版`
-- 查连戏：`用 continuity 盘一下 setup 和时间线`
-- 导演稿：`跑一遍 director-pass`
-- 拍板：`把各方 notes 交给 showrunner 定取舍`
+Skill 按 SKILL.md 的模式路由自动判断该跑哪档：
 
-第一次跑完，把它写坏的句子追加进 `references/banned-patterns.md`。那个文件才是长期资产。
+- 写稿：`用 jiang-writer 帮我写这集的 cold open`
+- 诊断：`用 jiang-writer 只审查这版，别改`
+- 检查并去 AI 味：`用 jiang-writer 检查并修，声纹和 AI 腔一起看`
+- 竖屏爽剧：`用 jiang-writer 写一集竖屏重生打脸短剧，95 秒` → 自动加载竖屏模块
+- Showrunner 拍板：`把这些 notes 交给 showrunner pass 定取舍`
 
-## 手机上的替代方案（没有电脑时）
+## 手机上的替代方案
 
-Claude Code 是命令行工具，手机装不了。临时方案：
-
-1. Claude App 里新建 Project，把 `SKILL.md` 内容贴进 Project Instructions。
-2. `banned-patterns.md`、`dialogue-rules.md` 等当文件上传到 Project 知识库。
-3. 需要诊断时，在对话里说"切到 room-critic 模式，只诊断不改"，把 `agents/room-critic.md` 内容贴进去。
-
-局限：没有真正的 subagent 隔离（Critic 和 Writer 共享上下文），样例库不能自动增长。基本工作流能跑，隔离性弱一些。
+Claude Code 是命令行工具，手机装不了。临时方案：在 Claude App 新建 Project，把 `SKILL.md` 贴进 Project Instructions，把需要的 reference 当文件上传。局限：没有真正的模式隔离，reference 需手动挑着贴。
