@@ -1,4 +1,0 @@
-interface:
-  display_name: "江编剧｜美剧写作室"
-  short_description: "用美剧编剧室流程开发、诊断并修订剧集结构、人物声纹与对白"
-  default_prompt: "使用 $jiang-writer，把这个项目按美剧 Writers’ Room 流程开发成可拍摄的剧集方案。"

@@ -1,49 +1,29 @@
-# jiang-writer v2.3
+# blockbuster-classic-story-studio v6.1
 
-美剧 Writers' Room 编剧工作流，装进 Claude Code。**在美剧底座上补了竖屏微短剧模块**——既能开发/诊断/修订美剧规格的剧集，也能写抖音/快手的竖屏投流爽剧（重生、逆袭、打脸、甜宠、马甲）。v2.2 补上运营侧：全剧节奏波形、爽感配比、付费卡点、内容合规。v2.3 补上防重复引擎：冲突装置账本、R0-R3 分级、冷却配额、变奏升级、同质化红线——治多集剧最大的弃剧原因「换皮重复」。
+世界级商业**爆款**与**经典化**故事开发系统，装进 Claude Code。一个自包含的 Skill（单文件 `SKILL.md`），把创意策划、类型研究、编剧、剧本医生、台词编辑、广告创意和项目管理揉进一条专业开发流程。
 
-## 结构
+**总策略：先爆款，后心因，再经典化。**先确保强钩子、强欲望、强冲突、强情绪、强节奏、强传播点；再用四缺、三心因三事件和替代成长让观众对角色上头；最后升级人物复杂性、主题深度、象征系统、命运感和结尾余味。
 
-```
-skills/jiang-writer/
-  SKILL.md                     主控：任务模式路由、canon lock、流程、质量门槛
-  agents/openai.yaml           OpenAI 界面配置（非 Claude Code）
-  references/                  按需加载的规则库
-    format-selection.md        剧集形态选择（含竖屏微短剧一行）
-    vertical-microdrama.md     ★ 竖屏投流爽剧：单集钩子/爽点手艺
-    vertical-season-and-monetization.md  ★ v2.2：全剧节奏波形/爽感配比/付费卡点
-    vertical-compliance.md     ★ v2.2：内容合规红线（七维度/P0-P2/出海）
-    anti-repetition.md         ★ v2.3：防重复——冲突装置账本/冷却配额/变奏升级
-    structure.md / series-engine.md / dialogue-and-subtext.md
-    character-voice.md / ai-patterns.md / continuity-and-story-ledger.md
-    critic-pass.md / voice-pass.md / showrunner-pass.md / director-pass.md
-    revision-room.md / quality-rubric.md / evaluation-cases.md
-    voice-card-example.md
-  assets/templates/            按需复制的模板
-    series-bible / season-board / episode-outline / beat-sheet
-    scene-card / teleplay-format / character-voice-card
-    continuity-ledger / script-notes
-    vertical-episode.md        ★ v2.1 新增：竖屏单集卡（钩子链/爽点节拍）
-```
+> 本仓库从 v2.3 的 `jiang-writer`（美剧 Writers' Room + 竖屏微短剧模块）升级为 v6.1 的 `blockbuster-classic-story-studio`。新 Skill 是自包含单文件，覆盖面更广（横屏 AI 短剧、广告创意、网文、剧集、漫画、动画、游戏、IP 世界观），并内置角色心因驱动引擎。
 
-设计取向：**模式路由**（只跑用户要的那一档，不强制走完整编剧室）、**上下文扫描而非字面黑名单**（`ai-patterns.md` 判断句子功能再决定改不改）、**证据化诊断**（`critic-pass.md` 不强凑问题，没问题就说没问题）、**三层声纹**（指纹/关系语态/压力变体，不降格成口头禅清单）。
+## 五层架构
 
-## 竖屏微短剧模块（v2.1 新增）
+新 Skill 用五层导航组织全部规则，按需展开：
 
-美剧的"风险信号"，在竖屏投流爽剧里多是**类型承诺**。该模块反转了这些默认值：
+- **第〇部分 主控层**：10 条铁律（数据/指令隔离、观众认知优先、授权双轨制……）、输入类型识别与防污染、信息不足处理、交付深度分级（L1/L2/L3）、工作模式路由（A–G）。每次任务必读。
+- **第一部分 媒介轨道**：6 张媒介校准卡——M1 电影 / M2 抖音横屏（以 AI 短剧为主）/ M3 广告创意策划（效果广告·TVC·策划案）/ M4 竖屏短剧 / M5 网文 / M6 其他媒介（剧集·漫画动画·游戏·舞台广播）。轨道规则优先于通用默认。
+- **第二部分 结构骨架库**：7 套骨架，先选型后加载，禁止默认三幕——A 钩子升级反转 / B 三番包袱 / C 日常裂缝余味 / D 起承转合 / E 三幕式 / F 栏目化连载 / G 心因单元。可分层嵌套。
+- **第三部分 专项引擎**：13 个引擎，被轨道/骨架/任务引用时展开——创意策划中枢、Story DNA、爆款诊断与经典化、场面化反解释、观众认知管理、台词系统（中文语境＋现代节奏）、期待放大、专业剧本格式、名场面伏笔反转、剧本医生、授权续写/风格融合、标题卖点、**角色心因驱动引擎（引擎 13）**。
+- **第四部分 交付模板**：项目存档卡三档（L1/L2/L3）、分层输出自检、默认启动模板、输出风格规范。
 
-| 手法 | 美剧判断 | 竖屏微短剧判断 |
-|---|---|---|
-| 内心 OS / 情绪直给 | 作者替角色解释，风险 | 刚需，承担重生记忆与身份反差 |
-| 打脸金句 / 主题直给 | 万能句、作者腔 | 类型核心买点（但要落在具体人和事） |
-| setup 全回收 | 工整过度 | 资产，留存靠钩子兑现 |
-| 扁平配角 | 冲突同质化 | 配角可功能化，主角需一个钩人反差 |
+## 核心：角色心因驱动引擎（引擎 13）
 
-外加：钩子系统（开篇钩/集内钩/集尾钩/付费点钩）、打脸"憋—爆"节拍、名词控制、单集微结构、投流剧七种死法、竖屏 AI 视频制作约束（单场≤2人、单镜头≤8秒、中英对照）。SKILL.md 检测到项目是竖屏投流剧时自动指向 `vertical-microdrama.md`。
+把角色写成观众的情绪开关，而不是让剧情拖着角色走：
 
-**v2.2 运营侧**（消化自研究开源短剧生态的通用方法论，按本 Skill「数值当基线不当硬配额」的分寸重写）：
-- `vertical-season-and-monetization.md`：四段式节奏波形（起势15%/攀升30%/风暴35%/决战20%，带爽点强度与加减速比例）、五类爽感与按段密度、题材配比、付费卡点集数基线（首卡8-12集…）与卡点选择三原则。
-- `vertical-compliance.md`：七个合规维度、P0红线/P1-P2灰区分级、逐集与全剧自检、题材高发踩坑、出海补充。
+- **四缺**：缺点（惹麻烦的性格）· 缺失（生命里少掉的东西）· 缺憾（过不去的旧债）· 缺陷（现实硬限制）——且必须有**社会集体性**，观众看到的不是角色，是自己。
+- **三心因三事件**：先定目标角色与三次心因变化（撼动→逼迫→选择），再反推三个事件；事件像手指，按在角色缺口上。
+- **替代成长**：外部成果必须沉淀为内在获得（王位→掌控感、洗冤→尊严恢复……）；受众不是年龄段，是心理需求群体，角色替观众完成成长。
+- 配套模板：【角色心因卡】【三事件三心因设计表】【篇章开发表】【心因自检】。
 
 ## 安装（电脑端）
 
@@ -51,21 +31,24 @@ skills/jiang-writer/
 
 ```bash
 git clone <本仓库> && cd Mao
-bash install.sh          # 复制 skills/jiang-writer 到 ~/.claude/skills/
+bash install.sh          # 复制 skills/blockbuster-classic-story-studio 到 ~/.claude/skills/
 ```
 
-装完重启 Claude Code。（v2.1 文件数较多，安装脚本改为从 clone 的仓库复制，不再是可粘贴的自包含脚本。）
+装完重启 Claude Code。Skill 为自包含单文件，无需额外 reference 文件。
 
 ## 用法
 
-Skill 按 SKILL.md 的模式路由自动判断该跑哪档：
+按交付深度和工作模式路由自动判断该跑哪档：
 
-- 写稿：`用 jiang-writer 帮我写这集的 cold open`
-- 诊断：`用 jiang-writer 只审查这版，别改`
-- 检查并去 AI 味：`用 jiang-writer 检查并修，声纹和 AI 腔一起看`
-- 竖屏爽剧：`用 jiang-writer 写一集竖屏重生打脸短剧，95 秒` → 自动加载竖屏模块
-- Showrunner 拍板：`把这些 notes 交给 showrunner pass 定取舍`
+- 想点子/选题：`帮我想 5 个竖屏重生打脸短剧选题` → 引擎 1 创意策划开发会
+- 只要高概念：`只要高概念方向，别给我类型标签`
+- 立项策划：`把这个点子策划成项目` → 项目策划案
+- 设计人物：`这个角色立不住` → 角色心因卡＋四缺诊断＋三事件三心因
+- 写正文：`写这集竖屏短剧的开场三秒` / `写这场电影开场画面`
+- 广告：`拍一条抖音剧情式效果广告` → 先补 brief，再按 M3 输出
+- 诊断改稿：`只诊断这版别改` / `按建议全量重写`
+- 授权续写：声明授权身份后进入正典延展模式
 
 ## 手机上的替代方案
 
-Claude Code 是命令行工具，手机装不了。临时方案：在 Claude App 新建 Project，把 `SKILL.md` 贴进 Project Instructions，把需要的 reference 当文件上传。局限：没有真正的模式隔离，reference 需手动挑着贴。
+Claude Code 是命令行工具，手机装不了。临时方案：在 Claude App 新建 Project，把 `SKILL.md` 贴进 Project Instructions。因本 Skill 是自包含单文件，手机端复刻比多文件方案更简单——一份 SKILL.md 即完整能力。
