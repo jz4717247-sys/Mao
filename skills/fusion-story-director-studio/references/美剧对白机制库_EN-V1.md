@@ -8,7 +8,7 @@
 
 **使用方法**：写对白前先查第九部分【场景速查索引】按场景反查机制编号；改稿时先定位缺哪个机制再动笔，不凭感觉润色。学的是机制不是句子。
 
-机制编号：1–10 回合与反应／11–20 地位与权力／21–30 潜台词与回避／31–40 节奏与句法／41–50 声音差异化／51–60 喜剧机制／61–68 类型语域／69–76 结构性台词。
+机制编号：1–10 回合与反应／11–20 地位与权力／21–30 潜台词与回避／31–40 节奏与句法／41–50 声音差异化／51–60 喜剧机制／61–68＋77–84 类型语域／69–76 结构性台词。另有 V1–V27 声纹原型（第十一部分）。
 
 ==================================================
 一、回合与反应类（治"回合太整齐"）
@@ -516,6 +516,60 @@ AI 写的英文对白最大的可识别特征是**句子都一样长、都语法
 **【中文转译】** 61 行话不解释是通用原则，中文同样适用且同样常被违反。62／65／66 在中文里分别对应"法务限定语""官方表态腔""公文被动"，中文的官僚语法用"有关方面""相关工作已经开展"完成同样的卸责功能。64 犯罪委婉语在中文里走"办了""处理一下""让他消停"。67 科技语域对应中文互联网黑话（对齐、抓手、赋能、闭环），讽刺效果相同。
 
 ==================================================
+七·续、类型语域扩容（机制 77–84）
+==================================================
+
+### 77. Academic hedging（学术语域）
+- 说明：学者句法特征是层层限定＋被动＋"the literature suggests"，永不给单一结论。
+- 原理：限定语是训练结果也是自保。学者角色的可笑与可敬都在这套句法里。
+- 适用：校园剧、专家顾问、科研题材。
+- ❌ "Climate change will destroy the coastline." → ✅ "The models are — well, they're models. But the range we're looking at is not encouraging."
+
+### 78. Clerical register（宗教语域）
+- 说明：神职人员用的是慰藉语法：不回答问题，重述对方的痛苦，把当下接到更大的框架上。
+- 原理：这套语言的功能不是传递信息，是让对方感到被容纳。用错场合立刻显出虚伪。
+- 适用：丧礼、医院、监狱、道德困境戏。
+- ❌ "God has a plan for your son." → ✅ "You've been sitting with this alone." (beat) "How long?"
+
+### 79. Sports register（体育语域）
+- 说明：教练与球员语言极度祈使、极度当下，不谈感受只谈下一个回合；名词全是具体动作。
+- 原理：这套语言拒绝反思，所以特别适合写"不能面对情绪的男人"。
+- 适用：体育剧，以及任何用体育做父子关系载体的戏。
+- ❌ "I'm proud of your effort and personal growth." → ✅ "Feet. Watch your feet. Again." (beat) "Better."
+
+### 80. Trading floor（交易大厅）
+- 说明：交易语言＝数字＋缩写＋祈使＋脏话节拍，句子极短，时间以秒计。
+- 原理：语速和缩写密度直接表达风险与金额，不需要解释盘面。
+- 适用：金融剧、危机场面。
+- ❌ "I think we should sell our position because the market is declining." → ✅ "Out. All of it. Now." "At what?" "At whatever. Out."
+
+### 81. Military justice（军法语域）
+- 说明：军法语言在军事被动（机制 66）之上加程序限定，责任被同时推给制度和条款。
+- 原理：两套卸责语法叠加，观众听得出没有人会负责——这本身就是主题。
+- 适用：军事法庭、体制批判题材。
+- ❌ "You murdered him." → ✅ "The question before this panel is not what happened. It's whether what happened was, under the applicable regulation, foreseeable."
+
+### 82. Classroom register（教育语域）
+- 说明：教师语言的特征是把命令包装成提问、用全班压个人、用表扬施压。
+- 原理：与机制 12 同源但更甜，甜度本身是压迫感的来源。
+- 适用：校园剧、教育题材、师生权力戏。
+- ❌ "Stop talking and sit down." → ✅ "Are we ready? (beat) We're waiting on one person. (beat) We're all waiting."
+
+### 83. Sales register（销售语域）
+- 说明：销售语言用假亲密（叫名字）、假稀缺（时间压力）、假共情（"I hear you"）三件套。
+- 原理：观众能看穿这套话术，所以它自带反讽；用在非销售场合（追求、劝降）时最有力。
+- 适用：推销、传销、政治拉票、任何操纵戏。
+- ❌ "Please buy this product." → ✅ "Dave. Can I call you Dave? Dave, I hear you. I do. And that's exactly why I'm gonna do something I'm not supposed to do."
+
+### 84. Bureaucratic intake（窗口办事语域）
+- 说明：办事窗口语言用第三人称、被动式和表格逻辑处理活人的急事。
+- 原理：语言的冷与内容的急形成落差，制度性冷漠不用一句控诉就成立。
+- 适用：移民、医保、社会福利、警局报案、体制批判。
+- ❌ "I'm sorry, I can't help you, the system is broken." → ✅ "That form's been discontinued. You'll want the 40-B." "I waited four hours." "The 40-B is online."
+
+**【中文转译】** 77 学术语域对应中文的"课题组腔"；78 宗教语域在中文里更多走"长辈慰藉"与"传统说法"；79 体育语域对应中文教练的"祈使＋当下"，同样适合写不会表达的父亲；80 交易大厅在中文里是"数字＋行话＋短促指令"；82 教育语域对应中文老师的"我们是不是该……了"，甜度施压完全成立；83 销售语域对应中文的"哥／姐＋今天最后一天＋我懂你"；84 窗口语域对应中文的"这个不归我们管""你去三楼问问"，制度性冷漠的写法一模一样。
+
+==================================================
 八、结构性台词类（美剧特有的位置功能）
 ==================================================
 
@@ -615,6 +669,154 @@ AI 写的英文对白最大的可识别特征是**句子都一样长、都语法
 **遮名测试**：随机抽一页对白，遮住所有角色名，让第三方指认谁在说。指认不出即声纹失败。
 
 ==================================================
+十一、声纹原型库（27 个原型）
+==================================================
+
+**为什么是原型不是具体角色**：中文机制库 V4 收 132 条经典角色声纹，因为它有逐集台词本可以逐条比对。本库不做具体角色声纹卡——那需要逐字核对，凭记忆写必然失真。改为提供**可移植的原型**：每个原型给全六维指纹，直接填进第十部分的 EN 声纹卡即可用，且不绑定任何具体作品。
+
+**读法**：`句长／压力方向｜抽象具体轴｜回避方式｜填充词｜幽默类型｜缺席的词｜常配机制编号`。同一部戏里**不要用两个回避方式相同的原型**（机制 43 硬规则）。
+
+-------------------------
+权力位
+-------------------------
+
+### V1. The Operator（操盘手）
+3–8 词，压力下更短｜极具体（数字、日期、人名）｜回避＝把问题变成任务｜无填充词｜冷面单句｜缺席的词：sorry｜常配 12／14／17／20
+❌ "I need you to understand how important this deadline is." → ✅ "Thursday. Not Friday. Thursday."
+
+### V2. The Institutional Man（体制人）
+15–25 词｜抽象｜回避＝被动语态卸责｜"What I'd say is—"｜不开玩笑｜缺席的词：I（第一人称）｜常配 65／66／81
+❌ "I decided to withhold the report." → ✅ "A determination was made that the report wasn't ready to be shared at that stage."
+
+### V3. The Charmer with a Knife（笑面刀）
+默认 20+ 词，动手前骤降到 3｜具体｜回避＝用魅力盖过问题｜"Look—"｜刻薄双关｜缺席的词：please｜常配 13／16／20／23
+❌ "You're fired." → ✅ "You've been wonderful. Genuinely. Everyone says so." (beat) "Clear your desk."
+
+### V4. The Inheritor（继承者）
+中等，虚张时变长｜想抽象但滑向具体｜回避＝用行话装懂｜"Obviously—"｜用力过猛的玩笑｜缺席的词：I don't know｜常配 47（切换失败）／58／67
+❌ "I don't understand the balance sheet." → ✅ "Right, so, top-line, we're — the fundamentals are obviously extremely strong."
+
+### V5. The Old Lion（老狮子）
+1–5 词｜极具体｜回避＝不回避，直接压过去｜无｜不笑｜缺席的词：thank you｜常配 11／15／17／18
+❌ "I would like you to reconsider your position." → ✅ "Sit down."
+
+-------------------------
+专业者
+-------------------------
+
+### V6. The Competent（能手）
+2–6 词，压力下更短｜行话＋具体｜回避＝转成技术问题｜无｜干燥的黑色幽默｜缺席的词：scared｜常配 61／63／31
+❌ "This is a very dangerous situation and I'm concerned." → ✅ "Tube him. Now."
+
+### V7. The Explainer（解释者）
+20+ 词｜抽象｜回避＝解释更多｜"So basically—"｜自嘲｜缺席的词：no｜常配 32／77
+> 注：全剧唯一会解释术语的人，因此地位最低——**别让主角当解释者**，除非那就是他的处境。
+❌ "Copy that." → ✅ "So basically what that means is, if the pressure drops below — and this is the important part —"
+
+### V8. The Burnout（耗尽者）
+碎句，常不说完｜曾经具体，现在含糊｜回避＝用行话遮掩不在状态｜"Yeah, no—"｜疲惫的刻薄｜缺席的词：care｜常配 30／35／49
+❌ "I'm exhausted and I've lost my passion for this job." → ✅ "Yeah, no, I'll — (checks watch) — yeah."
+
+### V9. The True Believer（信徒）
+长，排比｜纯抽象｜回避＝上升到原则｜"The point is—"｜不会开玩笑｜缺席的词：maybe｜常配 33／65／78
+❌ "I want the promotion." → ✅ "This isn't about a title. It's about whether this place still means what it said it meant."
+
+### V10. The Cynic（犬儒）
+中等，短句收刀｜极具体｜回避＝反讽｜"Sure."｜每句带反讽｜缺席的词：hope｜常配 8／23／59
+❌ "I doubt that will work." → ✅ "Great. And when it doesn't, we'll do exactly this again in six months."
+
+-------------------------
+家庭位
+-------------------------
+
+### V11. The Deflector（转移者）
+中等｜具体到琐碎｜回避＝转移到物（机制 21）｜无｜无｜缺席的词：love｜常配 21／25／29
+❌ "I'm upset about what you said." → ✅ "You left the light on in the garage again."
+
+### V12. The Manager（管家型）
+中等，全是后勤｜极具体｜回避＝安排事务代替谈感情｜"Did you—"｜无｜缺席的词：I need｜常配 19／21／28
+❌ "I love you and I worry about you." → ✅ "Did you eat? There's soup. Take the soup, it's already in the container."
+
+### V13. The Wound（伤口）
+1–4 词｜具体｜回避＝沉默（机制 6）｜无｜无｜缺席的词：某个人的名字｜常配 6／25／34／48
+> 全剧不说那个名字，说出来的那一集就是高潮，不需要配乐。
+❌ "I still think about my brother every day." → ✅ "Mm." / (later, once) "Danny would've liked this."
+
+### V14. The Performer（表演者）
+外人面前 20+ 词，家里碎句｜外抽象内具体｜回避＝切换成公开人格｜"Well—"｜社交型幽默｜缺席的词：help｜常配 47／13
+❌ 在家和在外说话一样。 → ✅ 客人在时："We're so lucky, honestly, it's been a wonderful year." 客人走后："...Okay."
+
+### V15. The Absent Parent（缺席的父母）
+中等，全是未来时｜抽象｜回避＝谈计划（机制 28）｜"Next time—"｜勉强的玩笑｜缺席的词：sorry｜常配 28／26／30
+❌ "I know I let you down when you were a kid." → ✅ "Next summer. The lake. We'll do the whole week, just us. I mean it this time."
+
+-------------------------
+犯罪与边缘
+-------------------------
+
+### V16. The Euphemist（委婉者）
+短，从不点名｜代词替具体｜回避＝委婉语（机制 64）｜无｜冷幽默｜缺席的词：kill｜常配 64／20／17
+❌ "Kill him." → ✅ "Go see him." (beat) "Don't tell me about it after."
+
+### V17. The Talker（话痨打手）
+30+ 词，离题｜极具体到荒唐｜回避＝不回避，说太多｜"Here's the thing—"｜跑题的趣闻｜缺席的词：quiet｜常配 32／37／40
+> 突然停下来就是要动手了——话痨的沉默比沉默者的沉默更吓人。
+❌ "Give me the money." → ✅ "My cousin had a boat like this. Not like this, worse. He kept it in — (stops) Where's my money."
+
+### V18. The Silent Muscle（沉默的肌肉）
+整场 0–2 句｜具体｜回避＝不参与｜无｜无｜缺席的词：全部｜常配 6／17
+> 一场戏只给他一句，那句必须改变局势。
+❌ 每轮都搭话。 → ✅ (Says nothing for the entire scene. At the door, to the other man:) "He's lying."
+
+### V19. The Fixer（清道夫）
+中等，全程程序问句｜极具体｜回避＝只问流程不问道德｜"Okay—"｜无｜缺席的词：why｜常配 61／12／64
+❌ "That's horrible, how could you do that?" → ✅ "Okay. Who else has been in the room? Anyone touch the door on the way in?"
+
+-------------------------
+喜剧位
+-------------------------
+
+### V20. The Straight Man（正经人）
+中等，语法完整｜具体｜回避＝认真处理荒唐（机制 55）｜无｜自己不好笑｜缺席的词：whatever｜常配 55／52
+❌ "This is insane." → ✅ (takes out notepad) "And the horse. When did the horse start coming to meetings?"
+
+### V21. The Escalator（加码者）
+中等，越说越长｜具体｜回避＝顺杆归谬（机制 59）｜"Right, so—"｜归谬｜缺席的词：no｜常配 59／54
+❌ "That plan is stupid." → ✅ "Right, so we steal the ambulance, and then we drive the ambulance to the hospital. Where the ambulances live."
+
+### V22. The Oblivious（浑然不觉）
+长，跑题｜极具体｜回避＝没意识到有问题｜"Anyway—"｜自己不知道好笑｜缺席的词：sorry｜常配 56／57
+❌ 意识到气氛不对。 → ✅ (Everyone is silent after the announcement.) "Anyway — did anyone try the dip? Because I made the dip."
+
+### V23. The Try-Hard（用力过猛）
+过长｜想抽象｜回避＝语域错位（机制 58）｜"To be fair—"｜过度准备的笑话｜缺席的词：I don't know｜常配 58／47
+❌ "Whose turn is it to take out the trash?" → ✅ "I'd like to formally table the ongoing question of this household's waste-removal protocol."
+
+-------------------------
+创伤与防御
+-------------------------
+
+### V24. The Over-Specifier（过度具体者）
+被问及创伤时骤长｜极具体但不相干｜回避＝供出周边细节（机制 24）｜无｜无｜缺席的词：事件本身｜常配 24／35
+❌ "I don't want to talk about it." → ✅ "It was a Tuesday. The wipers were on intermittent. I'd stopped at the Shell on Route 9, the one with the broken—"
+
+### V25. The Joker-Defender（玩笑防御）
+中等，痛处变短｜具体｜回避＝开玩笑（机制 23）｜无｜自嘲｜缺席的词：hurt｜常配 23／10
+❌ "That really hurt my feelings." → ✅ "Ha. Yeah. Classic me." (beat, quieter) "...Yeah."
+
+### V26. The Pre-Forgiver（提前原谅者）
+短，抢在道歉前｜抽象｜回避＝提前赦免（机制 26）｜"Don't—"｜无｜缺席的词：angry｜常配 26／29
+❌ "I'm still angry." → ✅ "Don't. Honestly. It's done, it's fine, I'd rather not."
+
+### V27. The Un-Namer（拒绝命名者）
+中等｜全用代词｜回避＝拒绝说出那个词（机制 25）｜无｜无｜缺席的词：cancer／died／divorce｜常配 25／28
+❌ "Since my wife died." → ✅ "Since — since everything. I haven't really been back."
+
+**【配置规则】** 一部戏里的主要角色，**回避方式（第 3 维）必须两两不同**，这是最容易撞车也最致命的一维。若两个角色都用 V11 的转移到物，观众会觉得他们是同一个人。其次检查句长（第 1 维）与幽默类型（第 5 维），至少再分开一维。
+
+**【中文转译】** 原型本身可移植，六维方法在中文里完全成立。需要替换的只有第 4 维填充词（中文用"我跟你说""不是""哎""你听我说"）和第 6 维缺席的词（中文的高价值缺席词是"对不起""谢谢""我错了""我想你"）。V2 体制人、V9 信徒、V12 管家型、V15 缺席的父母在中文语境里尤其高频。
+
+==================================================
 附：来源、方法与使用边界
 ==================================================
 
@@ -626,6 +828,6 @@ AI 写的英文对白最大的可识别特征是**句子都一样长、都语法
 
 **版权边界**：不整段复制任何剧集对白进正文；不复制标志性台词组合；机制是通用手艺，不受版权保护，具体台词受保护——学的是前者。
 
-**已知缺口（下一版补）**：本版偏当代美剧（约 2000 年后），对时代剧语域、英式对白（英美差异不小）、单机位与多机位喜剧的语法差异、以及非白人角色群体的语域多样性覆盖不足。第七部分类型语域只覆盖 8 类，尚缺教育、宗教、体育、金融交易、军法等。声纹原型库（中文库有 132 条）本版未建，只给了建立流程。
+**已知缺口（下一版补）**：本版偏当代美剧（约 2000 年后），对**时代剧语域**（1950s／1970s 的句法与禁忌词差异）、**英式对白**（英美在礼貌策略、反讽密度、阶级标记上差异不小，不可混用）、**单机位与多机位喜剧的语法差异**（多机位需要 punchline 落在句尾并留笑声位）、以及**非白人角色群体的语域多样性**覆盖不足——后者尤其重要，用通用中性语域写非白人角色是常见且明显的失败。第七部分类型语域已扩至 16 类，仍缺急救调度、法医、航空管制、体力劳动行业等。声纹原型库已建 27 个原型（第十一部分），但只到原型层，未做跨作品的具体角色比对。
 
-**版本**：EN-V1，76 个机制／8 类场景语域／10 类场景速查／1 张声纹卡。
+**版本**：EN-V1.1，84 个机制／16 类类型语域／15 类场景速查／27 个声纹原型／1 张声纹卡。
