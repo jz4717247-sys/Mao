@@ -1,12 +1,12 @@
 #!/bin/bash
-# blockbuster-classic-story-studio v6.1 安装脚本
+# fusion-story-director-studio v7.0 安装脚本
 # 用法：先 clone 本仓库，在仓库根目录执行  bash install.sh
 set -e
 
 # 定位仓库根（脚本所在目录）
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-SRC="$REPO_DIR/skills/blockbuster-classic-story-studio"
-DEST="$HOME/.claude/skills/blockbuster-classic-story-studio"
+SRC="$REPO_DIR/skills/fusion-story-director-studio"
+DEST="$HOME/.claude/skills/fusion-story-director-studio"
 
 if [ ! -f "$SRC/SKILL.md" ]; then
   echo "找不到 $SRC/SKILL.md —— 请在 clone 下来的仓库根目录运行本脚本。" >&2
@@ -17,7 +17,7 @@ mkdir -p "$HOME/.claude/skills"
 rm -rf "$DEST"
 cp -r "$SRC" "$DEST"
 
-echo "blockbuster-classic-story-studio v6.1 安装完成。"
+echo "fusion-story-director-studio v7.0 安装完成。"
 echo ""
 echo "Skill: $DEST"
 echo ""
