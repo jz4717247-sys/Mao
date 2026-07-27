@@ -6,7 +6,9 @@
 
 **要别的**（想点子／深挖人物／诊断改稿／做改编／写竖屏或网文）→ 说清楚要什么，走 `fusion-story-director-studio`。
 
-就这两条。不用记路径名、不用记引擎编号。
+**要写长片或传统剧集**（90 分钟电影、多集剧集、5–10 分钟叙事短片）→ 走 `screenwriting-master`（第三方，@山音 出品）。
+
+⚠️ **触发冲突提醒**：`screenwriting-master` 的描述写了「即使用户只是说『帮我想个故事』『写个剧本』也应触发」，触发面很宽，可能抢走本该给另外两个的请求。**要用哪个就直接点名**，例如「用 ai-us-drama-writer 写一集」。
 
 ---
 
@@ -17,6 +19,9 @@ skills/
   ai-us-drama-writer/               ★ 生产线：概念 → 可直接投喂模型的 AI 美剧单集
     SKILL.md                        零路由、三步走、自带 AI 硬约束与美式排查
 
+  screenwriting-master/             第三方：@山音 全格式编剧（超短片/短片/长片/剧集）
+    SKILL.md ＋ references/         MIT，原样收录，见 ATTRIBUTION.md
+
   fusion-story-director-studio/     工作室：创意/开发/诊断/改编/导演/多媒介
     SKILL.md                        主控：五层架构、A–R 路由、22 引擎、质量门
     references/
@@ -26,7 +31,26 @@ skills/
       爽点账本_V1.md                按需加载：爽点六零件＋七种假爽点＋改编存活核对
 ```
 
-**怎么选**：要出活、要能直接生成 → `ai-us-drama-writer`。要想点子、要深挖人物、要诊断改稿、要做改编或其他媒介 → `fusion-story-director-studio`。两者并存，产出格式兼容，可以先用前者出片、卡住了再拿去后者深做。
+**怎么选**：
+
+| 你要做的 | 用哪个 |
+|---|---|
+| AI 美剧/出海短剧单集，要形象锁、可生成性约束、逐镜 Prompt | `ai-us-drama-writer` |
+| 想点子、深挖人物（心因驱动）、诊断改稿、IP 改编、竖屏/网文/广告 | `fusion-story-director-studio` |
+| 90 分钟长片、多集剧集、5–10 分钟叙事短片 | `screenwriting-master` |
+
+前两个是本仓库自研，产出格式兼容，可以先用前者出片、卡住了拿去后者深做。第三个是第三方收录。
+
+---
+
+## 关于 screenwriting-master（第三方）
+
+原样收录自 [Shanyin-ai/shanyin-screenwriting-master](https://github.com/Shanyin-ai/shanyin-screenwriting-master)，作者 **@山音**，MIT 许可，未做任何改动。完整来源与条款见 `skills/screenwriting-master/ATTRIBUTION.md`。
+
+**使用条款**（依原作者声明）：可自由用于个人或商业剧本创作、可自行修改；但**必须保留 @山音 署名**，且**禁止将该 Skill 本身二次售卖或作为付费产品核心组件**。
+
+**它比自研两个强在哪**：长片与剧集的编剧法更深——人物弧光、双轨节奏、记忆检查点系统、跨格式技法借鉴、按格式缩放的深度控制。
+**它没有的**：AI 可生成性约束、角色形象锁、逐镜 Prompt、出海双语格式、美式质感排查。这些在 `ai-us-drama-writer` 里。
 
 ---
 

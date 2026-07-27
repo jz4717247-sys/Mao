@@ -35,8 +35,16 @@ fi
 echo ""
 echo "共安装 $installed 个 skill 到 $SKILLS_DEST"
 echo ""
-find "$SKILLS_DEST" -type f -name '*.md' | sed "s|$HOME|~|" | sort
-echo ""
-echo "重启 Claude Code 后生效。"
-echo "  · ai-us-drama-writer          直接开工：概念 → 可生成的 AI 美剧单集"
-echo "  · fusion-story-director-studio 全链路：创意策划 / 深度开发 / 诊断 / 改编 / 其他媒介"
+echo "重启 Claude Code 后生效。已安装的 skill："
+for src in "$SKILLS_SRC"/*/; do
+  name="$(basename "$src")"
+  [ -f "$src/SKILL.md" ] || continue
+  # description 可能写在同一行，也可能是 YAML 块标量（> 或 |）跟在下一行
+  desc="$(awk '/^description:/{
+      sub(/^description:[ ]*/,"");
+      if ($0 ~ /^[>|]/ || $0 == "") { getline; sub(/^[ ]+/,"") }
+      print; exit
+    }' "$src/SKILL.md")"
+  files="$(find "$SKILLS_DEST/$name" -type f | wc -l | tr -d ' ')"
+  printf "  · %-30s (%s 个文件) %s\n" "$name" "$files" "$(echo "$desc" | cut -c1-52)"
+done
