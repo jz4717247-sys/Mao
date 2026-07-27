@@ -1,26 +1,42 @@
 #!/bin/bash
-# fusion-story-director-studio v7.0 安装脚本
+# 安装脚本：把本仓库的 skills 复制到 ~/.claude/skills/
 # 用法：先 clone 本仓库，在仓库根目录执行  bash install.sh
 set -e
 
-# 定位仓库根（脚本所在目录）
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-SRC="$REPO_DIR/skills/fusion-story-director-studio"
-DEST="$HOME/.claude/skills/fusion-story-director-studio"
+SKILLS_SRC="$REPO_DIR/skills"
+SKILLS_DEST="$HOME/.claude/skills"
 
-if [ ! -f "$SRC/SKILL.md" ]; then
-  echo "找不到 $SRC/SKILL.md —— 请在 clone 下来的仓库根目录运行本脚本。" >&2
+if [ ! -d "$SKILLS_SRC" ]; then
+  echo "找不到 $SKILLS_SRC —— 请在 clone 下来的仓库根目录运行本脚本。" >&2
   exit 1
 fi
 
-mkdir -p "$HOME/.claude/skills"
-rm -rf "$DEST"
-cp -r "$SRC" "$DEST"
+mkdir -p "$SKILLS_DEST"
 
-echo "fusion-story-director-studio v7.0 安装完成。"
+installed=0
+for src in "$SKILLS_SRC"/*/; do
+  name="$(basename "$src")"
+  if [ ! -f "$src/SKILL.md" ]; then
+    echo "跳过 $name（没有 SKILL.md）" >&2
+    continue
+  fi
+  rm -rf "${SKILLS_DEST:?}/$name"
+  cp -r "$src" "$SKILLS_DEST/$name"
+  echo "已安装：$name"
+  installed=$((installed + 1))
+done
+
+if [ "$installed" -eq 0 ]; then
+  echo "没有安装任何 skill —— skills/ 下没有找到含 SKILL.md 的目录。" >&2
+  exit 1
+fi
+
 echo ""
-echo "Skill: $DEST"
+echo "共安装 $installed 个 skill 到 $SKILLS_DEST"
 echo ""
-find "$DEST" -type f | sed "s|$HOME|~|" | sort
+find "$SKILLS_DEST" -type f -name '*.md' | sed "s|$HOME|~|" | sort
 echo ""
-echo "重启 Claude Code 后生效。该 Skill 为自包含单文件（SKILL.md），无需额外 reference。"
+echo "重启 Claude Code 后生效。"
+echo "  · ai-us-drama-writer          直接开工：概念 → 可生成的 AI 美剧单集"
+echo "  · fusion-story-director-studio 全链路：创意策划 / 深度开发 / 诊断 / 改编 / 其他媒介"
