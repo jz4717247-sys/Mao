@@ -88,6 +88,16 @@ cuffs, silver bottle-opener keyring on belt loop
 
 立项卡阶段可行性判为「低」的概念**不许进入下一步**，先改概念。低可行性题材的改造思路：对话戏改成信息物证戏（文件、照片、监控），群戏改成连续单人反应镜，动作改成动作前后与反应（起势→切→结果，不拍过程）。
 
+**4. 借鉴开源同类项目**（均 MIT，已在 SKILL.md 注明来源）
+
+| 来源 | 借了什么 |
+|---|---|
+| [script-to-shootable-storyboard](https://github.com/zyz254009-crypto/script-to-shootable-storyboard) | **四级修改权限**（faithful/visual/pacing/story，默认 faithful——「优化一下」不等于「重写剧情」）、**事实账本**（原文事实 vs 我方补充分开记，补充项必须单列确认）、**原子镜头合同**（一个连续时空／一个主导景别／一个行动单元／一个运镜，首尾状态接龙）、**九条拆镜触发器** |
+| [shanyin-screenwriting-master](https://github.com/Shanyin-ai/shanyin-screenwriting-master) | **双轨节奏**——外部情节节奏（事件密度）× 内在情感节奏（情感起伏），两条可错位，**错位本身是叙事工具** |
+| [ViMax](https://github.com/HKUDS/ViMax) | 作为下游生成框架的对接目标 |
+
+**5. 格式转换**：双语稿是唯一事实源，要接生态时导出——标准 screenplay 喂 ViMax 这类 Script2Video；Fountain 可经 [screenplay-tools](https://github.com/wildwinter/screenplay-tools) 转 FDX／PDF。**△行在交付稿不译、在导出稿必译**，这是两种用途。导出稿改了不回流。
+
 ### 配置
 
 `market`：`cn` 中文对白（国内平台，但行为逻辑全走美式）／`en` 英文原生／`bi` 双语对照。另有 `duration`／`episodes`／`genre`／`region`（**必须指定，不得写"泛美国"**）／`tool`／`shot_max`。
