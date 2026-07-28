@@ -1,5 +1,5 @@
 #!/bin/bash
-# jiang-writer v2.1 安装脚本
+# jiang-writer v2.4 安装脚本
 # 用法：先 clone 本仓库，在仓库根目录执行  bash install.sh
 set -e
 
@@ -17,7 +17,7 @@ mkdir -p "$HOME/.claude/skills"
 rm -rf "$DEST"
 cp -r "$SRC" "$DEST"
 
-echo "jiang-writer v2.1 安装完成。"
+echo "jiang-writer v2.4 安装完成。"
 echo ""
 echo "Skill: $DEST"
 echo ""

@@ -1,0 +1,82 @@
+{
+  "schema": "jiang-writer/project-state",
+  "skillVersion": "2.4",
+  "updatedAt": "",
+
+  "project": {
+    "title": "",
+    "format": "",
+    "serialization": "",
+    "episodeLength": "",
+    "seasonEpisodes": 0,
+    "platform": "",
+    "genre": [],
+    "tone": "",
+    "rating": "",
+    "audience": "",
+    "language": "zh-CN",
+    "deliveryFormat": ""
+  },
+
+  "canonLock": {
+    "confirmedAt": "",
+    "characters": [
+      {
+        "name": "",
+        "role": "",
+        "want": "",
+        "blindSpot": "",
+        "fixedFacts": []
+      }
+    ],
+    "relationships": [],
+    "worldRules": [],
+    "timeline": [],
+    "endingDirection": "",
+    "forbiddenTerritory": [],
+    "openAssumptions": []
+  },
+
+  "artifacts": {
+    "seriesBible": null,
+    "seasonBoard": null,
+    "continuityLedger": null,
+    "deviceLedger": null,
+    "voiceCards": {},
+    "outlines": {},
+    "scripts": {},
+    "exports": []
+  },
+
+  "progress": {
+    "episodes": [
+      {
+        "n": 1,
+        "outline": "none",
+        "script": "none",
+        "critic": "none",
+        "voice": "none",
+        "humanize": "none",
+        "continuity": "none",
+        "device": "none",
+        "compliance": "n/a",
+        "director": "n/a",
+        "note": ""
+      }
+    ],
+    "lastCrossEpisodeReview": 0,
+    "staleReason": ""
+  },
+
+  "decisions": {
+    "showrunnerRulings": [],
+    "deferred": [],
+    "droppedThreads": []
+  },
+
+  "humanize": {
+    "defaultLevel": null,
+    "lastRunAt": null,
+    "lastHitDensity": null
+  }
+}

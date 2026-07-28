@@ -17,7 +17,9 @@ description: Develop, diagnose, rewrite, and production-prepare episodic screen 
 | 写 Outline、Beat Sheet、场景或完整剧本 | 创作 | 干净正文；必要时另附简短假设 |
 | “看看问题”“只审查” | 诊断 | 证据、影响、优先级；不改正文 |
 | “检查并修改”“去 AI 味” | 诊断＋修订 | 问题摘要、干净修订稿、修改说明 |
+| 批量去 AI 味、润色对白、整集或多集过一遍 | 剧本医生 | 命中密度、分档修订稿、改动与未改清单 |
 | 检查人物台词是否可区分 | 声纹 | 声纹诊断；按要求提供修订版 |
+| “接着上次”“继续写”“这个项目做到哪了” | 续写 | 进度与 canon 汇报，再问本轮做什么 |
 | 汇总 Notes、拍板或决定能否进下一稿 | Showrunner | 明确裁决、修改顺序、Go/No-Go |
 | 导演稿、可拍性、预算或 AI 视频适配 | 制作 | 制作风险、覆盖方案、必要的剧本调整 |
 | “完整 Writers' Room 流程” | 全流程 | Writer → Critic → Voice → Continuity → Showrunner；制作 Pass 按需加入 |
@@ -86,6 +88,8 @@ description: Develop, diagnose, rewrite, and production-prepare episodic screen 
 
 扫描常见问题时读 [ai-patterns.md](references/ai-patterns.md)。不得仅因字面命中就删除一句台词，也不得在未获用户同意时自动改写 Skill 的规则库。
 
+要**批量执行**去 AI 味（整集、多集、"帮我润一遍对白"）时，另读 [humanize-pass.md](references/humanize-pass.md)：`ai-patterns.md` 管识别，它管执行——先测命中密度决定该不该改，再按 L1 句内／L2 场内／L3 结构三档改动半径执行。命中密度超过三成时病因在结构层，转 critic-pass，不要逐句润色。本 Skill 不做反检测。
+
 ## 连续性与长线管理
 
 涉及两集以上、复杂悬念或多人关系时，读取 [continuity-and-story-ledger.md](references/continuity-and-story-ledger.md)，维护：
@@ -101,12 +105,15 @@ description: Develop, diagnose, rewrite, and production-prepare episodic screen 
 
 季集数超过五集时，默认每完成五集 Outline 或 Script 做一次跨集审查（含装置账本核对），但把报告与干净正文分开。
 
+跨会话的多集项目读取 [project-state.md](references/project-state.md)，维护 `.jiang-state.json`：形态约束、canon lock、产物路径、逐集 pass 状态、Showrunner 裁决。会话结束后 canon 不再依赖对话上下文——这是断点续写的主要价值。状态文件**只记录已经发生了什么，不规定接下来必须做什么**；不得因为它显示某份前置文档缺失就拒绝写稿或要求用户补做。改上游时按该文的陈旧传播规则标记下游 stale；状态与实际文件冲突时以文件为准。
+
 ## 修订与编剧室 Pass
 
 需要多轮修订时读 [revision-room.md](references/revision-room.md)，并按需加载：
 
 - [critic-pass.md](references/critic-pass.md)：证据化诊断，不强行凑问题。
 - [voice-pass.md](references/voice-pass.md)：声纹与关系语态检查。
+- [humanize-pass.md](references/humanize-pass.md)：批量去 AI 味；分档改动半径，改完横向复核声纹。
 - [showrunner-pass.md](references/showrunner-pass.md)：处理相互冲突的 Notes；用户保留最终创作决定权。
 - [director-pass.md](references/director-pass.md)：真人制作或 AI 视频制作的可拍性检查。
 
@@ -150,3 +157,4 @@ description: Develop, diagnose, rewrite, and production-prepare episodic screen 
 - [Character Voice Card](assets/templates/character-voice-card.md)
 - [Continuity Ledger](assets/templates/continuity-ledger.md)
 - [Script Notes](assets/templates/script-notes.md)
+- [Project State（跨会话状态文件）](assets/templates/project-state.json)
