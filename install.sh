@@ -8,7 +8,7 @@ REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 DEST_ROOT="$HOME/.claude/skills"
 
 # 要安装的 skill 列表
-SKILLS=(jiang-writer screenwriting-master)
+SKILLS=(jiang-writer screenwriting-master director-master)
 
 mkdir -p "$DEST_ROOT"
 
@@ -33,3 +33,4 @@ echo ""
 echo "重启 Claude Code 后生效。"
 echo "  - jiang-writer：美剧 Writers' Room + 竖屏微短剧工作流"
 echo "  - screenwriting-master：全格式编剧（概念超短片 / 短片 / 90 分钟长片 / 多集剧集）"
+echo "  - director-master：导演视听（定调 / 节奏 / 分镜拆解 → 九列分镜表 xlsx）"

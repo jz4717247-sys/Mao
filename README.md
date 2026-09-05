@@ -1,11 +1,12 @@
 # Mao — 编剧 Skill 合集
 
-本仓库现在收录两个可装进 Claude Code 的编剧 Skill：
+本仓库现在收录三个可装进 Claude Code 的编剧 / 导演 Skill：
 
 - **`skills/jiang-writer`**（v2.3）——美剧 Writers' Room 工作流 + 竖屏微短剧模块（本仓库自研，详见下文）。
 - **`skills/screenwriting-master`**——**山音超级编剧大师**，由 [@山音](https://github.com/Shanyin-ai) 设计的全格式编剧 Skill，整体引入自开源仓库 [Shanyin-ai/shanyin-screenwriting-master](https://github.com/Shanyin-ai/shanyin-screenwriting-master)（MIT，见 `skills/screenwriting-master/LICENSE`）。覆盖概念超短片（how-to-tell / what-if）、5-10 分钟叙事短片、90 分钟长片（商业 / 文艺）、多集剧集四种格式，从人物设计、结构大纲、场景拆解到完整剧本的全流程。触发：`用 screenwriting-master 帮我写个 what-if 概念短片`。
+- **`skills/director-master`**——**山音超级导演大师**，同为 [@山音](https://github.com/Shanyin-ai) 设计、与编剧大师联动的导演视听 Skill，整体引入自开源仓库 [Shanyin-ai/shanyin-director-master](https://github.com/Shanyin-ai/shanyin-director-master)（MIT，见 `skills/director-master/LICENSE`）。从剧本出发完成导演定调→节奏规划→剧本微调→分镜拆解，最终输出标准九列分镜表（xlsx）；内置数十种类型的导演风格模板库，支持类型交叉。触发：`用 director-master 帮我把这场戏拆分镜`。
 
-两个 Skill 定位互补：`jiang-writer` 偏「编剧室诊断/修订 + 竖屏投流爽剧运营」，`screenwriting-master` 偏「全格式从 0 到 1 的成片剧本」。`bash install.sh` 会一次装好两个。
+三个 Skill 定位互补：`jiang-writer` 偏「编剧室诊断/修订 + 竖屏投流爽剧运营」，`screenwriting-master` 偏「全格式从 0 到 1 的成片剧本」，`director-master` 偏「剧本 → 可落地拍摄方案 / 分镜」。`bash install.sh` 会一次装好三个。
 
 ---
 
@@ -62,7 +63,7 @@ skills/jiang-writer/
 
 ```bash
 git clone <本仓库> && cd Mao
-bash install.sh          # 复制 skills/jiang-writer 与 skills/screenwriting-master 到 ~/.claude/skills/
+bash install.sh          # 复制 jiang-writer / screenwriting-master / director-master 到 ~/.claude/skills/
 ```
 
 装完重启 Claude Code。（v2.1 文件数较多，安装脚本改为从 clone 的仓库复制，不再是可粘贴的自包含脚本。）
