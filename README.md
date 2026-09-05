@@ -1,3 +1,14 @@
+# Mao — 编剧 Skill 合集
+
+本仓库现在收录两个可装进 Claude Code 的编剧 Skill：
+
+- **`skills/jiang-writer`**（v2.3）——美剧 Writers' Room 工作流 + 竖屏微短剧模块（本仓库自研，详见下文）。
+- **`skills/screenwriting-master`**——**山音超级编剧大师**，由 [@山音](https://github.com/Shanyin-ai) 设计的全格式编剧 Skill，整体引入自开源仓库 [Shanyin-ai/shanyin-screenwriting-master](https://github.com/Shanyin-ai/shanyin-screenwriting-master)（MIT，见 `skills/screenwriting-master/LICENSE`）。覆盖概念超短片（how-to-tell / what-if）、5-10 分钟叙事短片、90 分钟长片（商业 / 文艺）、多集剧集四种格式，从人物设计、结构大纲、场景拆解到完整剧本的全流程。触发：`用 screenwriting-master 帮我写个 what-if 概念短片`。
+
+两个 Skill 定位互补：`jiang-writer` 偏「编剧室诊断/修订 + 竖屏投流爽剧运营」，`screenwriting-master` 偏「全格式从 0 到 1 的成片剧本」。`bash install.sh` 会一次装好两个。
+
+---
+
 # jiang-writer v2.3
 
 美剧 Writers' Room 编剧工作流，装进 Claude Code。**在美剧底座上补了竖屏微短剧模块**——既能开发/诊断/修订美剧规格的剧集，也能写抖音/快手的竖屏投流爽剧（重生、逆袭、打脸、甜宠、马甲）。v2.2 补上运营侧：全剧节奏波形、爽感配比、付费卡点、内容合规。v2.3 补上防重复引擎：冲突装置账本、R0-R3 分级、冷却配额、变奏升级、同质化红线——治多集剧最大的弃剧原因「换皮重复」。
@@ -51,7 +62,7 @@ skills/jiang-writer/
 
 ```bash
 git clone <本仓库> && cd Mao
-bash install.sh          # 复制 skills/jiang-writer 到 ~/.claude/skills/
+bash install.sh          # 复制 skills/jiang-writer 与 skills/screenwriting-master 到 ~/.claude/skills/
 ```
 
 装完重启 Claude Code。（v2.1 文件数较多，安装脚本改为从 clone 的仓库复制，不再是可粘贴的自包含脚本。）
