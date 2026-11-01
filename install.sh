@@ -26,7 +26,7 @@ for name in "${SKILLS[@]}"; do
   rm -rf "$DEST"
   cp -r "$SRC" "$DEST"
   find "$DEST" -name '__pycache__' -type d -prune -exec rm -rf {} +
-  echo "已安装 $name → ${DEST/#$HOME/~}（$(find "$DEST" -type f | wc -l) 个文件）"
+  echo "已安装 $name → ${DEST/#$HOME/\~}（$(find "$DEST" -type f | wc -l) 个文件）"
 done
 
 echo ""
