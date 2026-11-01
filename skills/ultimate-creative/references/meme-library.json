@@ -1,0 +1,7487 @@
+{
+  "schema_version": 2,
+  "verified_at": "2026-10-09",
+  "scope": "现代中文网络表达与历史常用语储备；不代表全网热榜",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "爱你老己背后的自我关怀",
+      "url": "https://www.news.cn/20260131/988a3123e33d4cca830af46d70685c76/c.html",
+      "published_at": "2026-01-31",
+      "kind": "news_report",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S02",
+      "title": "2026表达语义指南（不采用其热度星级）",
+      "url": "https://www.lingoace.com/zh/blog/internet-slang/",
+      "published_at": "2026-03-05",
+      "kind": "language_guide",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S03",
+      "title": "鸡排服务语句的抖音正文",
+      "url": "https://www.douyin.com/video/7555483126173338880",
+      "published_at": "2025-09-29",
+      "kind": "platform_post_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S04",
+      "title": "2025语言文字周报榜单与释义",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32162065",
+      "published_at": "2025-12-12",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S05",
+      "title": "2025国家语言资源监测中心用语释义",
+      "url": "https://www.chinanews.com/m/sh/2025/12-12/10532135.shtml",
+      "published_at": "2025-12-12",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S06",
+      "title": "2025咬文嚼字释义",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32085637",
+      "published_at": "2025-12-02",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S07",
+      "title": "2025青年热词释义",
+      "url": "https://www.thepaper.cn/newsDetail_forward_32247971",
+      "published_at": "2025-12-25",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S08",
+      "title": "2026从夯到拉实际评价用法",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32601061",
+      "published_at": "2026-02-13",
+      "kind": "usage_article",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S09",
+      "title": "二旬老人语义解释",
+      "url": "https://bao1.laoren.com/html/2025-12/04/content_3182590.htm",
+      "published_at": "2025-12-04",
+      "kind": "language_column",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S10",
+      "title": "纯过日子人现象报道",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34037602",
+      "published_at": "2026-09-11",
+      "kind": "usage_article",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S11",
+      "title": "2025语境盘点（不采用评论价值判断）",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32206077",
+      "published_at": "2025-12-21",
+      "kind": "context_report",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S12",
+      "title": "2024网络词释义",
+      "url": "https://www.thepaper.cn/newsDetail_forward_29694212",
+      "published_at": "2024-12-20",
+      "kind": "context_report",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S13",
+      "title": "2024多版本榜单汇总",
+      "url": "https://finance.sina.com.cn/wm/2024-12-25/doc-ineaswif0471972.shtml",
+      "published_at": "2024-12-25",
+      "kind": "annual_list",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S14",
+      "title": "2024国家网络用语释义",
+      "url": "https://www.thepaper.cn/newsDetail_forward_29626936?commTag=true",
+      "published_at": "2024-12-12",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S15",
+      "title": "2023语言文字周报释义",
+      "url": "https://m.thepaper.cn/newsDetail_forward_25584310",
+      "published_at": "2023-12-08",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S16",
+      "title": "2023国家网络用语释义",
+      "url": "https://www.thepaper.cn/newsDetail_forward_25629246",
+      "published_at": "2023-12-12",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S17",
+      "title": "2022语言文字周报释义",
+      "url": "https://www.thepaper.cn/newsDetail_forward_21092208",
+      "published_at": "2022-12-09",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S18",
+      "title": "2021国家网络用语释义",
+      "url": "https://www.thepaper.cn/newsDetail_forward_15733676",
+      "published_at": "2021-12-07",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S19",
+      "title": "2021语言文字周报释义及延伸表达",
+      "url": "https://m.thepaper.cn/newsDetail_forward_15782003",
+      "published_at": "2021-12-10",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S20",
+      "title": "2020人字类热词采访文字",
+      "url": "https://www.chinanews.com/m/sh/shipin/cns/2020/12-21/news875705.shtml",
+      "published_at": "2020-12-21",
+      "kind": "interview_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S21",
+      "title": "2020内卷与凡尔赛语境",
+      "url": "https://www.chinanews.com/gn/2020/12-30/9374481.shtml",
+      "published_at": "2020-12-30",
+      "kind": "context_report",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S22",
+      "title": "2018流行语释义",
+      "url": "https://www.chinanews.com/sh/2018/12-03/8691351.shtml",
+      "published_at": "2018-12-03",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S23",
+      "title": "潜水囧事中的已老实及嘻嘻反转",
+      "url": "https://m.thepaper.cn/newsDetail_forward_28027219",
+      "published_at": "2024-07-11",
+      "kind": "platform_author_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S24",
+      "title": "尊嘟假嘟文字含义及实际用法",
+      "url": "https://m.thepaper.cn/newsDetail_forward_24909812",
+      "published_at": "2023-10-12",
+      "kind": "institution_post_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S25",
+      "title": "质疑理解成为的行为转变",
+      "url": "https://m.thepaper.cn/baijiahao_27302623",
+      "published_at": "2024-05-08",
+      "kind": "context_report",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S26",
+      "title": "为i做e的关系语境",
+      "url": "https://m.thepaper.cn/newsDetail_forward_25915117",
+      "published_at": "2024-01-08",
+      "kind": "context_report",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S27",
+      "title": "旅游吃饭找搭子实际采访",
+      "url": "https://www.sd.news.cn/20230522/b70f1ee42f604888a4168d9921d17d04/c.html",
+      "published_at": "2023-05-22",
+      "kind": "interview_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S28",
+      "title": "电子榨菜含义及文字场景",
+      "url": "https://m.thepaper.cn/newsDetail_forward_29607937",
+      "published_at": "2024-12-11",
+      "kind": "institution_post_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S29",
+      "title": "听劝如何转化成行动",
+      "url": "https://m.thepaper.cn/newsDetail_forward_27132786",
+      "published_at": "2024-04-24",
+      "kind": "context_report",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S30",
+      "title": "爆改自我及行动采访",
+      "url": "https://education.news.cn/20240701/d5e60c369a604aa5ab92d09e0f2932b3/c.html",
+      "published_at": "2024-07-01",
+      "kind": "interview_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S31",
+      "title": "上岸平替精神进补等搜索词语义",
+      "url": "https://www.news.cn/tech/20231227/27d5252eeef046039fa76dc8529ee8d1/c.html",
+      "published_at": "2023-12-27",
+      "kind": "search_report",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S32",
+      "title": "鸡排语句的四川文旅文字用法",
+      "url": "https://www.douyin.com/video/7555317929127005492",
+      "published_at": "2025-09-29",
+      "kind": "platform_post_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S33",
+      "title": "辞职研究泡面视频的抖音文字用法",
+      "url": "https://jingxuan.douyin.com/m/video/7634537689928174888",
+      "published_at": "2026-05-01",
+      "kind": "platform_post_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S34",
+      "title": "不讲不讲聚合解释（ASR有错字）",
+      "url": "https://www.douyin.com/shipin/7584651634417666058",
+      "published_at": "2026-09-16",
+      "kind": "aggregate_ai_transcript",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S35",
+      "title": "曼妙句式聚合文字解释",
+      "url": "https://www.douyin.com/shipin/7603573659093256227",
+      "published_at": "2026-08-13",
+      "kind": "aggregate_ai_transcript",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S36",
+      "title": "AL战队从夯到拉实际文字用法",
+      "url": "https://weibo.com/6198774314/5283330448690172",
+      "published_at": "2026-04-02",
+      "kind": "indexed_platform_post",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S37",
+      "title": "2025校园表达实际采访",
+      "url": "https://www.chinanews.com/cul/2025/12-23/10538480.shtml",
+      "published_at": "2025-12-23",
+      "kind": "interview_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S38",
+      "title": "2025口语用法观察（不采用编辑立场）",
+      "url": "https://m.thepaper.cn/newsDetail_forward_32023216",
+      "published_at": "2025-11-24",
+      "kind": "context_report",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S39",
+      "title": "B站本轮八次公开搜索元数据",
+      "url": "https://api.bilibili.com/x/web-interface/search/all/v2",
+      "published_at": null,
+      "kind": "metadata_only",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S40",
+      "title": "我超威抖音标题线索",
+      "url": "https://jingxuan.douyin.com/m/video/7632037285059513635",
+      "published_at": "2026-04-24",
+      "kind": "title_only",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S41",
+      "title": "不烧心抖音标题线索",
+      "url": "https://www.douyin.com/video/7691988119721098218",
+      "published_at": null,
+      "kind": "title_only",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S42",
+      "title": "原用户文字片段",
+      "url": "conversation:user",
+      "published_at": null,
+      "kind": "user_fragment",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S43",
+      "title": "硬控和小孩哥姐的年度语义解读",
+      "url": "https://m.thepaper.cn/detail/29519550",
+      "published_at": "2024-12-02",
+      "kind": "annual_definition",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S44",
+      "title": "接好运的B站动态文字语境",
+      "url": "https://www.bilibili.com/opus/1008857078792454167",
+      "published_at": "2024-12-09",
+      "kind": "platform_post_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S45",
+      "title": "不烧心戏仿短剧的作者自述",
+      "url": "https://www.douyin.com/video/7691300010239085839",
+      "published_at": "2026-09-30",
+      "kind": "platform_post_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S46",
+      "title": "不烧心及规矩类语句的公开正文",
+      "url": "https://www.douyin.com/video/7691928455022288831",
+      "published_at": "2026-10-02",
+      "kind": "platform_post_text",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    },
+    {
+      "id": "S47",
+      "title": "此前发现池留存：近形及舞蹈候选",
+      "url": "/Users/yubowen/Documents/ChatGPT/剧本优化/构建终极剧本创作 Skill/网络热梗获取/current-index-before-20261009.json",
+      "published_at": null,
+      "kind": "previous_local_discovery",
+      "observed_at": "2026-10-09",
+      "original_audio_reviewed": false,
+      "origin_verified": false
+    }
+  ],
+  "cards": [
+    {
+      "id": "M001",
+      "family_id": "MF001",
+      "expression": "爱你老己",
+      "variants": [
+        "爱你老己，明天见"
+      ],
+      "kind": "term",
+      "meaning": "把自己当值得照顾的人",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2026-01-31",
+      "evidence": [
+        {
+          "source_id": "S01",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自我安抚"
+      ],
+      "voices": [
+        "温柔",
+        "自嘲"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色终于给自己留一份好东西",
+      "avoid": [
+        "别人刚受伤时只顾自己"
+      ],
+      "plain_alternative": "今天也该对自己好一点",
+      "adaptation_example": {
+        "text": "许穗收好最后一块布，给自己盛一碗热汤：老己，你这碗不用让。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2026-01-31",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "documented_2026",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M002",
+      "family_id": "MF002",
+      "expression": "低山臭水遇知音",
+      "variants": [
+        "低山臭水"
+      ],
+      "kind": "term",
+      "meaning": "以自贬表达怪趣投契",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2026-03-05",
+      "evidence": [
+        {
+          "source_id": "S02",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "认同同伴"
+      ],
+      "voices": [
+        "嘴贫",
+        "荒诞"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴"
+      ],
+      "trigger": "两人同时想到同一个歪办法",
+      "avoid": [
+        "陌生人的认真作品被贬低"
+      ],
+      "plain_alternative": "咱俩想到一块去了",
+      "adaptation_example": {
+        "text": "周燃看见程叙也拿着晾衣杆：要得，低山臭水，还遇到知音了。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2026-03-05",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "documented_2026",
+        "recent_title_leads": [
+          {
+            "work_id": "BV1MnpF6uEUU",
+            "url": "https://www.bilibili.com/video/BV1MnpF6uEUU/",
+            "title": "低山臭水遇知音 穷山恶水三子星！",
+            "published_at": "2026-10-06T08:27:08+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1GoaU63EUk",
+            "url": "https://www.bilibili.com/video/BV1GoaU63EUk/",
+            "title": "高武时代双子星，低山臭水遇知音",
+            "published_at": "2026-10-02T11:17:17+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1WzHR6DEuj",
+            "url": "https://www.bilibili.com/video/BV1WzHR6DEuj/",
+            "title": "低山臭水遇知音  穷凶极恶双子星！",
+            "published_at": "2026-10-08T17:40:03+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          }
+        ]
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M003",
+      "family_id": "MF003",
+      "expression": "不知道，我的身材很曼妙",
+      "variants": [],
+      "kind": "reaction_phrase",
+      "meaning": "用自夸躲开无关问题",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2026-03-05",
+      "evidence": [
+        {
+          "source_id": "S02",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "转移话题"
+      ],
+      "voices": [
+        "自恋",
+        "嘴硬"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "虚荣角色不想回答琐事",
+      "avoid": [
+        "追问责任或救命信息时"
+      ],
+      "plain_alternative": "这个先不说，你看我这身行吗",
+      "adaptation_example": {
+        "text": "唐烈拒绝八卦：战绩先不聊，鼻梁这块胶布贴得还是很有层次。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2026-03-05",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "documented_2026",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M004",
+      "family_id": "MF004",
+      "expression": "我去，不早说",
+      "variants": [],
+      "kind": "term",
+      "meaning": "信息到得太迟的抱怨",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2026-03-05",
+      "evidence": [
+        {
+          "source_id": "S02",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "埋怨迟报"
+      ],
+      "voices": [
+        "嘴贫",
+        "急性子"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色已付出可笑的重复劳动",
+      "avoid": [
+        "事前已告知却甩锅别人"
+      ],
+      "plain_alternative": "你怎么现在才告诉我",
+      "adaptation_example": {
+        "text": "周燃扛完六层楼才见电梯：我去，不早说。电梯还专门等我练完？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2026-03-05",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "documented_2026",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M005",
+      "family_id": "MF005",
+      "expression": "不讲不讲",
+      "variants": [
+        "不讲了"
+      ],
+      "kind": "term",
+      "meaning": "中断解释或尴尬回忆",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2026-03-05",
+      "evidence": [
+        {
+          "source_id": "S02",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        },
+        {
+          "source_id": "S34",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "打断话题"
+      ],
+      "voices": [
+        "护短",
+        "嘴硬"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "熟人提起自己的糗事",
+      "avoid": [
+        "用来堵住受害者或掩盖后果"
+      ],
+      "plain_alternative": "这段先别提了",
+      "adaptation_example": {
+        "text": "周燃按下自己的订单差评页：不讲不讲，客户都吃完了，菜还在接受批评。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2026-03-05",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "documented_2026",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M006",
+      "family_id": "MF006",
+      "expression": "我将辞职在家研究××",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "夸大研究某事的执念",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2026-05-01",
+      "evidence": [
+        {
+          "source_id": "S02",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        },
+        {
+          "source_id": "S33",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "夸张着迷"
+      ],
+      "voices": [
+        "较真",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "安全时面对难以解释的小物件",
+      "avoid": [
+        "真要辞职的重大选择"
+      ],
+      "plain_alternative": "这东西我得琢磨明白",
+      "adaptation_example": {
+        "text": "程叙盯着自动冒泡的丹炉：我想请半天假，研究它为什么只在我解释时开锅。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2026-05-01",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "documented_2026",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M007",
+      "family_id": "MF007",
+      "expression": "真没空陪你闹了",
+      "variants": [],
+      "kind": "term",
+      "meaning": "拒绝继续无效拉扯",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2026-03-05",
+      "evidence": [
+        {
+          "source_id": "S02",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "划清边界"
+      ],
+      "voices": [
+        "冷淡",
+        "直接"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色停止被熟人反复使唤",
+      "avoid": [
+        "第一次求救被视作闹事"
+      ],
+      "plain_alternative": "这次我不参与，你另找人",
+      "adaptation_example": {
+        "text": "岑默收回扳手：我修的是车。你们的感情漏油，另挂一个号。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2026-03-05",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "documented_2026",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M008",
+      "family_id": "MF008",
+      "expression": "这种场面我还是在控制",
+      "variants": [],
+      "kind": "reaction_phrase",
+      "meaning": "宣称自己能处理繁忙局面",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-09-29",
+      "evidence": [
+        {
+          "source_id": "S03",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        },
+        {
+          "source_id": "S32",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "装镇定"
+      ],
+      "voices": [
+        "嘴硬",
+        "控场"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "手忙脚乱但仍在维持秩序",
+      "avoid": [
+        "真正指挥失灵还作错误保证"
+      ],
+      "plain_alternative": "先排好队，我一件件处理",
+      "adaptation_example": {
+        "text": "杜圆夹着名单：这种场面我还是在控制。谁先把我围裙上的号牌摘下来？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-09-29",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M009",
+      "family_id": "MF009",
+      "expression": "请打开你的塑料袋",
+      "variants": [],
+      "kind": "term",
+      "meaning": "用正式语气安排简单服务动作",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-09-29",
+      "evidence": [
+        {
+          "source_id": "S03",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "指挥小事"
+      ],
+      "voices": [
+        "服务",
+        "郑重"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "交付、分发物品时过分郑重",
+      "avoid": [
+        "换了道具还原句照抄"
+      ],
+      "plain_alternative": "把袋口撑开，我放进去",
+      "adaptation_example": {
+        "text": "杜圆端起一只包子：请打开你的储物袋。放心，这个不用认主。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-09-29",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M010",
+      "family_id": "MF010",
+      "expression": "给我一次为你服务的机会",
+      "variants": [],
+      "kind": "reaction_phrase",
+      "meaning": "恳切争取提供服务",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-09-29",
+      "evidence": [
+        {
+          "source_id": "S03",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "争取机会"
+      ],
+      "voices": [
+        "热情",
+        "服务"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "小角色认真争取一笔小生意",
+      "avoid": [
+        "危险或拒绝后继续纠缠"
+      ],
+      "plain_alternative": "让我试一次，你不满意再换",
+      "adaptation_example": {
+        "text": "许穗举起补好的围裙：试试这针。扎不扎人，你自己说。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-09-29",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M011",
+      "family_id": "MF011",
+      "expression": "××基础，××不基础",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "前后比较突出反差",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S04",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        },
+        {
+          "source_id": "S05",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "反差点评"
+      ],
+      "voices": [
+        "嘴贫",
+        "审美"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "朴素外观配离谱功能",
+      "avoid": [
+        "替代关键设定说明"
+      ],
+      "plain_alternative": "外面看着普通，里面可不简单",
+      "adaptation_example": {
+        "text": "周燃抖开雨披：衣服基础，欠宗门的钱不基础。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M012",
+      "family_id": "MF012",
+      "expression": "邪修",
+      "variants": [],
+      "kind": "term",
+      "meaning": "离谱却有效的办法",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S04",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "评价野路子"
+      ],
+      "voices": [
+        "较真",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "土办法确实通过可见验证",
+      "avoid": [
+        "无代价万能法或真实危险教程"
+      ],
+      "plain_alternative": "这方法偏门，倒真管用",
+      "adaptation_example": {
+        "text": "程叙看着用饭盒作夹具：你炼器邪修，洗饭盒倒挺正统。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M013",
+      "family_id": "MF013",
+      "expression": "主理人",
+      "variants": [
+        "鸡排主理人"
+      ],
+      "kind": "term",
+      "meaning": "用负责人称谓包装自己的事业",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S04",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        },
+        {
+          "source_id": "S14",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "塑造身份"
+      ],
+      "voices": [
+        "郑重",
+        "虚荣"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "小摊老板试图抬高身份",
+      "avoid": [
+        "已经权威的人没原因自称"
+      ],
+      "plain_alternative": "这里归我负责",
+      "adaptation_example": {
+        "text": "周燃指向外卖箱：移动丹药配送主理人。简称，送外卖的。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M014",
+      "family_id": "MF014",
+      "expression": "高雅人士",
+      "variants": [],
+      "kind": "term",
+      "meaning": "以得体称号缓解狼狈",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S04",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "维持体面"
+      ],
+      "voices": [
+        "克制",
+        "自恋"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色明明窘迫却整理衣领",
+      "avoid": [
+        "需要复制企鹅动作原曲才能笑"
+      ],
+      "plain_alternative": "至少衣服还整齐",
+      "adaptation_example": {
+        "text": "唐烈扶正鼻梁胶布：高雅人士，先不碰这半边脸。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M015",
+      "family_id": "MF015",
+      "expression": "误闯天家",
+      "variants": [],
+      "kind": "term",
+      "meaning": "进入高门槛场合的窘迫",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S04",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲格格不入"
+      ],
+      "voices": [
+        "谨慎",
+        "自嘲"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "外行走进高手会议",
+      "avoid": [
+        "人物自己确有实力却强行降智"
+      ],
+      "plain_alternative": "这里的人比我懂得多",
+      "adaptation_example": {
+        "text": "周燃看着满桌炼器图：我送个餐，怎么误闯到你们答辩现场了？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M016",
+      "family_id": "MF016",
+      "expression": "当个事儿办",
+      "variants": [],
+      "kind": "term",
+      "meaning": "把小事情当正事处理",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S04",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "郑重小事"
+      ],
+      "voices": [
+        "郑重",
+        "控场"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "一个小需求被仪式化重视",
+      "avoid": [
+        "真人苦难被当鸡毛蒜皮"
+      ],
+      "plain_alternative": "这事我要认真办",
+      "adaptation_example": {
+        "text": "沈砚为晾衣杆贴封条：晾衣这件事，也得当个事儿办。上次扎到三个人。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M017",
+      "family_id": "MF017",
+      "expression": "拼好×",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "以拼单组合获得划算方案",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S04",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "讨价还价"
+      ],
+      "voices": [
+        "务实",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "资源真的可共享且各有贡献",
+      "avoid": [
+        "凑人头自动造出新力量"
+      ],
+      "plain_alternative": "我们合用这一份，各付各的",
+      "adaptation_example": {
+        "text": "周燃伸出伤腕：拼好丹我同意，拼好伤谁报名？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M018",
+      "family_id": "MF018",
+      "expression": "敬自己一杯",
+      "variants": [],
+      "kind": "term",
+      "meaning": "认可自己的努力",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S05",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自我安抚"
+      ],
+      "voices": [
+        "克制",
+        "温柔"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "劳累后的小仪式",
+      "avoid": [
+        "用举杯蒙太奇抹去创伤"
+      ],
+      "plain_alternative": "今天我也尽力了",
+      "adaptation_example": {
+        "text": "许穗把热水杯举到自己眼前：这杯，敬没把自己那份也送出去的我。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M019",
+      "family_id": "MF019",
+      "expression": "助我破鼎",
+      "variants": [],
+      "kind": "term",
+      "meaning": "请求共同突破困境",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S05",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "请求协作"
+      ],
+      "voices": [
+        "热血",
+        "直接"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "已经明确谁帮忙做哪一步",
+      "avoid": [
+        "复刻哪吒标志场景或替代具体战术"
+      ],
+      "plain_alternative": "帮我守住这两秒",
+      "adaptation_example": {
+        "text": "唐烈伸出手：破炉先别喊。谁替我把这边卡住？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M020",
+      "family_id": "MF020",
+      "expression": "千百次练习只为这一刻",
+      "variants": [],
+      "kind": "reaction_phrase",
+      "meaning": "重复练习终于等到兑现",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S05",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "宣告准备"
+      ],
+      "voices": [
+        "热血",
+        "郑重"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "技能已有铺垫且观众见过",
+      "avoid": [
+        "没练过却突然天才"
+      ],
+      "plain_alternative": "这动作我练了很久",
+      "adaptation_example": {
+        "text": "苗小满刚摆好起式，舞鞋带断了：练了千百遍，这根带子倒是第一次参加。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M021",
+      "family_id": "MF021",
+      "expression": "情绪价值",
+      "variants": [],
+      "kind": "term",
+      "meaning": "关系中得到的情感支持",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S05",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "表达需要"
+      ],
+      "voices": [
+        "温柔",
+        "较真"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色能说清要哪一种支持",
+      "avoid": [
+        "贴词就算理解了当事人"
+      ],
+      "plain_alternative": "你先听我讲完，别急着劝",
+      "adaptation_example": {
+        "text": "林鹿：我现在要的不是夸奖，是你别把画架拿走。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M022",
+      "family_id": "MF022",
+      "expression": "如何呢又能怎",
+      "variants": [],
+      "kind": "term",
+      "meaning": "轻松表面下接受无奈",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S05",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲接受"
+      ],
+      "voices": [
+        "冷淡",
+        "嘴硬"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "小挫折无法挽回但能行动",
+      "avoid": [
+        "面对重伤或损失劝别人认命"
+      ],
+      "plain_alternative": "这次认了，下一步再想办法",
+      "adaptation_example": {
+        "text": "岑默摸到少了一颗螺丝：如何呢，还得我拧。老板，工时加一。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M023",
+      "family_id": "MF023",
+      "expression": "来财",
+      "variants": [],
+      "kind": "term",
+      "meaning": "期待收入或好运",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-12",
+      "evidence": [
+        {
+          "source_id": "S05",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "愿望打气"
+      ],
+      "voices": [
+        "热情",
+        "务实"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "真的开摊、结账或盼单",
+      "avoid": [
+        "作法喊一句就无限进钱"
+      ],
+      "plain_alternative": "今天多来几单吧",
+      "adaptation_example": {
+        "text": "杜圆对空桌摆好筷子：来客，来财。先来一个能把账结了的。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M024",
+      "family_id": "MF024",
+      "expression": "预制××",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "批量模板化缺少个人反应",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-02",
+      "evidence": [
+        {
+          "source_id": "S06",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "讽刺套路"
+      ],
+      "voices": [
+        "较真",
+        "冷淡"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色发现不同人套同一话术",
+      "avoid": [
+        "所有规律化行为都被嘲讽"
+      ],
+      "plain_alternative": "这话像事先写好的",
+      "adaptation_example": {
+        "text": "林鹿看着同款安慰短信：你连停顿都预制了？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-02",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M025",
+      "family_id": "MF025",
+      "expression": "活人感",
+      "variants": [],
+      "kind": "term",
+      "meaning": "自然不完美的真实感",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-02",
+      "evidence": [
+        {
+          "source_id": "S06",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "肯定真实"
+      ],
+      "voices": [
+        "温柔",
+        "观察"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色露出未计划的小失误",
+      "avoid": [
+        "让角色自己反复声明很真实"
+      ],
+      "plain_alternative": "这样才像你平时的样子",
+      "adaptation_example": {
+        "text": "韩照看见程叙喝茶烫舌头：这回不用解释，你是真的觉得烫。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-02",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M026",
+      "family_id": "MF026",
+      "expression": "赛博对账",
+      "variants": [],
+      "kind": "term",
+      "meaning": "网上核对各自生活经历",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-02",
+      "evidence": [
+        {
+          "source_id": "S06",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "核对经验"
+      ],
+      "voices": [
+        "较真",
+        "观察"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "实际在网络上比对记录",
+      "avoid": [
+        "面对面算钱也无缘无故叫赛博"
+      ],
+      "plain_alternative": "把你那份记录发来，我比一下",
+      "adaptation_example": {
+        "text": "杜圆举手机：你说城东便宜三块？把收据拍清楚。咱们对的是账，不是气势。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-02",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M027",
+      "family_id": "MF027",
+      "expression": "谷子",
+      "variants": [],
+      "kind": "term",
+      "meaning": "二次元周边商品",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-02",
+      "evidence": [
+        {
+          "source_id": "S06",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "表达兴趣"
+      ],
+      "voices": [
+        "审美",
+        "热情"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "收藏爱好改变一次具体选择",
+      "avoid": [
+        "每个古代修士都懂现代圈词"
+      ],
+      "plain_alternative": "我收的是这个角色的周边",
+      "adaptation_example": {
+        "text": "叶芽把立牌护在怀里：袋子能湿，这位不能。他已经停产了。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-02",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M028",
+      "family_id": "MF028",
+      "expression": "初代同事",
+      "variants": [],
+      "kind": "term",
+      "meaning": "一起经历初入职场的同事",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-25",
+      "evidence": [
+        {
+          "source_id": "S07",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "回忆关系"
+      ],
+      "voices": [
+        "克制",
+        "温柔"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "共同旧经历影响眼前援助",
+      "avoid": [
+        "认识一天就套怀旧标签"
+      ],
+      "plain_alternative": "那年刚入行，是我们一起撑过来的",
+      "adaptation_example": {
+        "text": "岑默递出旧扳手：第一份工你教我认的。工资没教会我怎么要。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-25",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M029",
+      "family_id": "MF029",
+      "expression": "窝囊旅游",
+      "variants": [],
+      "kind": "term",
+      "meaning": "降低挑战换取安全舒服",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-25",
+      "evidence": [
+        {
+          "source_id": "S07",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲避险"
+      ],
+      "voices": [
+        "谨慎",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色诚实选择电梯代步",
+      "avoid": [
+        "嘲笑身体障碍者或救援选择"
+      ],
+      "plain_alternative": "我走省力那条路",
+      "adaptation_example": {
+        "text": "周燃按电梯：我今日窝囊修行。楼上是功德，爬楼是额外收费。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-25",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M030",
+      "family_id": "MF030",
+      "expression": "从夯到拉",
+      "variants": [
+        "夯爆了",
+        "拉完了"
+      ],
+      "kind": "term",
+      "meaning": "由极好到极差的评价分级",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2026-04-02",
+      "evidence": [
+        {
+          "source_id": "S08",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        },
+        {
+          "source_id": "S36",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "反差点评"
+      ],
+      "voices": [
+        "主播",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "评测实际完成的不同方案",
+      "avoid": [
+        "用排行榜压过人物真实努力"
+      ],
+      "plain_alternative": "这个最好，那个最差",
+      "adaptation_example": {
+        "text": "唐烈给三个沙袋评分：第一个夯，第二个拉。第三个先别评，里面有我钥匙。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2026-04-02",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "documented_2026",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M031",
+      "family_id": "MF031",
+      "expression": "请善待二旬老人",
+      "variants": [],
+      "kind": "term",
+      "meaning": "二十多岁自称老人",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-04",
+      "evidence": [
+        {
+          "source_id": "S09",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲疲惫"
+      ],
+      "voices": [
+        "自嘲",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "青年对新玩法不熟悉或累了",
+      "avoid": [
+        "年纪不符或贬低真正老人"
+      ],
+      "plain_alternative": "我才二十多，已经有点跟不上了",
+      "adaptation_example": {
+        "text": "周燃举起缠绷带的手：二旬老人今日单手营业，别再让我扫码开门。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-04",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M032",
+      "family_id": "MF032",
+      "expression": "纯过日子人",
+      "variants": [],
+      "kind": "term",
+      "meaning": "重心回到朴素日常",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2026-09-11",
+      "evidence": [
+        {
+          "source_id": "S10",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "拒绝包装"
+      ],
+      "voices": [
+        "务实",
+        "克制"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色不再迎合复杂人设",
+      "avoid": [
+        "借词让人物放弃已建立的目标"
+      ],
+      "plain_alternative": "我先把今天这顿饭做完",
+      "adaptation_example": {
+        "text": "许穗关掉灵根推销：我先过今天的日子。小童的粥还没煮。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2026-09-11",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "documented_2026",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M033",
+      "family_id": "MF033",
+      "expression": "丝瓜汤文学",
+      "variants": [],
+      "kind": "term",
+      "meaning": "用养生劝告回避情感冲突",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-21",
+      "evidence": [
+        {
+          "source_id": "S11",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "揭穿回避"
+      ],
+      "voices": [
+        "克制",
+        "观察"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "一方讲委屈另一方只谈吃什么",
+      "avoid": [
+        "照搬累子整段母子小品"
+      ],
+      "plain_alternative": "我说的是这件事，你别又劝我喝汤",
+      "adaptation_example": {
+        "text": "林鹿把碗放下：汤我喝了。现在能回答谁动了我的画吗？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-21",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M034",
+      "family_id": "MF034",
+      "expression": "回答我",
+      "variants": [],
+      "kind": "term",
+      "meaning": "重复要求正面回应",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-21",
+      "evidence": [
+        {
+          "source_id": "S11",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "质问责任"
+      ],
+      "voices": [
+        "直接",
+        "急性子"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色终于不再接受绕话",
+      "avoid": [
+        "无缘无故尖叫或模仿主播声线"
+      ],
+      "plain_alternative": "别换话题，正面回答",
+      "adaptation_example": {
+        "text": "唐烈：比赛名额谁卖的？看合同，回答这一个问题。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-21",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M035",
+      "family_id": "MF035",
+      "expression": "信××还是信我是秦始皇",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "以荒诞身份比喻离谱承诺",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-21",
+      "evidence": [
+        {
+          "source_id": "S11",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "拆穿夸口"
+      ],
+      "voices": [
+        "嘴贫",
+        "怀疑"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "对手拿不出可信证据",
+      "avoid": [
+        "历史真人身份戏直接照搬现代诈术梗"
+      ],
+      "plain_alternative": "这承诺没有证据，我不信",
+      "adaptation_example": {
+        "text": "周燃：丹药保终身？你信他，还是信我这外卖箱里住着玉皇大帝？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-21",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M036",
+      "family_id": "MF036",
+      "expression": "偷感很重",
+      "variants": [],
+      "kind": "term",
+      "meaning": "怕被关注的拘谨偷偷摸摸",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-20",
+      "evidence": [
+        {
+          "source_id": "S12",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "戳穿小心思"
+      ],
+      "voices": [
+        "观察",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "努力或小爱好被熟人发现",
+      "avoid": [
+        "把盗窃犯罪轻描淡写"
+      ],
+      "plain_alternative": "你做得这么小心，是怕我看见？",
+      "adaptation_example": {
+        "text": "苗小满看着阿岚藏起的新袖口：你缝得这么好，怎么展示得像来退货？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-20",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M037",
+      "family_id": "MF037",
+      "expression": "草台班子",
+      "variants": [],
+      "kind": "term",
+      "meaning": "显得专业却靠临时拼凑",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-20",
+      "evidence": [
+        {
+          "source_id": "S12",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "降低神秘权威"
+      ],
+      "voices": [
+        "怀疑",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色看到制度背后实际漏洞",
+      "avoid": [
+        "把危险失误当无后果笑料"
+      ],
+      "plain_alternative": "原来他们也是边做边补",
+      "adaptation_example": {
+        "text": "周燃读错三回门牌：宗门规模挺大，路牌全靠缘分。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-20",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M038",
+      "family_id": "MF038",
+      "expression": "水灵灵地××",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "强调令人意外的行为",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-20",
+      "evidence": [
+        {
+          "source_id": "S12",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "反差点评"
+      ],
+      "voices": [
+        "嘴贫",
+        "热情"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "看见人不声不响做了出格小事",
+      "avoid": [
+        "哀悼或严肃揭密时套模板"
+      ],
+      "plain_alternative": "你还真就这么做了",
+      "adaptation_example": {
+        "text": "叶芽看着空椅子：人还没到，你的行李就水灵灵地把座占了。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-20",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M039",
+      "family_id": "MF039",
+      "expression": "古希腊掌管××的神",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "将一项特长夸成神职",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-20",
+      "evidence": [
+        {
+          "source_id": "S12",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "夸张称赞"
+      ],
+      "voices": [
+        "嘴贫",
+        "主播"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "朋友在很具体的小事上突出",
+      "avoid": [
+        "故事真的有神职却制造设定混淆"
+      ],
+      "plain_alternative": "这方面你真厉害",
+      "adaptation_example": {
+        "text": "周燃看着杜圆的名单：古希腊掌管加菜的神。名单里怎么又有我？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-20",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M040",
+      "family_id": "MF040",
+      "expression": "红温",
+      "variants": [],
+      "kind": "term",
+      "meaning": "被气急后脸红",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-20",
+      "evidence": [
+        {
+          "source_id": "S12",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "观察嘴硬"
+      ],
+      "voices": [
+        "观察",
+        "主播"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "视觉上确有脸红且角色不认",
+      "avoid": [
+        "发烧重伤被当情绪笑话"
+      ],
+      "plain_alternative": "你脸都气红了",
+      "adaptation_example": {
+        "text": "程叙：你不是灵力上升。是生气，耳朵先红了。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-20",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M041",
+      "family_id": "MF041",
+      "expression": "搞抽象",
+      "variants": [],
+      "kind": "term",
+      "meaning": "反常规荒诞表达",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-20",
+      "evidence": [
+        {
+          "source_id": "S12",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "评价荒诞"
+      ],
+      "voices": [
+        "主播",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "合理目标和异常行为明显相撞",
+      "avoid": [
+        "拿词代替具体可见笑点"
+      ],
+      "plain_alternative": "你到底想干什么",
+      "adaptation_example": {
+        "text": "岑默看着绑在摩托上的香炉：你搞抽象，车搞报废。拆。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-20",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M042",
+      "family_id": "MF042",
+      "expression": "包的",
+      "variants": [
+        "包赢的",
+        "包××的"
+      ],
+      "kind": "term",
+      "meaning": "轻快而有把握的承诺",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2025-12-23",
+      "evidence": [
+        {
+          "source_id": "S12",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        },
+        {
+          "source_id": "S37",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "逞强保证"
+      ],
+      "voices": [
+        "嘴硬",
+        "直接"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "熟人面前答应小任务",
+      "avoid": [
+        "承诺他人生命或确实做不到不追责"
+      ],
+      "plain_alternative": "这件我来做",
+      "adaptation_example": {
+        "text": "唐烈接过小桌：包的。话音刚落桌腿散开，他先抱住桌面：腿另算。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2025-12-23",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M043",
+      "family_id": "MF043",
+      "expression": "硬控",
+      "variants": [],
+      "kind": "term",
+      "meaning": "被某事吸引得移不开注意",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-02",
+      "evidence": [
+        {
+          "source_id": "S43",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "夸张着迷"
+      ],
+      "voices": [
+        "主播",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "确实停下原动作盯着东西",
+      "avoid": [
+        "真实精神控制规则被混淆"
+      ],
+      "plain_alternative": "我看得都走不动了",
+      "adaptation_example": {
+        "text": "叶芽被一只会打拍子的锅盖吸住：我只是多看一眼。她已错过两盏绿灯。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-02",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M044",
+      "family_id": "MF044",
+      "expression": "班味儿",
+      "variants": [],
+      "kind": "term",
+      "meaning": "工作留下的疲态",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-12",
+      "evidence": [
+        {
+          "source_id": "S14",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲疲惫"
+      ],
+      "voices": [
+        "务实",
+        "自嘲"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色下班仍机械服务",
+      "avoid": [
+        "嘲弄底层劳动者的长相"
+      ],
+      "plain_alternative": "下班了还没缓过来",
+      "adaptation_example": {
+        "text": "许穗把家人的碗也贴了号：这身班味，洗围裙都洗不掉。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M045",
+      "family_id": "MF045",
+      "expression": "City不City",
+      "variants": [],
+      "kind": "reaction_phrase",
+      "meaning": "是否现代洋气",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-12",
+      "evidence": [
+        {
+          "source_id": "S14",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "评价风格"
+      ],
+      "voices": [
+        "审美",
+        "热情"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色逛街比较不同风格",
+      "avoid": [
+        "古代架空默认懂英文混搭"
+      ],
+      "plain_alternative": "这地方够时髦吗",
+      "adaptation_example": {
+        "text": "苗小满看一眼满街霓虹，再看漏雨棚：灯挺city，棚挺接地气。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M046",
+      "family_id": "MF046",
+      "expression": "松弛感",
+      "variants": [],
+      "kind": "term",
+      "meaning": "压力下从容的状态",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-12",
+      "evidence": [
+        {
+          "source_id": "S14",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "反差点评"
+      ],
+      "voices": [
+        "观察",
+        "克制"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "手上有序但外观狼狈",
+      "avoid": [
+        "把不负责误当从容"
+      ],
+      "plain_alternative": "你倒是挺稳的",
+      "adaptation_example": {
+        "text": "沈砚等他把绳结打完：松弛的是你，绷紧的是这根承重绳。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M047",
+      "family_id": "MF047",
+      "expression": "含金量还在上升",
+      "variants": [],
+      "kind": "term",
+      "meaning": "价值后来才被看出来",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-12",
+      "evidence": [
+        {
+          "source_id": "S14",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "重新认可"
+      ],
+      "voices": [
+        "观察",
+        "较真"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "旧选择在新事件中证明价值",
+      "avoid": [
+        "只喊夸奖却没有新证据"
+      ],
+      "plain_alternative": "你那时候做的事，现在看更有用了",
+      "adaptation_example": {
+        "text": "程叙指向旧夹具：你少拧的那一圈，含金量开始涨了。现在能拆。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M048",
+      "family_id": "MF048",
+      "expression": "偏偏你最争气",
+      "variants": [],
+      "kind": "term",
+      "meaning": "被低估的人终于表现好",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-12",
+      "evidence": [
+        {
+          "source_id": "S14",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "肯定同伴"
+      ],
+      "voices": [
+        "温柔",
+        "热情"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "此前弱项角色有真实进步",
+      "avoid": [
+        "挑拨其他人或强灌鸡汤"
+      ],
+      "plain_alternative": "这次你真的做到了",
+      "adaptation_example": {
+        "text": "杜圆看见小童自己端稳热碗：一桌人最急，偏偏你最稳。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M049",
+      "family_id": "MF049",
+      "expression": "浓人淡人",
+      "variants": [],
+      "kind": "term",
+      "meaning": "表达热烈与平静的不同",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-12",
+      "evidence": [
+        {
+          "source_id": "S14",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "表达差异"
+      ],
+      "voices": [
+        "观察",
+        "温柔"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "同一事件双方反应对比",
+      "avoid": [
+        "淡人等于冷血浓人等于吵闹"
+      ],
+      "plain_alternative": "你高兴时很热闹，他会先不说话",
+      "adaptation_example": {
+        "text": "韩照把两杯茶分别推过去：一个先吹三句，一个先吹三口。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M050",
+      "family_id": "MF050",
+      "expression": "接",
+      "variants": [],
+      "kind": "term",
+      "meaning": "对好运或祝愿表示想要",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-09",
+      "evidence": [
+        {
+          "source_id": "S44",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "愿望打气"
+      ],
+      "voices": [
+        "热情",
+        "主播"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "直播、留言或祈愿具体好事",
+      "avoid": [
+        "嘴上接了就算获得资源"
+      ],
+      "plain_alternative": "希望这次也轮到我",
+      "adaptation_example": {
+        "text": "叶芽对演出通知点了个接，随后认真补齐报名表。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-09",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M051",
+      "family_id": "MF051",
+      "expression": "小孩哥／小孩姐",
+      "variants": [
+        "小孩哥",
+        "小孩姐"
+      ],
+      "kind": "term",
+      "meaning": "年幼者表现出意外熟练",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-02",
+      "evidence": [
+        {
+          "source_id": "S43",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "肯定反差"
+      ],
+      "voices": [
+        "观察",
+        "热情"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "孩子确有一次实际能力",
+      "avoid": [
+        "大人被硬降智或取消孩子需求"
+      ],
+      "plain_alternative": "这孩子比我想的熟练",
+      "adaptation_example": {
+        "text": "罗峥被孩子提醒扣错锁扣，停下来重扣：这位教练，我记住了。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-02",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M052",
+      "family_id": "MF052",
+      "expression": "i人／e人",
+      "variants": [
+        "i人",
+        "e人"
+      ],
+      "kind": "term",
+      "meaning": "社交内倾外倾的通俗标签",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-08",
+      "evidence": [
+        {
+          "source_id": "S15",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "解释社交需要"
+      ],
+      "voices": [
+        "观察",
+        "温柔"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色自己说明当下交流负荷",
+      "avoid": [
+        "作为诊断或16型固定口头禅"
+      ],
+      "plain_alternative": "我需要安静一会儿，你们先聊",
+      "adaptation_example": {
+        "text": "程叙把开会牌翻成维修中：人没坏。只是现在别问。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M053",
+      "family_id": "MF053",
+      "expression": "显眼包",
+      "variants": [],
+      "kind": "term",
+      "meaning": "行为引人注意且鲜明",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-08",
+      "evidence": [
+        {
+          "source_id": "S15",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "亲昵调侃"
+      ],
+      "voices": [
+        "热情",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "朋友通过动作抢到注意力",
+      "avoid": [
+        "羞辱安静的人或取消其意见"
+      ],
+      "plain_alternative": "就你最会引人看",
+      "adaptation_example": {
+        "text": "苗小满把灯打给唐烈，他反而拿灯照伤药说明书。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M054",
+      "family_id": "MF054",
+      "expression": "特种兵式旅游",
+      "variants": [],
+      "kind": "term",
+      "meaning": "少时间高强度走很多地点",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-08",
+      "evidence": [
+        {
+          "source_id": "S15",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲忙碌"
+      ],
+      "voices": [
+        "急性子",
+        "主播"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "实有连轴赶路的日程",
+      "avoid": [
+        "借词免除交通及战斗逻辑"
+      ],
+      "plain_alternative": "我们这一天跑得太满了",
+      "adaptation_example": {
+        "text": "周燃翻订单：上午渡劫，下午送餐，晚上还得回宗门打卡。旅游没景点，特种兵没补贴。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M055",
+      "family_id": "MF055",
+      "expression": "×门",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "因共同偏爱组成趣味阵营",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-08",
+      "evidence": [
+        {
+          "source_id": "S15",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "认同爱好"
+      ],
+      "voices": [
+        "热情",
+        "审美"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "双方已展示同一种小嗜好",
+      "avoid": [
+        "和丑闻门混用或编成真实宗门"
+      ],
+      "plain_alternative": "喜欢这个的，咱们算一伙",
+      "adaptation_example": {
+        "text": "叶芽和杜圆把两把香菜同时举起来：香菜门，今日不退。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M056",
+      "family_id": "MF056",
+      "expression": "遥遥领先",
+      "variants": [],
+      "kind": "term",
+      "meaning": "强调领先也可反讽自夸",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-08",
+      "evidence": [
+        {
+          "source_id": "S15",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "装体面夸口"
+      ],
+      "voices": [
+        "嘴硬",
+        "虚荣"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "自夸之后立即有反差结果",
+      "avoid": [
+        "没比较对象硬吹"
+      ],
+      "plain_alternative": "暂时我跑在前面",
+      "adaptation_example": {
+        "text": "周燃领先到了终点，发现自己走的是退赛通道。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M057",
+      "family_id": "MF057",
+      "expression": "多巴胺／美拉德穿搭",
+      "variants": [
+        "多巴胺穿搭",
+        "美拉德穿搭"
+      ],
+      "kind": "reaction_phrase",
+      "meaning": "明亮色彩或棕色系穿搭",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-08",
+      "evidence": [
+        {
+          "source_id": "S15",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "审美争辩"
+      ],
+      "voices": [
+        "审美",
+        "较真"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "服装选择反映心情及预算",
+      "avoid": [
+        "科学术语当法术真实机制"
+      ],
+      "plain_alternative": "这套鲜亮，那套沉一点",
+      "adaptation_example": {
+        "text": "阿岚：颜色能多巴胺。料子不能多付三百。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M058",
+      "family_id": "MF058",
+      "expression": "孔乙己文学",
+      "variants": [],
+      "kind": "term",
+      "meaning": "身份期待与现实处境的落差",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-08",
+      "evidence": [
+        {
+          "source_id": "S15",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲落差"
+      ],
+      "voices": [
+        "自嘲",
+        "克制"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色证书不再解决眼前困难",
+      "avoid": [
+        "复制原作独白或歧视学历"
+      ],
+      "plain_alternative": "学过这些，今天却派不上用场",
+      "adaptation_example": {
+        "text": "程叙收起资格证，先找板凳垫脚：这张证，比我够得高。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M059",
+      "family_id": "MF059",
+      "expression": "公主／王子，请××",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "仪式化称呼邀请人行动",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-08",
+      "evidence": [
+        {
+          "source_id": "S15",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "礼貌调侃"
+      ],
+      "voices": [
+        "服务",
+        "热情"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴"
+      ],
+      "trigger": "熟人喜欢被郑重招呼",
+      "avoid": [
+        "强迫人接受称呼或危险指令"
+      ],
+      "plain_alternative": "请坐，这边给你留好了",
+      "adaptation_example": {
+        "text": "杜圆举起小凳：公主请坐。塌了算我凳子，别算你身价。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M060",
+      "family_id": "MF060",
+      "expression": "你人还怪好的嘞",
+      "variants": [],
+      "kind": "term",
+      "meaning": "表面夸赞夹带尴尬吐槽",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-08",
+      "evidence": [
+        {
+          "source_id": "S15",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "反话埋怨"
+      ],
+      "voices": [
+        "嘴贫",
+        "护短"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴"
+      ],
+      "trigger": "熟人帮倒忙仍确有善意",
+      "avoid": [
+        "陌生人真有恶意却模糊指认"
+      ],
+      "plain_alternative": "你是好意，但这下更麻烦了",
+      "adaptation_example": {
+        "text": "周燃看着被洗掉编号的包裹：你人还怪好，连地址都替我洗干净了。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M061",
+      "family_id": "MF061",
+      "expression": "主打一个××",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "强调眼下的一项特点",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-12",
+      "evidence": [
+        {
+          "source_id": "S16",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "总结策略"
+      ],
+      "voices": [
+        "嘴贫",
+        "直接"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "行为已明确只需轻快收尾",
+      "avoid": [
+        "每场旁白都用该模板"
+      ],
+      "plain_alternative": "我今天只求这一件",
+      "adaptation_example": {
+        "text": "周燃扛着晾衣杆绕开台阶：主打一个不摔。速度明天再谈。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M062",
+      "family_id": "MF062",
+      "expression": "命运的齿轮开始转动",
+      "variants": [],
+      "kind": "reaction_phrase",
+      "meaning": "某个小动作改了人生轨迹",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-12",
+      "evidence": [
+        {
+          "source_id": "S16",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲转折"
+      ],
+      "voices": [
+        "热血",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "观众见到具体转折物件",
+      "avoid": [
+        "喊句子代替因果变化"
+      ],
+      "plain_alternative": "从这一下开始，事情变了",
+      "adaptation_example": {
+        "text": "周燃转动门把，发现还欠开门费：命运转一圈，也收一圈钱。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M063",
+      "family_id": "MF063",
+      "expression": "烟火气",
+      "variants": [],
+      "kind": "term",
+      "meaning": "具体生活带来的生动气息",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-12",
+      "evidence": [
+        {
+          "source_id": "S16",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "认可日常"
+      ],
+      "voices": [
+        "温柔",
+        "审美"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "场景有吃饭、营业和互助",
+      "avoid": [
+        "形容空景而没人生活"
+      ],
+      "plain_alternative": "这才像有人过日子的地方",
+      "adaptation_example": {
+        "text": "林鹿听见锅铲声，才把画里的窗户点亮。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M064",
+      "family_id": "MF064",
+      "expression": "栓Q／我真的会谢",
+      "variants": [
+        "栓Q",
+        "我真的会谢"
+      ],
+      "kind": "term",
+      "meaning": "借感谢形式表达无语",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2022-12-09",
+      "evidence": [
+        {
+          "source_id": "S17",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "反话埋怨"
+      ],
+      "voices": [
+        "嘴贫",
+        "自嘲"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴"
+      ],
+      "trigger": "熟人让自己多做一轮无用功",
+      "avoid": [
+        "真诚感谢被误作嘲讽"
+      ],
+      "plain_alternative": "谢谢啊，这下我更忙了",
+      "adaptation_example": {
+        "text": "周燃收到代领快递通知：我真的会谢。送到客户家前，先绕去客户楼下领。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2022-12-09",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M065",
+      "family_id": "MF065",
+      "expression": "CPU／KTV／PPT式口误",
+      "variants": [
+        "你别CPU我",
+        "你别KTV我",
+        "你别PPT我"
+      ],
+      "kind": "reaction_phrase",
+      "meaning": "以错缩写指责话术控制",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2022-12-09",
+      "evidence": [
+        {
+          "source_id": "S17",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "拒绝操控"
+      ],
+      "voices": [
+        "嘴贫",
+        "直接"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "轻喜剧里察觉熟人的话术",
+      "avoid": [
+        "严肃虐待用口误模糊实情"
+      ],
+      "plain_alternative": "你别用这话让我答应",
+      "adaptation_example": {
+        "text": "周燃：莫给我开PPT。你这页写得挺好，代价全在我那页。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2022-12-09",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M066",
+      "family_id": "MF066",
+      "expression": "大冤种",
+      "variants": [],
+      "kind": "term",
+      "meaning": "受了委屈或白忙的人",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2022-12-09",
+      "evidence": [
+        {
+          "source_id": "S17",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲吃亏"
+      ],
+      "voices": [
+        "自嘲",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色自愿承认小吃亏",
+      "avoid": [
+        "拿受害者当傻子笑"
+      ],
+      "plain_alternative": "这次是我白忙了",
+      "adaptation_example": {
+        "text": "周燃拿到两张优惠券，发现都只减自己已付过的费用。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2022-12-09",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M067",
+      "family_id": "MF067",
+      "expression": "小镇做题家",
+      "variants": [],
+      "kind": "term",
+      "meaning": "擅长考试却缺资源视野",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2022-12-09",
+      "evidence": [
+        {
+          "source_id": "S17",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲身份"
+      ],
+      "voices": [
+        "克制",
+        "较真"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "人物自己回顾成长与限制",
+      "avoid": [
+        "别人居高临下给角色贴标签"
+      ],
+      "plain_alternative": "以前我只会把标准答案背好",
+      "adaptation_example": {
+        "text": "程叙盖住题解：以前题目会给条件。现在得我去量。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2022-12-09",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M068",
+      "family_id": "MF068",
+      "expression": "退退退",
+      "variants": [],
+      "kind": "term",
+      "meaning": "夸张驱赶讨厌的小事",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2022-12-09",
+      "evidence": [
+        {
+          "source_id": "S17",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "荒诞拒绝"
+      ],
+      "voices": [
+        "热情",
+        "急性子"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "轻微倒霉事与动作反差",
+      "avoid": [
+        "不听审却模仿特定原声动作"
+      ],
+      "plain_alternative": "离我远点，我不想碰",
+      "adaptation_example": {
+        "text": "叶芽对没完没了的推销符摆手，符随风退了半步又贴回来。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2022-12-09",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M069",
+      "family_id": "MF069",
+      "expression": "嘴替",
+      "variants": [],
+      "kind": "term",
+      "meaning": "替人把难说的话表达出来",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2022-12-09",
+      "evidence": [
+        {
+          "source_id": "S17",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "认可理解"
+      ],
+      "voices": [
+        "温柔",
+        "观察"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "安静角色终于被准确理解",
+      "avoid": [
+        "替别人发言却没问本人"
+      ],
+      "plain_alternative": "这句说到我心里了",
+      "adaptation_example": {
+        "text": "林鹿点头，然后补一句：前半句是。后半句你又替我同意了。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2022-12-09",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M070",
+      "family_id": "MF070",
+      "expression": "一种很新的××",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "对异常做法表示不解",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2022-12-09",
+      "evidence": [
+        {
+          "source_id": "S17",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "委婉反对"
+      ],
+      "voices": [
+        "克制",
+        "怀疑"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "荒谬操作已有视觉证据",
+      "avoid": [
+        "把创新一律否定"
+      ],
+      "plain_alternative": "这个做法我没见过，真能行吗",
+      "adaptation_example": {
+        "text": "沈砚看见只画了两个点的三点阵：一种很新的数数。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2022-12-09",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M071",
+      "family_id": "MF071",
+      "expression": "老六",
+      "variants": [],
+      "kind": "term",
+      "meaning": "出其不意占便宜的行为",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2022-12-09",
+      "evidence": [
+        {
+          "source_id": "S17",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "揭穿小心思"
+      ],
+      "voices": [
+        "嘴贫",
+        "主播"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "熟人暗中藏了一手被发现",
+      "avoid": [
+        "所有聪明人都被写成背叛者"
+      ],
+      "plain_alternative": "你还留了这么一手",
+      "adaptation_example": {
+        "text": "唐烈刚举起沙袋，岑默从袋后抽出扳手：你这练习，老六还带维修单。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2022-12-09",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M072",
+      "family_id": "MF072",
+      "expression": "××刺客",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "不起眼的东西突然很贵",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2022-12-09",
+      "evidence": [
+        {
+          "source_id": "S17",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "反差点评"
+      ],
+      "voices": [
+        "务实",
+        "自嘲"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "付账才见意外高价",
+      "avoid": [
+        "没有价差还贴刺客标签"
+      ],
+      "plain_alternative": "这么小一份，怎么这么贵",
+      "adaptation_example": {
+        "text": "杜圆看着补一根筷子的工钱：筷子刺客，收的是剑价。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2022-12-09",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M073",
+      "family_id": "MF073",
+      "expression": "YYDS",
+      "variants": [],
+      "kind": "term",
+      "meaning": "高度赞许",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-07",
+      "evidence": [
+        {
+          "source_id": "S18",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "夸张称赞"
+      ],
+      "voices": [
+        "热情",
+        "主播"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "直播文字或熟悉圈语的朋友",
+      "avoid": [
+        "口播逐字母念出很突兀"
+      ],
+      "plain_alternative": "这回你做得太好了",
+      "adaptation_example": {
+        "text": "唐烈打出YYDS，又回头问岑默到底是哪颗螺丝起的作用。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-07",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M074",
+      "family_id": "MF074",
+      "expression": "破防",
+      "variants": [],
+      "kind": "term",
+      "meaning": "情绪防线被触动",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-07",
+      "evidence": [
+        {
+          "source_id": "S18",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "承认触动"
+      ],
+      "voices": [
+        "克制",
+        "观察"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色努力装作没事但小动作泄露",
+      "avoid": [
+        "只有盔甲破损却没情绪就叫破防"
+      ],
+      "plain_alternative": "这件事我确实没忍住",
+      "adaptation_example": {
+        "text": "岑默看着失而复得的旧扳手，先把油擦了三遍才收起来。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-07",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M075",
+      "family_id": "MF075",
+      "expression": "绝绝子",
+      "variants": [],
+      "kind": "term",
+      "meaning": "夸赞极好",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-07",
+      "evidence": [
+        {
+          "source_id": "S18",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "夸张称赞"
+      ],
+      "voices": [
+        "热情",
+        "审美"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "一个爱夸人的年轻角色偶尔使用",
+      "avoid": [
+        "每个角色都用同款夸法"
+      ],
+      "plain_alternative": "太好看了，正是我想要的",
+      "adaptation_example": {
+        "text": "叶芽想了半天夸词，阿岚已经把她夸偏的那只袖子拆了。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-07",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M076",
+      "family_id": "MF076",
+      "expression": "躺平",
+      "variants": [],
+      "kind": "term",
+      "meaning": "暂时退出紧绷竞争",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-07",
+      "evidence": [
+        {
+          "source_id": "S18",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲休整"
+      ],
+      "voices": [
+        "自嘲",
+        "冷淡"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "轻微累了且事情有人接手",
+      "avoid": [
+        "永久放弃目标却无剧情解释"
+      ],
+      "plain_alternative": "让我歇五分钟",
+      "adaptation_example": {
+        "text": "周燃躺下前把外卖箱架高：人可以躺，汤不行。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-07",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M077",
+      "family_id": "MF077",
+      "expression": "伤害性不高，侮辱性极强",
+      "variants": [],
+      "kind": "reaction_phrase",
+      "meaning": "没实质伤害但很丢脸",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-07",
+      "evidence": [
+        {
+          "source_id": "S18",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲尴尬"
+      ],
+      "voices": [
+        "自嘲",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "擅长者被小事戳中自尊",
+      "avoid": [
+        "真实受伤仍说没伤害"
+      ],
+      "plain_alternative": "不疼，就是丢脸",
+      "adaptation_example": {
+        "text": "唐烈一拳碎砖，打不开药瓶。他把瓶子递给许穗，不看旁边镜头。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-07",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M078",
+      "family_id": "MF078",
+      "expression": "我看不懂，但我大受震撼",
+      "variants": [],
+      "kind": "reaction_phrase",
+      "meaning": "困惑同时被震住",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-07",
+      "evidence": [
+        {
+          "source_id": "S18",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "承认不懂"
+      ],
+      "voices": [
+        "嘴贫",
+        "观察"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "看见离谱但实际有效的方法",
+      "avoid": [
+        "用来跳过解释关键规则"
+      ],
+      "plain_alternative": "我没弄明白，但确实被吓住了",
+      "adaptation_example": {
+        "text": "杜圆盯着会排队的锅盖：震撼归震撼，先把你的号领了。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-07",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M079",
+      "family_id": "MF079",
+      "expression": "emo",
+      "variants": [],
+      "kind": "term",
+      "meaning": "日常语境里的情绪低落",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-10",
+      "evidence": [
+        {
+          "source_id": "S19",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "表达低落"
+      ],
+      "voices": [
+        "克制",
+        "自嘲"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "小烦恼被自己承认",
+      "avoid": [
+        "用标签替代具体苦楚"
+      ],
+      "plain_alternative": "我今天有点难受",
+      "adaptation_example": {
+        "text": "程叙擦掉错误图纸：我不是机器坏了，是有点不想说话。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-10",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M080",
+      "family_id": "MF080",
+      "expression": "夺笋",
+      "variants": [],
+      "kind": "term",
+      "meaning": "吐槽对方的话损",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-10",
+      "evidence": [
+        {
+          "source_id": "S19",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "熟人斗嘴"
+      ],
+      "voices": [
+        "嘴贫",
+        "护短"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴"
+      ],
+      "trigger": "熟人安全关系里的轻微互损",
+      "avoid": [
+        "伤害别人底线还当玩笑"
+      ],
+      "plain_alternative": "你这句话也太损了",
+      "adaptation_example": {
+        "text": "周燃看着自己被加高的报名身高：你给我多写十公分，是要我自己长回来？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-10",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M081",
+      "family_id": "MF081",
+      "expression": "社恐／社牛",
+      "variants": [
+        "社恐",
+        "社牛"
+      ],
+      "kind": "term",
+      "meaning": "回避或积极参与社交的通俗标签",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-10",
+      "evidence": [
+        {
+          "source_id": "S19",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "解释社交需要"
+      ],
+      "voices": [
+        "观察",
+        "自嘲"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色自己说想退场或需要帮助",
+      "avoid": [
+        "医学诊断或把安静等同不会说话"
+      ],
+      "plain_alternative": "这桌我不熟，你陪我过去",
+      "adaptation_example": {
+        "text": "韩照没替程叙开口，把问题写在纸上放到他手边。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-10",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M082",
+      "family_id": "MF082",
+      "expression": "一整个×住",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "加强当下反应程度",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-10",
+      "evidence": [
+        {
+          "source_id": "S19",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "夸张反应"
+      ],
+      "voices": [
+        "热情",
+        "主播"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "直播或角色突然被小场面惊住",
+      "avoid": [
+        "所有反应只剩无语住"
+      ],
+      "plain_alternative": "我一下说不出话了",
+      "adaptation_example": {
+        "text": "苗小满一句夸到一半，被停电的舞台灯照得只剩半张脸。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-10",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M083",
+      "family_id": "MF083",
+      "expression": "普信",
+      "variants": [],
+      "kind": "term",
+      "meaning": "能力普通却过度自信",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-10",
+      "evidence": [
+        {
+          "source_id": "S19",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "揭穿夸口"
+      ],
+      "voices": [
+        "怀疑",
+        "直接"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "某人的具体自夸与行为冲突",
+      "avoid": [
+        "按性别给所有人定性"
+      ],
+      "plain_alternative": "你这么有把握，证据呢",
+      "adaptation_example": {
+        "text": "阿岚将报价单递回去：你很自信。布料呢？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-10",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M084",
+      "family_id": "MF084",
+      "expression": "内卷／卷王",
+      "variants": [
+        "内卷",
+        "卷王"
+      ],
+      "kind": "term",
+      "meaning": "无效加码或夸张竞争",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-10",
+      "evidence": [
+        {
+          "source_id": "S19",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        },
+        {
+          "source_id": "S21",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲忙碌"
+      ],
+      "voices": [
+        "自嘲",
+        "较真"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "同等任务越比越繁琐",
+      "avoid": [
+        "正常练习进步也一概否定"
+      ],
+      "plain_alternative": "我们花的劲越来越多，却没更好",
+      "adaptation_example": {
+        "text": "程叙看见三层防水罩：四个人修屋顶，六个人修修屋顶的工具。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-10",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M085",
+      "family_id": "MF085",
+      "expression": "拿捏",
+      "variants": [],
+      "kind": "term",
+      "meaning": "被控制得很稳或掌握到位",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-10",
+      "evidence": [
+        {
+          "source_id": "S19",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "评价掌控"
+      ],
+      "voices": [
+        "主播",
+        "嘴硬"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "小技巧实际奏效",
+      "avoid": [
+        "喊一次就控制他人意愿"
+      ],
+      "plain_alternative": "这一下正好卡住它了",
+      "adaptation_example": {
+        "text": "岑默只动一个卡扣：拿捏的是扣，不是你。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-10",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M086",
+      "family_id": "MF086",
+      "expression": "你礼貌吗",
+      "variants": [],
+      "kind": "term",
+      "meaning": "提醒对方的轻微冒犯",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-10",
+      "evidence": [
+        {
+          "source_id": "S19",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "礼貌反击"
+      ],
+      "voices": [
+        "克制",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "熟人说话越界但可修复",
+      "avoid": [
+        "真正伤害只用调侃不处理"
+      ],
+      "plain_alternative": "这句有点过分了",
+      "adaptation_example": {
+        "text": "林鹿收回画像：我画的不是你的欠条，你礼貌吗？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-10",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M087",
+      "family_id": "MF087",
+      "expression": "×了，但没完全×",
+      "variants": [
+        "赢了，但没完全赢"
+      ],
+      "kind": "sentence_template",
+      "meaning": "承认一部分却保留余地",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2021-12-10",
+      "evidence": [
+        {
+          "source_id": "S19",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "嘴硬降级"
+      ],
+      "voices": [
+        "嘴硬",
+        "较真"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "小失败后仍有具体可用部分",
+      "avoid": [
+        "失败没付代价就靠话翻盘"
+      ],
+      "plain_alternative": "做了一半，剩下还没好",
+      "adaptation_example": {
+        "text": "程叙把能转动的轮子递来：修了。没完全修。现在只允许朝右。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2021-12-10",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M088",
+      "family_id": "MF088",
+      "expression": "打工人",
+      "variants": [],
+      "kind": "term",
+      "meaning": "对劳动者自身处境的调侃",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2020-12-21",
+      "evidence": [
+        {
+          "source_id": "S20",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲身份"
+      ],
+      "voices": [
+        "务实",
+        "自嘲"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "工时、收入与生活愿望冲突",
+      "avoid": [
+        "主角完全不劳动仍硬称打工"
+      ],
+      "plain_alternative": "活还是得干，先算工钱",
+      "adaptation_example": {
+        "text": "岑默看向神像：神仙也得给打工人结账。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2020-12-21",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M089",
+      "family_id": "MF089",
+      "expression": "干饭人",
+      "variants": [],
+      "kind": "term",
+      "meaning": "把吃饭说成认真大事",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2020-12-21",
+      "evidence": [
+        {
+          "source_id": "S20",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "表达兴趣"
+      ],
+      "voices": [
+        "热情",
+        "务实"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "饭点确实改变角色行动",
+      "avoid": [
+        "重大危险中突然只顾吃"
+      ],
+      "plain_alternative": "先吃两口，我饿了",
+      "adaptation_example": {
+        "text": "杜圆给每个人压住碗：开打前先干饭，打完的另付。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2020-12-21",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M090",
+      "family_id": "MF090",
+      "expression": "工具人",
+      "variants": [],
+      "kind": "term",
+      "meaning": "被别人当完成目的的工具",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2020-12-21",
+      "evidence": [
+        {
+          "source_id": "S20",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "划清边界"
+      ],
+      "voices": [
+        "直接",
+        "自嘲"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色意识到自己总被使唤",
+      "avoid": [
+        "把主动助人都写成被剥削"
+      ],
+      "plain_alternative": "你每次都只叫我来做这件事",
+      "adaptation_example": {
+        "text": "唐烈挡住沙袋：我参加的是队伍，不是你们的缓冲材料。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2020-12-21",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M091",
+      "family_id": "MF091",
+      "expression": "尾款人",
+      "variants": [],
+      "kind": "term",
+      "meaning": "为购物尾款压力自嘲",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2020-12-21",
+      "evidence": [
+        {
+          "source_id": "S20",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲花钱"
+      ],
+      "voices": [
+        "自嘲",
+        "务实"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "具体订单让角色钱包吃紧",
+      "avoid": [
+        "古代无现代消费机制强套"
+      ],
+      "plain_alternative": "东西还没到，钱先欠上了",
+      "adaptation_example": {
+        "text": "叶芽翻演出服订单：衣服还没到，我已经在为它加班了。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2020-12-21",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M092",
+      "family_id": "MF092",
+      "expression": "凡尔赛文学",
+      "variants": [],
+      "kind": "term",
+      "meaning": "表面抱怨实际炫耀",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2020-12-30",
+      "evidence": [
+        {
+          "source_id": "S21",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "戳穿炫耀"
+      ],
+      "voices": [
+        "观察",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色有可见的优越资源",
+      "avoid": [
+        "贫困或受伤真难处被当装"
+      ],
+      "plain_alternative": "你这是抱怨，还是夸自己",
+      "adaptation_example": {
+        "text": "周燃：你嫌储物袋太大，要不装我这个月房租？",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2020-12-30",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M093",
+      "family_id": "MF093",
+      "expression": "官宣",
+      "variants": [],
+      "kind": "term",
+      "meaning": "正式公开原来私下的消息",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2018-12-03",
+      "evidence": [
+        {
+          "source_id": "S22",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "郑重小事"
+      ],
+      "voices": [
+        "郑重",
+        "热情"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "两人共同认可的关系或消息",
+      "avoid": [
+        "未经另一人同意公布"
+      ],
+      "plain_alternative": "我正式告诉大家这件事",
+      "adaptation_example": {
+        "text": "杜圆贴出告示：官宣，明天多一个锅。别再给旧锅送花。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2018-12-03",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M094",
+      "family_id": "MF094",
+      "expression": "佛系",
+      "variants": [],
+      "kind": "term",
+      "meaning": "不争抢而随遇而安",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2018-12-03",
+      "evidence": [
+        {
+          "source_id": "S22",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲接受"
+      ],
+      "voices": [
+        "冷淡",
+        "克制"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "无关底线的小事愿意放手",
+      "avoid": [
+        "被动照顾全部角色而没自己的欲望"
+      ],
+      "plain_alternative": "这个随它，我不争了",
+      "adaptation_example": {
+        "text": "林鹿让出窗边位，却把自己的画架搬走：位子随你，画不随你。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2018-12-03",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M095",
+      "family_id": "MF095",
+      "expression": "杠精",
+      "variants": [],
+      "kind": "term",
+      "meaning": "为反对而不断争辩",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2018-12-03",
+      "evidence": [
+        {
+          "source_id": "S22",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "结束抬杠"
+      ],
+      "voices": [
+        "直接",
+        "怀疑"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "对方的争辩确实没事实贡献",
+      "avoid": [
+        "把认真不同意见一律封嘴"
+      ],
+      "plain_alternative": "你是在补证据，还是只想反对",
+      "adaptation_example": {
+        "text": "沈砚递来尺：先量。量完你要杠，咱们再量那根杠。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2018-12-03",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M096",
+      "family_id": "MF096",
+      "expression": "确认过眼神",
+      "variants": [],
+      "kind": "term",
+      "meaning": "确认一种判断或默契",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2018-12-03",
+      "evidence": [
+        {
+          "source_id": "S22",
+          "level": "documented_definition",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "确认默契"
+      ],
+      "voices": [
+        "温柔",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "目光和动作已有具体对应",
+      "avoid": [
+        "完整套用歌词或没有实际判断"
+      ],
+      "plain_alternative": "我看明白你的意思了",
+      "adaptation_example": {
+        "text": "苗小满和阿岚对上眼，她把直播关掉，再把灯推近一点。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2018-12-03",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M097",
+      "family_id": "MF097",
+      "expression": "已老实，求放过",
+      "variants": [
+        "已老实"
+      ],
+      "kind": "term",
+      "meaning": "经历教训后请求停止",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-07-11",
+      "evidence": [
+        {
+          "source_id": "S23",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "认怂"
+      ],
+      "voices": [
+        "嘴硬",
+        "自嘲"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴"
+      ],
+      "trigger": "逞强已付小代价后退一步",
+      "avoid": [
+        "严肃认错、重大损害被轻轻带过"
+      ],
+      "plain_alternative": "我不试了，这次认输",
+      "adaptation_example": {
+        "text": "周燃把门把手放回去：已老实。门这次真是你赢了。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-07-11",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M098",
+      "family_id": "MF098",
+      "expression": "嘻嘻／不嘻嘻",
+      "variants": [
+        "嘻嘻",
+        "不嘻嘻"
+      ],
+      "kind": "term",
+      "meaning": "开心到不开心的急转",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-07-11",
+      "evidence": [
+        {
+          "source_id": "S23",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "反差反应"
+      ],
+      "voices": [
+        "热情",
+        "主播"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "同一人先乐观后见真账单",
+      "avoid": [
+        "用口播标签代替演员变化"
+      ],
+      "plain_alternative": "刚才高兴，现在笑不出来了",
+      "adaptation_example": {
+        "text": "唐烈笑着拿战损费，打开收据，把鼻梁上的笑纹收了回去。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-07-11",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M099",
+      "family_id": "MF099",
+      "expression": "尊嘟假嘟",
+      "variants": [],
+      "kind": "term",
+      "meaning": "可爱语气的真的假的",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-10-12",
+      "evidence": [
+        {
+          "source_id": "S24",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "惊讶追问"
+      ],
+      "voices": [
+        "撒娇",
+        "热情"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "熟人报来小惊喜",
+      "avoid": [
+        "高压战术确认或严肃审讯"
+      ],
+      "plain_alternative": "真的假的，你再说一遍",
+      "adaptation_example": {
+        "text": "叶芽看着免场租通知：尊嘟？她翻到背页先找附加条件。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-10-12",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M100",
+      "family_id": "MF100",
+      "expression": "质疑××，理解××，成为××",
+      "variants": [],
+      "kind": "sentence_template",
+      "meaning": "从否定到认同再重复其行为",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-05-08",
+      "evidence": [
+        {
+          "source_id": "S25",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "承认改变"
+      ],
+      "voices": [
+        "自嘲",
+        "观察"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色真的经历了三个阶段",
+      "avoid": [
+        "只有一句话没有行为变化"
+      ],
+      "plain_alternative": "我以前不信，现在也这么做了",
+      "adaptation_example": {
+        "text": "周燃摸出自己新做的排队牌：质疑杜圆，理解杜圆。杜圆，借我两支笔。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-05-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M101",
+      "family_id": "MF101",
+      "expression": "为i做e",
+      "variants": [],
+      "kind": "term",
+      "meaning": "为了在意的人主动社交",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-01-08",
+      "evidence": [
+        {
+          "source_id": "S26",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "主动帮忙"
+      ],
+      "voices": [
+        "温柔",
+        "克制"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "怕生的人仍选择去问一次",
+      "avoid": [
+        "MBTI字母决定固定行为"
+      ],
+      "plain_alternative": "我不擅长，但这次我替你问",
+      "adaptation_example": {
+        "text": "程叙站到柜台前，先将问题写好，还是自己开了口。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-01-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M102",
+      "family_id": "MF102",
+      "expression": "脆皮大学生",
+      "variants": [],
+      "kind": "term",
+      "meaning": "青年对身体脆弱的夸张自称",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-05-08",
+      "evidence": [
+        {
+          "source_id": "S25",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲疲惫"
+      ],
+      "voices": [
+        "自嘲",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色确是学生且是小磕碰",
+      "avoid": [
+        "真正伤病被拿来嘲笑"
+      ],
+      "plain_alternative": "我比自己想的还不经折腾",
+      "adaptation_example": {
+        "text": "修行学员绕了九步找平路：灵根挺硬，膝盖先下课。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-05-08",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M103",
+      "family_id": "MF103",
+      "expression": "搭子",
+      "variants": [],
+      "kind": "term",
+      "meaning": "围绕具体活动结伴",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-05-22",
+      "evidence": [
+        {
+          "source_id": "S27",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "提出合作"
+      ],
+      "voices": [
+        "务实",
+        "温柔"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "双方只谈一项共同需要",
+      "avoid": [
+        "搭子自动等于亲密或恋爱"
+      ],
+      "plain_alternative": "这次我们一起做，别的以后再谈",
+      "adaptation_example": {
+        "text": "岑默：拆炉搭子可以。吃饭搭子先看你付不付钱。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-05-22",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M104",
+      "family_id": "MF104",
+      "expression": "电子榨菜",
+      "variants": [],
+      "kind": "term",
+      "meaning": "吃饭时看的轻松内容",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-12-11",
+      "evidence": [
+        {
+          "source_id": "S28",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "表达兴趣"
+      ],
+      "voices": [
+        "温柔",
+        "嘴贫"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色选择视频暴露私下嗜好",
+      "avoid": [
+        "无屏幕场景强套电子"
+      ],
+      "plain_alternative": "我吃饭时就看这段",
+      "adaptation_example": {
+        "text": "许穗拿回手机：菜要凉了，榨菜倒自动续播。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-12-11",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M105",
+      "family_id": "MF105",
+      "expression": "听劝",
+      "variants": [],
+      "kind": "term",
+      "meaning": "把别人建议转成行动",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-04-24",
+      "evidence": [
+        {
+          "source_id": "S29",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "承认改变"
+      ],
+      "voices": [
+        "克制",
+        "直接"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色真的改了做法",
+      "avoid": [
+        "口头答应却照旧冒险"
+      ],
+      "plain_alternative": "这次按你说的来",
+      "adaptation_example": {
+        "text": "周燃把第一步写给沈砚看：我听劝。你说左边，我这回不另外发明一个左边。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-04-24",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M106",
+      "family_id": "MF106",
+      "expression": "爆改",
+      "variants": [],
+      "kind": "term",
+      "meaning": "明显改变旧样子或做法",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2024-07-01",
+      "evidence": [
+        {
+          "source_id": "S30",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "展示变化"
+      ],
+      "voices": [
+        "热情",
+        "审美"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "改造前后有具体可见差异",
+      "avoid": [
+        "造型变化被当人物成长全部"
+      ],
+      "plain_alternative": "我把原来的重新改了一遍",
+      "adaptation_example": {
+        "text": "阿岚拎起雨披：爆改可以，白撮头发别动。认人靠那个。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2024-07-01",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M107",
+      "family_id": "MF107",
+      "expression": "上岸",
+      "variants": [],
+      "kind": "term",
+      "meaning": "通过考试或竞争获得稳定落点",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-27",
+      "evidence": [
+        {
+          "source_id": "S31",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "自嘲成功"
+      ],
+      "voices": [
+        "自嘲",
+        "热血"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "目标已经具体达成",
+      "avoid": [
+        "从水里出来与考试含义混不清"
+      ],
+      "plain_alternative": "这次终于过了",
+      "adaptation_example": {
+        "text": "周燃拿到送餐结算：上岸了。他把湿鞋倒扣，里面仍有半碗水。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-27",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "M108",
+      "family_id": "MF108",
+      "expression": "平替",
+      "variants": [],
+      "kind": "term",
+      "meaning": "更便宜的替代选择",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2023-12-27",
+      "evidence": [
+        {
+          "source_id": "S31",
+          "level": "text_context",
+          "supports": "语义或文字用例；未证明首创、原声表演或当前热度"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "讨价还价"
+      ],
+      "voices": [
+        "务实",
+        "较真"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴",
+        "陌生人"
+      ],
+      "trigger": "角色比较资源的实际功能",
+      "avoid": [
+        "便宜替代自动有同等法术性能"
+      ],
+      "plain_alternative": "这个便宜，先看它能不能用",
+      "adaptation_example": {
+        "text": "程叙试了饭盒承重：平替可以，先别平替测试。",
+        "provenance": "本库原创试写；不是来源台词，也不是当前剧本的已采纳修订"
+      },
+      "freshness": {
+        "last_context_documented_at": "2023-12-27",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "historical_repertoire",
+        "recent_title_leads": []
+      },
+      "use_notes": [
+        "允许零使用；先明确目的、对象和结果。",
+        "台词不用强迫照抄例句；动作、停顿也能吸收机制。"
+      ]
+    },
+    {
+      "id": "NET-001",
+      "family_id": "PF-NET-001",
+      "expression": "我超威",
+      "variants": [
+        "我超维",
+        "我Chovy"
+      ],
+      "kind": "performance_candidate",
+      "meaning": null,
+      "readiness": "pending_context",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": null,
+      "evidence": [
+        {
+          "source_id": "S39",
+          "level": "metadata_only",
+          "supports": "字形、触发和口音版本尚未独立核清，不凭标题把它定义为自信或震惊。"
+        },
+        {
+          "source_id": "S40",
+          "level": "mention_only",
+          "supports": "字形、触发和口音版本尚未独立核清，不凭标题把它定义为自信或震惊。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": true,
+      "intents": [
+        "待核"
+      ],
+      "voices": [
+        "待核"
+      ],
+      "relationships": [
+        "待核"
+      ],
+      "trigger": "先找到具体作品或文字上下文，核对对象、前因和回应。",
+      "avoid": [
+        "未核语境时不进入正式台词。"
+      ],
+      "plain_alternative": "先按人物目的写普通中文，不用此片段。",
+      "adaptation_example": null,
+      "freshness": {
+        "last_context_documented_at": null,
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "unverified",
+        "recent_title_leads": [
+          {
+            "work_id": "BV1yLpx6qEPW",
+            "url": "https://www.bilibili.com/video/BV1yLpx6qEPW/",
+            "title": "我超威给我踢好了呀～～～",
+            "published_at": "2026-10-09T02:35:26+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1ifpM65ETF",
+            "url": "https://www.bilibili.com/video/BV1ifpM65ETF/",
+            "title": "我超威！",
+            "published_at": "2026-10-07T05:59:02+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1rWHd6SEDL",
+            "url": "https://www.bilibili.com/video/BV1rWHd6SEDL/",
+            "title": "我超威，你tm谁啊为什么站在我家客厅穿我的拖鞋？",
+            "published_at": "2026-10-08T16:59:59+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1RFHd6KEHF",
+            "url": "https://www.bilibili.com/video/BV1RFHd6KEHF/",
+            "title": "我超威！我真弗拉！！",
+            "published_at": "2026-10-08T18:06:04+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1idHa66ExH",
+            "url": "https://www.bilibili.com/video/BV1idHa66ExH/",
+            "title": "我超威",
+            "published_at": "2026-10-03T08:19:51+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          }
+        ]
+      },
+      "review_note": "字形、触发和口音版本尚未独立核清，不凭标题把它定义为自信或震惊。",
+      "variant_status": "近形候选暂放一组，尚未确认同义或同一原声，不计成多个已核词族。"
+    },
+    {
+      "id": "NET-002",
+      "family_id": "PF-NET-002",
+      "expression": "不烧心",
+      "variants": [
+        "吃了不烧心",
+        "不烧心宇宙"
+      ],
+      "kind": "reaction_phrase",
+      "meaning": "在已见用例中，以不烧心和规矩等郑重话术戏仿餐饮创业短剧的重复表达；只确认此局部用途。",
+      "readiness": "text_ready",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": "2026-10-02",
+      "evidence": [
+        {
+          "source_id": "S45",
+          "level": "text_context",
+          "supports": "作者自述戏仿短剧说话方式，另有正文短句用例；首创、原声节拍仍未核。"
+        },
+        {
+          "source_id": "S46",
+          "level": "text_context",
+          "supports": "作者自述戏仿短剧说话方式，另有正文短句用例；首创、原声节拍仍未核。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": false,
+      "intents": [
+        "郑重小事"
+      ],
+      "voices": [
+        "郑重",
+        "嘴硬"
+      ],
+      "relationships": [
+        "熟人",
+        "同伴"
+      ],
+      "trigger": "角色把小摊的具体品质承诺说得过分郑重，行动兑现后出现反差。",
+      "avoid": [
+        "不要复制整套餐饮创业对白、神秘BGM和分场顺序；不等于医疗上不烧心的保证。"
+      ],
+      "plain_alternative": "我用的是今天的料，账在这里，你自己看。",
+      "adaptation_example": {
+        "text": "杜圆把包子夹进碗：料是今天的，账也是今天的。周燃拿勺：老板，我先吃，宗门改天再开。",
+        "provenance": "本库原创；吸收庄重小事的反差，不照搬连续原句"
+      },
+      "freshness": {
+        "last_context_documented_at": "2026-10-02",
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "documented_2026",
+        "recent_title_leads": [
+          {
+            "work_id": "BV1YSpF6EExc",
+            "url": "https://www.bilibili.com/video/BV1YSpF6EExc/",
+            "title": "他们嫌我盒饭贵，但吃着不烧心！",
+            "published_at": "2026-10-06T07:11:36+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV13zHb6RE3S",
+            "url": "https://www.bilibili.com/video/BV13zHb6RE3S/",
+            "title": "《规矩不能坏》《吃了不烧心》《先把规矩立住，路才能越走越宽》《不怕亏钱吗？怕，更怕账本不清》《抢的走铺子，抢不走人心》《明天怎么办？先做》",
+            "published_at": "2026-10-02T23:16:03+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1SkpW63E46",
+            "url": "https://www.bilibili.com/video/BV1SkpW63E46/",
+            "title": "《不烧心我不吃，吃了就烧心》烤串店凭烧心辣爆火，同行觊觎配方设局大赛，他夺冠反杀！",
+            "published_at": "2026-10-08T22:59:32+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1S6am6AEmM",
+            "url": "https://www.bilibili.com/video/BV1S6am6AEmM/",
+            "title": "吃了不烧心是什么梗？先把规矩立住！全网进入不烧心时代！【网梗指南】",
+            "published_at": "2026-10-02T10:00:00+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1rRHL6TELm",
+            "url": "https://www.bilibili.com/video/BV1rRHL6TELm/",
+            "title": "不烧心系列丨别碰那生蚝，吃了真会烧心啊【AI全民制作人】",
+            "published_at": "2026-10-05T00:00:00+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1qGHC6zESc",
+            "url": "https://www.bilibili.com/video/BV1qGHC6zESc/",
+            "title": "(完结爽剧)爱吃不烧心盒饭",
+            "published_at": "2026-10-07T09:45:46+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1WSHL66EdZ",
+            "url": "https://www.bilibili.com/video/BV1WSHL66EdZ/",
+            "title": "看这个视频我不烧心！",
+            "published_at": "2026-10-04T10:38:45+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1N2pc6gErK",
+            "url": "https://www.bilibili.com/video/BV1N2pc6gErK/",
+            "title": "吃了不烧心是什么梗【梗指南】",
+            "published_at": "2026-10-06T12:14:36+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1mjHZ6AEFx",
+            "url": "https://www.bilibili.com/video/BV1mjHZ6AEFx/",
+            "title": "吃了不烧心之牛肉面篇，规矩不能坏谁坏谁GG～",
+            "published_at": "2026-10-06T03:59:31+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV15Gpw6pEzh",
+            "url": "https://www.bilibili.com/video/BV15Gpw6pEzh/",
+            "title": "不烧心的作业我不写！！！",
+            "published_at": "2026-10-06T11:04:25+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1CMHS6iEew",
+            "url": "https://www.bilibili.com/video/BV1CMHS6iEew/",
+            "title": "吃了不烧心之以后卖给鬼吃吧，不烧心我吃它何用～",
+            "published_at": "2026-10-08T06:49:02+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1Drpx6SEct",
+            "url": "https://www.bilibili.com/video/BV1Drpx6SEct/",
+            "title": "【完结】《吃了不烧心》《规矩不能坏》一口气看完不烧心宇宙，全网最新最全！",
+            "published_at": "2026-10-09T02:11:13+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1dUpp67EK4",
+            "url": "https://www.bilibili.com/video/BV1dUpp67EK4/",
+            "title": "“吃了不烧心系列”《心烧》",
+            "published_at": "2026-10-09T00:19:03+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          },
+          {
+            "work_id": "BV1Z5pM65ETN",
+            "url": "https://www.bilibili.com/video/BV1Z5pM65ETN/",
+            "title": "规矩立住了，这冰吃着才不烧心",
+            "published_at": "2026-10-07T07:44:31+00:00",
+            "level": "title_only",
+            "semantic_reviewed": false
+          }
+        ]
+      },
+      "review_note": "文字用途已核；原声、原视频完整结构和最早起源未核。"
+    },
+    {
+      "id": "USER-001",
+      "family_id": "PF-USER-001",
+      "expression": "干…",
+      "variants": [],
+      "kind": "user_fragment",
+      "meaning": null,
+      "readiness": "pending_context",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": null,
+      "evidence": [
+        {
+          "source_id": "S42",
+          "level": "user_fragment",
+          "supports": "用户只提供未完片段；不自行补成另一句梗。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": true,
+      "intents": [
+        "待核"
+      ],
+      "voices": [
+        "待核"
+      ],
+      "relationships": [
+        "待核"
+      ],
+      "trigger": "先找到具体作品或文字上下文，核对对象、前因和回应。",
+      "avoid": [
+        "未核语境时不进入正式台词。"
+      ],
+      "plain_alternative": "先按人物目的写普通中文，不用此片段。",
+      "adaptation_example": null,
+      "freshness": {
+        "last_context_documented_at": null,
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "unverified",
+        "recent_title_leads": []
+      },
+      "review_note": "用户只提供未完片段；不自行补成另一句梗。"
+    },
+    {
+      "id": "P001",
+      "family_id": "PF-P001",
+      "expression": "随橙想／反耳",
+      "variants": [
+        "随橙想",
+        "反耳"
+      ],
+      "kind": "performance_candidate",
+      "meaning": null,
+      "readiness": "pending_context",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": null,
+      "evidence": [
+        {
+          "source_id": "S02",
+          "level": "mention_only",
+          "supports": "依赖采访空耳与语音，不凭文字拼造地域口音。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": true,
+      "intents": [
+        "待核"
+      ],
+      "voices": [
+        "待核"
+      ],
+      "relationships": [
+        "待核"
+      ],
+      "trigger": "先找到具体作品或文字上下文，核对对象、前因和回应。",
+      "avoid": [
+        "未核语境时不进入正式台词。"
+      ],
+      "plain_alternative": "先按人物目的写普通中文，不用此片段。",
+      "adaptation_example": null,
+      "freshness": {
+        "last_context_documented_at": null,
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "unverified",
+        "recent_title_leads": []
+      },
+      "review_note": "依赖采访空耳与语音，不凭文字拼造地域口音。"
+    },
+    {
+      "id": "P002",
+      "family_id": "PF-P002",
+      "expression": "噜噜操",
+      "variants": [],
+      "kind": "performance_candidate",
+      "meaning": null,
+      "readiness": "pending_context",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": null,
+      "evidence": [
+        {
+          "source_id": "S47",
+          "level": "mention_only",
+          "supports": "此前抖音标题候选；动作、音轨与原语境未核，不作为自动台词。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": true,
+      "intents": [
+        "待核"
+      ],
+      "voices": [
+        "待核"
+      ],
+      "relationships": [
+        "待核"
+      ],
+      "trigger": "先找到具体作品或文字上下文，核对对象、前因和回应。",
+      "avoid": [
+        "未核语境时不进入正式台词。"
+      ],
+      "plain_alternative": "先按人物目的写普通中文，不用此片段。",
+      "adaptation_example": null,
+      "freshness": {
+        "last_context_documented_at": null,
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "unverified",
+        "recent_title_leads": []
+      },
+      "review_note": "此前抖音标题候选；动作、音轨与原语境未核，不作为自动台词。"
+    },
+    {
+      "id": "P003",
+      "family_id": "PF-P003",
+      "expression": "emoji动物摇",
+      "variants": [],
+      "kind": "performance_candidate",
+      "meaning": null,
+      "readiness": "pending_context",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": null,
+      "evidence": [
+        {
+          "source_id": "S47",
+          "level": "mention_only",
+          "supports": "此前抖音标题候选；舞蹈和图形组合待核，仅保留发现入口。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": true,
+      "intents": [
+        "待核"
+      ],
+      "voices": [
+        "待核"
+      ],
+      "relationships": [
+        "待核"
+      ],
+      "trigger": "先找到具体作品或文字上下文，核对对象、前因和回应。",
+      "avoid": [
+        "未核语境时不进入正式台词。"
+      ],
+      "plain_alternative": "先按人物目的写普通中文，不用此片段。",
+      "adaptation_example": null,
+      "freshness": {
+        "last_context_documented_at": null,
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "unverified",
+        "recent_title_leads": []
+      },
+      "review_note": "此前抖音标题候选；舞蹈和图形组合待核，仅保留发现入口。"
+    },
+    {
+      "id": "P004",
+      "family_id": "PF-P004",
+      "expression": "阿米娅摇",
+      "variants": [],
+      "kind": "performance_candidate",
+      "meaning": null,
+      "readiness": "pending_context",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": null,
+      "evidence": [
+        {
+          "source_id": "S47",
+          "level": "mention_only",
+          "supports": "此前B站作品BV1sFpM6RENb的标题候选；动作与作品角色关联待核，不借名称复制原IP表演。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": true,
+      "intents": [
+        "待核"
+      ],
+      "voices": [
+        "待核"
+      ],
+      "relationships": [
+        "待核"
+      ],
+      "trigger": "先找到具体作品或文字上下文，核对对象、前因和回应。",
+      "avoid": [
+        "未核语境时不进入正式台词。"
+      ],
+      "plain_alternative": "先按人物目的写普通中文，不用此片段。",
+      "adaptation_example": null,
+      "freshness": {
+        "last_context_documented_at": null,
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "unverified",
+        "recent_title_leads": []
+      },
+      "review_note": "此前B站作品BV1sFpM6RENb的标题候选；动作与作品角色关联待核，不借名称复制原IP表演。"
+    },
+    {
+      "id": "P005",
+      "family_id": "PF-P005",
+      "expression": "散身步",
+      "variants": [],
+      "kind": "performance_candidate",
+      "meaning": null,
+      "readiness": "pending_context",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": null,
+      "evidence": [
+        {
+          "source_id": "S39",
+          "level": "metadata_only",
+          "supports": "标题发现的近期候选；动作及真正词义待核。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": true,
+      "intents": [
+        "待核"
+      ],
+      "voices": [
+        "待核"
+      ],
+      "relationships": [
+        "待核"
+      ],
+      "trigger": "先找到具体作品或文字上下文，核对对象、前因和回应。",
+      "avoid": [
+        "未核语境时不进入正式台词。"
+      ],
+      "plain_alternative": "先按人物目的写普通中文，不用此片段。",
+      "adaptation_example": null,
+      "freshness": {
+        "last_context_documented_at": null,
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "unverified",
+        "recent_title_leads": []
+      },
+      "review_note": "标题发现的近期候选；动作及真正词义待核。"
+    },
+    {
+      "id": "P006",
+      "family_id": "PF-P006",
+      "expression": "PiuPiuPiu",
+      "variants": [],
+      "kind": "performance_candidate",
+      "meaning": null,
+      "readiness": "pending_context",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": null,
+      "evidence": [
+        {
+          "source_id": "S39",
+          "level": "metadata_only",
+          "supports": "声音／动作型线索；没有听审，不指定读法。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": true,
+      "intents": [
+        "待核"
+      ],
+      "voices": [
+        "待核"
+      ],
+      "relationships": [
+        "待核"
+      ],
+      "trigger": "先找到具体作品或文字上下文，核对对象、前因和回应。",
+      "avoid": [
+        "未核语境时不进入正式台词。"
+      ],
+      "plain_alternative": "先按人物目的写普通中文，不用此片段。",
+      "adaptation_example": null,
+      "freshness": {
+        "last_context_documented_at": null,
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "unverified",
+        "recent_title_leads": []
+      },
+      "review_note": "声音／动作型线索；没有听审，不指定读法。"
+    },
+    {
+      "id": "P007",
+      "family_id": "PF-P007",
+      "expression": "最棒的小羊",
+      "variants": [],
+      "kind": "performance_candidate",
+      "meaning": null,
+      "readiness": "pending_context",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": null,
+      "evidence": [
+        {
+          "source_id": "S06",
+          "level": "mention_only",
+          "supports": "榜单报道提到，但完整称呼对象和表演语境尚未核清。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": true,
+      "intents": [
+        "待核"
+      ],
+      "voices": [
+        "待核"
+      ],
+      "relationships": [
+        "待核"
+      ],
+      "trigger": "先找到具体作品或文字上下文，核对对象、前因和回应。",
+      "avoid": [
+        "未核语境时不进入正式台词。"
+      ],
+      "plain_alternative": "先按人物目的写普通中文，不用此片段。",
+      "adaptation_example": null,
+      "freshness": {
+        "last_context_documented_at": null,
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "unverified",
+        "recent_title_leads": []
+      },
+      "review_note": "榜单报道提到，但完整称呼对象和表演语境尚未核清。"
+    },
+    {
+      "id": "P008",
+      "family_id": "PF-P008",
+      "expression": "耐克鲨",
+      "variants": [],
+      "kind": "performance_candidate",
+      "meaning": null,
+      "readiness": "pending_context",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": null,
+      "evidence": [
+        {
+          "source_id": "S38",
+          "level": "mention_only",
+          "supports": "音轨、空耳与视觉语境待核。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": true,
+      "intents": [
+        "待核"
+      ],
+      "voices": [
+        "待核"
+      ],
+      "relationships": [
+        "待核"
+      ],
+      "trigger": "先找到具体作品或文字上下文，核对对象、前因和回应。",
+      "avoid": [
+        "未核语境时不进入正式台词。"
+      ],
+      "plain_alternative": "先按人物目的写普通中文，不用此片段。",
+      "adaptation_example": null,
+      "freshness": {
+        "last_context_documented_at": null,
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "unverified",
+        "recent_title_leads": []
+      },
+      "review_note": "音轨、空耳与视觉语境待核。"
+    },
+    {
+      "id": "P009",
+      "family_id": "PF-P009",
+      "expression": "从容与连滚带爬的歌曲表演",
+      "variants": [],
+      "kind": "performance_candidate",
+      "meaning": null,
+      "readiness": "pending_context",
+      "language": "zh",
+      "setting": [
+        "现代"
+      ],
+      "documented_at": null,
+      "evidence": [
+        {
+          "source_id": "S04",
+          "level": "mention_only",
+          "supports": "这里只收录反差机制线索；不复制完整歌词、曲调及真人质询表演。"
+        }
+      ],
+      "origin_verified": false,
+      "original_audio_reviewed": false,
+      "requires_original_audio": true,
+      "intents": [
+        "待核"
+      ],
+      "voices": [
+        "待核"
+      ],
+      "relationships": [
+        "待核"
+      ],
+      "trigger": "先找到具体作品或文字上下文，核对对象、前因和回应。",
+      "avoid": [
+        "未核语境时不进入正式台词。"
+      ],
+      "plain_alternative": "先按人物目的写普通中文，不用此片段。",
+      "adaptation_example": null,
+      "freshness": {
+        "last_context_documented_at": null,
+        "rechecked_at": "2026-10-09",
+        "heat_growth": null,
+        "status": "unverified",
+        "recent_title_leads": []
+      },
+      "review_note": "这里只收录反差机制线索；不复制完整歌词、曲调及真人质询表演。"
+    }
+  ],
+  "policy": {
+    "default_episode_budget": 1,
+    "default_character_cooldown_episodes": 3,
+    "allow_zero": true,
+    "max_distinct_characters_per_family": 2,
+    "budgets_are_editorial_trial_defaults": true
+  },
+  "collection": {
+    "platforms_with_direct_metadata": [
+      "bilibili"
+    ],
+    "platforms_with_web_text": [
+      "douyin",
+      "weibo"
+    ],
+    "platforms_not_directly_collected": [
+      "xiaohongshu"
+    ],
+    "runs": [
+      {
+        "path": "runs/20261009T080646Z-8262c2",
+        "query": "我超威",
+        "status": "success_with_recent_leads",
+        "items": 20,
+        "recent_raw": 5
+      },
+      {
+        "path": "runs/20261009T080646Z-d752ea",
+        "query": "网络热梗2026",
+        "status": "success_with_recent_leads",
+        "items": 20,
+        "recent_raw": 1
+      },
+      {
+        "path": "runs/20261009T080646Z-e129d4",
+        "query": "不烧心",
+        "status": "success_with_recent_leads",
+        "items": 19,
+        "recent_raw": 17
+      },
+      {
+        "path": "runs/20261009T080647Z-028fc8",
+        "query": "包的",
+        "status": "success_with_recent_leads",
+        "items": 20,
+        "recent_raw": 6
+      },
+      {
+        "path": "runs/20261009T080647Z-3e54c0",
+        "query": "爱你老己",
+        "status": "success_zero_recent_leads",
+        "items": 20,
+        "recent_raw": 0
+      },
+      {
+        "path": "runs/20261009T080647Z-fe26aa",
+        "query": "低山臭水遇知音",
+        "status": "success_with_recent_leads",
+        "items": 20,
+        "recent_raw": 3
+      },
+      {
+        "path": "runs/20261009T080648Z-9cfe57",
+        "query": "这种场面我还是在控制",
+        "status": "success_with_recent_leads",
+        "items": 20,
+        "recent_raw": 13
+      },
+      {
+        "path": "runs/20261009T080648Z-c2950f",
+        "query": "不知道 我的身材很曼妙",
+        "status": "success_zero_recent_leads",
+        "items": 20,
+        "recent_raw": 0
+      }
+    ],
+    "raw_unique_works": 159,
+    "raw_recent_works": 45,
+    "recent_phrase_match_unique_works": 22,
+    "metadata_can_promote_context": false,
+    "scheduler_enabled": false,
+    "original_audio_reviews": 0
+  },
+  "channel_health": [
+    {
+      "channel": "bilibili",
+      "status": "api_success",
+      "level": "title_and_metadata",
+      "note": "本轮八组成功；每页可能出现无关结果，按完整词句另筛。"
+    },
+    {
+      "channel": "douyin",
+      "status": "public_web_text_partial",
+      "level": "post_text_and_aggregate_transcript",
+      "note": "可读公开正文，聚合ASR有错字；浏览器自动化被请求头策略故障阻塞，未核原声。"
+    },
+    {
+      "channel": "weibo",
+      "status": "indexed_text_partial",
+      "level": "search_index_post_text",
+      "note": "取得AL战队公开文字用例；直连页面受robots限制。不是全站抓取。"
+    },
+    {
+      "channel": "xiaohongshu",
+      "status": "no_direct_context",
+      "level": "none",
+      "note": "本轮站点定向搜索未取得可复核笔记；仅使用带日期的媒体释义补充，不伪称平台采集成功。"
+    },
+    {
+      "channel": "news_and_language",
+      "status": "read_success",
+      "level": "context_or_definition",
+      "note": "用于核词义与年代，不以年度入选证明本周热度。"
+    }
+  ]
+}
