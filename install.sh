@@ -1,26 +1,33 @@
 #!/bin/bash
-# jiang-writer v2.1 安装脚本
-# 用法：先 clone 本仓库，在仓库根目录执行  bash install.sh
+# 安装脚本：把 skills/ 下的 Skill 复制到 ~/.claude/skills/
+# 用法：先 clone 本仓库，在仓库根目录执行
+#   bash install.sh                    # 安装全部（jiang-writer + ultimate-creative）
+#   bash install.sh jiang-writer       # 只装指定的
 set -e
 
-# 定位仓库根（脚本所在目录）
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-SRC="$REPO_DIR/skills/jiang-writer"
-DEST="$HOME/.claude/skills/jiang-writer"
 
-if [ ! -f "$SRC/SKILL.md" ]; then
-  echo "找不到 $SRC/SKILL.md —— 请在 clone 下来的仓库根目录运行本脚本。" >&2
-  exit 1
+if [ "$#" -gt 0 ]; then
+  SKILLS=("$@")
+else
+  SKILLS=()
+  for d in "$REPO_DIR"/skills/*/; do SKILLS+=("$(basename "$d")"); done
 fi
 
 mkdir -p "$HOME/.claude/skills"
-rm -rf "$DEST"
-cp -r "$SRC" "$DEST"
 
-echo "jiang-writer v2.1 安装完成。"
+for name in "${SKILLS[@]}"; do
+  SRC="$REPO_DIR/skills/$name"
+  DEST="$HOME/.claude/skills/$name"
+  if [ ! -f "$SRC/SKILL.md" ]; then
+    echo "找不到 $SRC/SKILL.md —— 请在 clone 下来的仓库根目录运行本脚本。" >&2
+    exit 1
+  fi
+  rm -rf "$DEST"
+  cp -r "$SRC" "$DEST"
+  find "$DEST" -name '__pycache__' -type d -prune -exec rm -rf {} +
+  echo "已安装 $name → ${DEST/#$HOME/\~}（$(find "$DEST" -type f | wc -l) 个文件）"
+done
+
 echo ""
-echo "Skill: $DEST"
-echo ""
-find "$DEST" -type f | sed "s|$HOME|~|" | sort
-echo ""
-echo "重启 Claude Code 后生效。写竖屏微短剧时，Skill 会加载 references/vertical-microdrama.md。"
+echo "重启 Claude Code 后生效。"

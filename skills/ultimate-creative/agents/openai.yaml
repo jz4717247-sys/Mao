@@ -1,0 +1,4 @@
+interface:
+  display_name: "终极创意"
+  short_description: "根据描述抽卡选题，落地核心角色、辨识特色、口头禅、热梗用法与故事大纲"
+  default_prompt: "用 $ultimate-creative，保留我的描述与锁定条件，以解析库为核心提出有差异的选题方向；明确方向后落地核心角色、特色、口头禅、适境热梗规划和故事大纲，不生成剧本正文。"

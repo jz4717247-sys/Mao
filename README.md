@@ -45,13 +45,32 @@ skills/jiang-writer/
 - `vertical-season-and-monetization.md`：四段式节奏波形（起势15%/攀升30%/风暴35%/决战20%，带爽点强度与加减速比例）、五类爽感与按段密度、题材配比、付费卡点集数基线（首卡8-12集…）与卡点选择三原则。
 - `vertical-compliance.md`：七个合规维度、P0红线/P1-P2灰区分级、逐集与全剧自检、题材高发踩坑、出海补充。
 
+## ultimate-creative（终极创意）
+
+`skills/ultimate-creative/`：**上游选题 Skill**，与 jiang-writer 分工——它只到「选题方向 → 人物与特色 → 口头禅与热梗规划 → 故事大纲」，不写分场、对白或分镜；方案定了再交给 jiang-writer 写稿。
+
+- 三条路线：抖音超创 / AI仿真人 / AI动漫
+- 资料底座：解析剧语料快照（461 份档案、367 个故事族、48 个上位标签、20 项机制、13 组方向模式）+ 60 部日本作品的想象力层
+- 检索脚本（在 Skill 根目录运行，纯 Python 标准库）：
+
+```bash
+cd ~/.claude/skills/ultimate-creative
+python3 scripts/evidence_engine.py draw --lock 黄毛 --lock 穿越 --lock 逆袭 --count 5
+python3 scripts/japan_engine.py combine --route douyin --intensity radical --lock 搞笑 --count 5
+```
+
+用法：`用 ultimate-creative，搞笑猎奇、抖音超创，给5个脑洞大的方向，只给选题比较。`
+
+注：包体约 10MB（主要是 `references/*.json` 语料），只在需要时由脚本检索，不会整包读进上下文。`scripts/collect_bilibili.py` 会联网调用 B 站公开搜索接口，仅在查新热梗时使用。
+
 ## 安装（电脑端）
 
 前提：已装 Claude Code（`npm install -g @anthropic-ai/claude-code`）。
 
 ```bash
 git clone <本仓库> && cd Mao
-bash install.sh          # 复制 skills/jiang-writer 到 ~/.claude/skills/
+bash install.sh                     # 安装全部 Skill 到 ~/.claude/skills/
+bash install.sh ultimate-creative   # 或只装某一个
 ```
 
 装完重启 Claude Code。（v2.1 文件数较多，安装脚本改为从 clone 的仓库复制，不再是可粘贴的自包含脚本。）

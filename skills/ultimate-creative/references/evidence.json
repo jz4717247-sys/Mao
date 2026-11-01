@@ -1,0 +1,1535 @@
+{
+  "snapshot_date": "2026-10-03",
+  "evidence": [
+    {
+      "id": "DY-E01",
+      "source_id": "S28041f2787",
+      "paragraph_start": 897,
+      "paragraph_end": 897,
+      "quote": "魔法完成现代化，巫师要上班、魔物要交房租。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "现实生计把陌生奇幻变成一句话可懂的任务",
+      "limitation": "作者对作品机制的归纳，不等于平台验证的传播因果",
+      "context": "收租和报修逐步带出怪物社区。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E02",
+      "source_id": "Sfc3089b4df",
+      "paragraph_start": 11,
+      "paragraph_end": 11,
+      "quote": "第一句不是宣战，而是抱怨道路要修几个月、明早会堵车",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "大灾难与小损失同时出现，建立英雄兼上班族身份",
+      "limitation": "只支持本作内容结构，不设所有作品必须搞笑的通则",
+      "context": "英雄面对巨型机器人，最先关心通勤后果。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E03",
+      "source_id": "S702d3749ec",
+      "paragraph_start": 273,
+      "paragraph_end": 273,
+      "quote": "崔珏：逾期，你下个月的绩效归零。另外，你这个月的绩效没了啊。",
+      "evidence_layer": "文档还原剧情",
+      "mechanism": "日出前补生平表把死亡议题转成明晰工作任务",
+      "limitation": "这是解析文档还原的对白，本轮未听原音",
+      "context": "周德海误饮孟婆汤后，补表责任和绩效损失落到女幽差。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E04",
+      "source_id": "S47230c3077",
+      "paragraph_start": 14,
+      "paragraph_end": 14,
+      "quote": "固定搭档＋固定办公室＋每集新委托",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "固定关系和空间，替换委托即可续航",
+      "limitation": "材料仅留存一集，连载续航是设计潜力而非已经验证的长期表现",
+      "context": "替人搞砸相亲由职业规则引出，任务结束后目标对象主动回来。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E05",
+      "source_id": "S87e7984c38",
+      "paragraph_start": 151,
+      "paragraph_end": 151,
+      "quote": "24条是独立挑战作品，不是同一故事的24个连续剧情集。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "固定的是规则竞赛格式，不强造连续人物成长",
+      "limitation": "历史30条清点仅取得24条，不能外推缺失六条",
+      "context": "主持、规则、奖惩和反制反复出现，选手不强行视作同一人。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E06",
+      "source_id": "Sba8c239fca",
+      "paragraph_start": 32,
+      "paragraph_end": 32,
+      "quote": "每集不是彻底归零，也不是直接大结局。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "关系连载逐步缩小秘密，保留已经获得的心动回报",
+      "limitation": "五集仍未公开恋爱与完整终局，不补写后续",
+      "context": "第四集江茄知道宋羡识破身份；第五集闻昭才理解白昼身份。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E07",
+      "source_id": "S134618aea4",
+      "paragraph_start": 893,
+      "paragraph_end": 893,
+      "quote": "条件、违规、惩罚、纠错与结算",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "可执行规则产生可推演的行为链",
+      "limitation": "这是多数关卡归纳，不代表所有段落必须机械凑齐五步",
+      "context": "宿舍、签到和图书馆任务让规则实际影响存活与身份。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E08",
+      "source_id": "S87e7984c38",
+      "paragraph_start": 165,
+      "paragraph_end": 165,
+      "quote": "直线赛最后比较的是离起点最远，寝室长用对跖点回收开场条件",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "胜利来自理解规则第二含义，而非无限加能力",
+      "limitation": "适合竞赛/规则题材，现实情感剧不强塞解谜",
+      "context": "对规则重新理解改变了胜负判断。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E09",
+      "source_id": "Sfc3089b4df",
+      "paragraph_start": 631,
+      "paragraph_end": 631,
+      "quote": "复制者先靠复制体逃脱，后续强光反制才有回报。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "先证明敌人的解法有效，再靠副作用反制",
+      "limitation": "作者归纳，非未经铺垫就可临时增加弱点",
+      "context": "人事谈话里的多双眼睛帮助英雄认识共享视野。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E10",
+      "source_id": "S2ebf29044a",
+      "paragraph_start": 286,
+      "paragraph_end": 289,
+      "quote": "林零一：把你的美术模型给我，你那些被毙掉的文案也全要。",
+      "evidence_layer": "文档还原剧情",
+      "mechanism": "人物弧光用工作方式改变兑现",
+      "limitation": "本轮只核文档文字；团队岗位不应照抄成所有群像必需设置",
+      "context": "前面被批不协作，后面主动索取伙伴素材并确认共同存档。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E11",
+      "source_id": "S758b75a2d6",
+      "paragraph_start": 20,
+      "paragraph_end": 20,
+      "quote": "第五集检查爪子，第六集让伙伴决定是否再战，形成长期回报。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "成长由重复处境中的行为差异证明",
+      "limitation": "前六集留存范围，不能据此声称完整成长终局",
+      "context": "先命令幼兽挡成年兽导致受惊，后改成检查与询问意愿。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E12",
+      "source_id": "S062566e37e",
+      "paragraph_start": 1380,
+      "paragraph_end": 1380,
+      "quote": "主角从“被安排”进阶为提出条款，行动本身就是人物升级。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "现实成长可通过谈判能力而非战力/身份暴涨实现",
+      "limitation": "第二季的职业成长观察；不能外推为所有人物必须商业谈判",
+      "context": "桃子把风险项目拆为可谈条件。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E13",
+      "source_id": "S702d3749ec",
+      "paragraph_start": 318,
+      "paragraph_end": 332,
+      "quote": "周妻：留一盒吧，你爸爱吃。",
+      "evidence_layer": "文档还原剧情",
+      "mechanism": "生活惯性让失去可感，然后使采集表改变价值尺度",
+      "limitation": "源文档还原，不伪称本轮原声确认",
+      "context": "周妻为亡夫留扣肉；戒指相册拼出日常，女幽差写下照顾家人不算小事。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E14",
+      "source_id": "S6237b6d786",
+      "paragraph_start": 143,
+      "paragraph_end": 143,
+      "quote": "第2集拒汉堡、第4集捧汉堡，动作结果形成回报",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "同一道具前后不同身体动作承载自由选择",
+      "limitation": "中文对白是工作译文；动作描述来自解析文档，未看片复核",
+      "context": "德里泽拉从不敢手碰食物到主动拿起并咬下。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E15",
+      "source_id": "S062566e37e",
+      "paragraph_start": 1384,
+      "paragraph_end": 1384,
+      "quote": "口红完成失踪物—活动爆点—质量翻车的三次变义",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "道具随行动和利益变化升级，而非只作为视觉符号",
+      "limitation": "只复用结构，不复制特定品牌事件或人物线",
+      "context": "一支口红把线索、公开行动和下一集后果接起来。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E16",
+      "source_id": "Sba8c239fca",
+      "paragraph_start": 20,
+      "paragraph_end": 20,
+      "quote": "宋羡先察觉、江茄却不知道他已经知道。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "分开观众/每个角色的知情状态，拆穿时刻成为奖励",
+      "limitation": "不能把另一CP的识破时间提前或错归角色",
+      "context": "同一秘密在两条恋爱线以不同速度缩小。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E17",
+      "source_id": "S6237b6d786",
+      "paragraph_start": 114,
+      "paragraph_end": 114,
+      "quote": "钢琴证明身份。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "异常技能是见证者改变判断的证据，不靠口述宣告",
+      "limitation": "钢琴动作不能推出具体音乐曲目或实际演奏录音",
+      "context": "夏洛特看到多丽丝身体具备不可能的新技能，才无法继续用失忆解释。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E18",
+      "source_id": "S184ca41585",
+      "paragraph_start": 154,
+      "paragraph_end": 154,
+      "quote": "让三个人分别掌握不完整异常证据，最终用一次可见灾变完成信息汇合。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "分散信号制造延迟认知，灾变统一解释",
+      "limitation": "冷开场尚未接入主线的段落不能替作者补闭环",
+      "context": "频率不符、辐射上升与骸核重构汇合推翻低危判断。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E19",
+      "source_id": "S47230c3077",
+      "paragraph_start": 360,
+      "paragraph_end": 360,
+      "quote": "助理不是解释失败，而是冲进去叫爸，立即改变所有人的关系判断。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "一声称谓就是行动，可以直接改变场面关系",
+      "limitation": "适用于身份表演喜剧；不把欺骗设为所有主角价值",
+      "context": "相亲自毁失败后，助理以假女儿身份救场。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E20",
+      "source_id": "Sde9b882043",
+      "paragraph_start": 26,
+      "paragraph_end": 26,
+      "quote": "台词不是额外旁白解释，而是给刚发生的荒诞动作再加一层错位。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "对白依赖角色动机和现场动作产生第二层意义",
+      "limitation": "原文方言、谐音和独特短句不整段照搬",
+      "context": "踢伤力褶后再说你不瘸能行吗；老人抢槟榔后称自己长身体。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E21",
+      "source_id": "S2ebf29044a",
+      "paragraph_start": 339,
+      "paragraph_end": 339,
+      "quote": "林零一：怕，所以得快。",
+      "evidence_layer": "文档还原剧情",
+      "mechanism": "短回复连接恐惧与下一步行动，避免情绪自述停住剧情",
+      "limitation": "解析稿对白，非本轮实听",
+      "context": "公司施压没有令人物停止，反而推动其立刻开发。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E22",
+      "source_id": "S1b54ab09c9",
+      "paragraph_start": 12,
+      "paragraph_end": 12,
+      "quote": "搜索占用司机→陈艳临时派沈星杰送车",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "同一个意外同时推动救援线与潜入线，群像互相产生机会",
+      "limitation": "未明机构性质和后续直播案件结果不得自补",
+      "context": "小满逃走让司机找人，潜入者因此获得送车权限并直达码头。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E23",
+      "source_id": "S758b75a2d6",
+      "paragraph_start": 22,
+      "paragraph_end": 22,
+      "quote": "巡界压制、剥项圈与开门缺一不可。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "不同角色承担不能相互代替的解题动作",
+      "limitation": "不应压缩成主角击败成年兽，幼崽与项圈是因果关键",
+      "context": "灰脊鬣在找货舱幼崽，伤害它的装置与门同时构成问题。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E24",
+      "source_id": "Sf4803f796a",
+      "paragraph_start": 1391,
+      "paragraph_end": 1391,
+      "quote": "角色会被调离、受伤、失踪、回援或潜伏，关系状态持续变化。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "群像有进入退出与留空后果，不只是分配台词",
+      "limitation": "来源是15个关联页面条目，终局未闭合；不能套用短视频秒数",
+      "context": "牺牲失踪、各地分配和守城回援持续改变队伍。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E25",
+      "source_id": "S2ebf29044a",
+      "paragraph_start": 382,
+      "paragraph_end": 382,
+      "quote": "赛车世界的地面突然升起一条发光坡道，十色城也长出对应的透明道路。",
+      "evidence_layer": "文档还原剧情",
+      "mechanism": "奇观直接兑现拒绝删世界的决定，改变可行路线",
+      "limitation": "SEED自主补全仍有未知，不把未命名区域编成终局",
+      "context": "三世界冲突后，连接替代删除，三位主角随后会合。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E26",
+      "source_id": "Sd5faeb1407",
+      "paragraph_start": 39,
+      "paragraph_end": 41,
+      "quote": "失去腿的人获得站起来的能力，照料者获得一线希望",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "先兑现新身体好处，再展示供能代价，奇观决定人物选择",
+      "limitation": "九集是局部范围，食物链机制仍有未明处",
+      "context": "念念再生后持续饥饿，普通食物不能养活新身体。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E27",
+      "source_id": "Se1d9be16f9",
+      "paragraph_start": 1266,
+      "paragraph_end": 1266,
+      "quote": "幻想不是装饰：它会解释人物理解、隐藏创伤、把抽象规则变成行动，或制造反讽。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "多风格视觉服从同一认知机制，不等同全能外部魔法",
+      "limitation": "必须分清现实与主观层；原音与BGM未独立听审",
+      "context": "送泡面成为格斗任务，水饺拟人又回到身体疲惫。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E28",
+      "source_id": "Sde9b882043",
+      "paragraph_start": 28,
+      "paragraph_end": 28,
+      "quote": "这是故意拒绝温情收束的黑色荒诞喜剧",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "保留作品情绪契约，不能强加亲情和解",
+      "limitation": "这是分析者对文本结构的解读；不据此认定作者内心动机",
+      "context": "父亲没有因儿子送舞和解，而是撞倒儿子抢游戏掉落物。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E29",
+      "source_id": "Se1d9be16f9",
+      "paragraph_start": 1255,
+      "paragraph_end": 1255,
+      "quote": "没用羞耻与过劳让前面的可爱逐渐变疼。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "后揭示的创伤重新解释前面的可爱，而非简单叠虐点",
+      "limitation": "不把勤劳一律写成创伤，也不发明材料外诊断",
+      "context": "过度打工源于害怕无用，休息许可成为关系回报。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E30",
+      "source_id": "S4864119e59",
+      "paragraph_start": 1236,
+      "paragraph_end": 1236,
+      "quote": "女性成长并非爽文、机会背后的隐形劳动。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "现实成长允许妥协、账单与不彻底的胜利",
+      "limitation": "不能把现实类型压成每集反派受罚和身份暴涨",
+      "context": "职业选择、资源机会与不可回避的隐形劳动并存。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E31",
+      "source_id": "S28041f2787",
+      "paragraph_start": 921,
+      "paragraph_end": 921,
+      "quote": "E03为小龙承诺黑胶，E04用挑黑胶打开唱片小人主线。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "本集兑现人情同时成为下一案入口",
+      "limitation": "四集留存不证明已经完结全季",
+      "context": "修复屋子的旧案闭合后，交付报酬自然带出新求助。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E32",
+      "source_id": "S1b54ab09c9",
+      "paragraph_start": 14,
+      "paragraph_end": 14,
+      "quote": "任务结束的耳环笑点放松情绪，直播女人的解释无效重新抬高风险。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "先结算救人/搭档关系，再由日常行为开启新任务",
+      "limitation": "下一案结局没有留存，不补造整季结案",
+      "context": "孩子获救和警员接手已经兑现，再从车内刷手机遇见新风险。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E33",
+      "source_id": "S9bd6faf5db",
+      "paragraph_start": 187,
+      "paragraph_end": 187,
+      "quote": "单一道具贯穿规则、阶层、反转和动作，尾段闪回重写小麦因果。",
+      "evidence_layer": "解析作者分析",
+      "mechanism": "奖励与损失都真实发生，季级信息改变下一步追踪对象",
+      "limitation": "三集只有阶段回报，题名主角延迟须维持间接存在",
+      "context": "金钥匙刚被确认便被夺走，后段揭示祈请小麦的身份关系。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E34",
+      "source_id": "Se1d9be16f9",
+      "paragraph_start": 487,
+      "paragraph_end": 493,
+      "quote": "网吧老板（画外）：王莉莉！五十三号说要一桶泡面。",
+      "evidence_layer": "文档还原剧情",
+      "mechanism": "区分画外现场声音、角色旁白与主观场，声音触发实际任务",
+      "limitation": "这只是文档声源标签；未独立听原片，不能确认音色和混音",
+      "context": "现场叫喊交代任务；莉莉旁白解释信念；像素厨房标为她的想象。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E35",
+      "source_id": "Sde9b882043",
+      "paragraph_start": 531,
+      "paragraph_end": 531,
+      "quote": "现场对白、电话、旁白先生、游戏提示、舞蹈唱段应分开",
+      "evidence_layer": "解析作者创作建议",
+      "mechanism": "声源类型分栏让观众区分谁在说话以及是否世界内信息",
+      "limitation": "此处是重制建议，不冒充原片音轨已验证",
+      "context": "游戏提示和舞蹈唱段不应无依据署给普通人物。",
+      "route": "douyin"
+    },
+    {
+      "id": "DY-E36",
+      "source_id": "S1b54ab09c9",
+      "paragraph_start": 481,
+      "paragraph_end": 481,
+      "quote": "drop用于嘘、低头与解释无效",
+      "evidence_layer": "解析作者创作建议",
+      "mechanism": "关键行动指令前后减密度，为理解和动作反馈留空间",
+      "limitation": "原片未独立听审；这是可采用的新作声音方案，非复原事实",
+      "context": "救援的嘘与低头决定角色是否被发现/受伤，不应用满铺音乐盖掉。",
+      "route": "douyin"
+    },
+    {
+      "id": "AN-E01",
+      "rule_id": "AN-01",
+      "source_id": "S4a1db5fcb1",
+      "paragraph_start": 292,
+      "paragraph_end": 292,
+      "quote": "现在？还早呢。你这双眼现在是拿来找妖、看生机的。",
+      "evidence_type": "剧情文本",
+      "mechanism": "新能力可用但有职责边界，辅助价值先于战斗升级。",
+      "limitation": "现在不能打妖；未来通幽能力只是人物承诺。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/一村人养一个神第三季__7682297801853635608.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E02",
+      "rule_id": "AN-01",
+      "source_id": "S5efe3f12dd",
+      "paragraph_start": 194,
+      "paragraph_end": 194,
+      "quote": "20小时一个，我还有70多个小时……这不就够三个？我还选什么。",
+      "evidence_type": "剧情文本",
+      "mechanism": "时间预算把金手指变为可计算选择。",
+      "limitation": "规则属于虚构；三次目标并不证明无限吞噬或无代价。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/我提前三天被丢进了末世_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E03",
+      "rule_id": "AN-01",
+      "source_id": "S43843f56b9",
+      "paragraph_start": 388,
+      "paragraph_end": 388,
+      "quote": "这枚神印是公会准备了三年，死了十几号人，从大型遗迹中抢回来的。",
+      "evidence_type": "剧情文本",
+      "mechanism": "资源获得的历史代价，使赠予成为关系责任。",
+      "limitation": "这是楚狂人的陈述，解析没有还原夺印过程；不把伤亡当所有升级的必要条件。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/觉醒伪神：神明弃我我自为神_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E04",
+      "rule_id": "AN-02",
+      "source_id": "S3b6dfb6de3",
+      "paragraph_start": 317,
+      "paragraph_end": 317,
+      "quote": "枪口突然闪出火光，天花板出现焦黑裂纹与孔洞。",
+      "evidence_type": "剧情文本",
+      "mechanism": "实际物件后果推翻主角的常识解释，让危险世界进入房间。",
+      "limitation": "只提炼误判被可见后果推翻的结构，不用此例提供武器操作。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/末世降临，我是末日生存方案供应商_前三集剧本与内容分析报告__7688194965624589336.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E05",
+      "rule_id": "AN-02",
+      "source_id": "S731ca35157",
+      "paragraph_start": 217,
+      "paragraph_end": 217,
+      "quote": "家养宠物 业务广泛 可代签收快递",
+      "evidence_type": "剧情文本",
+      "mechanism": "非人身体约束与人类物流规则冲撞，迫使主角制定可见方案。",
+      "limitation": "纯属喜剧虚构，不是现实签收规则。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/重生扬子鳄：从网购开始吞噬进化__7682022576490548248.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E06",
+      "rule_id": "AN-02",
+      "source_id": "S67b19d99ec",
+      "paragraph_start": 218,
+      "paragraph_end": 218,
+      "quote": "破旧卷帘门被发光的金属门框覆盖，地面形成连续的光环",
+      "evidence_type": "剧情文本",
+      "mechanism": "支付与同一资产的前后变化连接，规则经行动显示。",
+      "limitation": "P0217九十万与P0223九百万存在源内冲突，不能强行调和。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/星际机修师__7684185707165781017.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E07",
+      "rule_id": "AN-03",
+      "source_id": "S91d5015153",
+      "paragraph_start": 295,
+      "paragraph_end": 295,
+      "quote": "红色巨影长出粗壮双臂，双手顶住金钟钟沿。",
+      "evidence_type": "剧情文本",
+      "mechanism": "奇观承担阻止压制的即时动作目标，同时加重身份误读。",
+      "limitation": "前三集没有金钟最终胜负，红黑纹成因仍待核。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/谁让这个文盲修仙的__7668904735717477400.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E08",
+      "rule_id": "AN-03",
+      "source_id": "S4a1db5fcb1",
+      "paragraph_start": 274,
+      "paragraph_end": 274,
+      "quote": "我刚刚感受到一股风，吹到了我身上，可我知道风吹在石头背上。",
+      "evidence_type": "剧情文本",
+      "mechanism": "能力可视化连到主观感知和伙伴关系，特效有可复述的新信息。",
+      "limitation": "感知连接不等于已经操纵狼战斗。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/一村人养一个神第三季__7682297801853635608.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E09",
+      "rule_id": "AN-03",
+      "source_id": "S67b19d99ec",
+      "paragraph_start": 147,
+      "paragraph_end": 147,
+      "quote": "给“能修”提供物理舞台，但前三集没拍出苏白修好小红",
+      "evidence_type": "解析作者分析",
+      "mechanism": "工具奇观只能建立条件，客户问题仍需在剧情中兑现。",
+      "limitation": "负例提醒：精美车间不能替代完成维修的情节回报。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/星际机修师__7684185707165781017.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E10",
+      "rule_id": "AN-04",
+      "source_id": "S43843f56b9",
+      "paragraph_start": 380,
+      "paragraph_end": 380,
+      "quote": "陈昊宇将盒子贴近身前，手指扣紧盒边。",
+      "evidence_type": "剧情文本",
+      "mechanism": "从拒绝礼物到抱紧礼物，把被接纳转成可见关系变化。",
+      "limitation": "必须连读P0373拒绝与P0379公会是家，不孤立解释一个手势。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/觉醒伪神：神明弃我我自为神_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E11",
+      "rule_id": "AN-04",
+      "source_id": "S1bf2debedc",
+      "paragraph_start": 276,
+      "paragraph_end": 276,
+      "quote": "他还想追问，转而把橘瓣再次送到她唇边；她迟疑片刻，含住。",
+      "evidence_type": "剧情文本",
+      "mechanism": "角色放下信息需求先照顾对方，亲情通过资源和顺序体现。",
+      "limitation": "此作目录属漫剧但报告称写实CG/AI仿真人取向；可迁移关系机制，不据目录锁定画风。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/满院亲戚全是上古大妖__7673855639302442008.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E12",
+      "rule_id": "AN-04",
+      "source_id": "S6d87b69bdb",
+      "paragraph_start": 103,
+      "paragraph_end": 103,
+      "quote": "周朗拿出手机，低头看屏幕，转过手机让周昊看。",
+      "evidence_type": "剧情文本",
+      "mechanism": "共享物证改变相互指责的关系，让联盟有行动基础。",
+      "limitation": "兄弟共同受骗的解释需配合P0108—0109对账；不是一递手机便完成和解。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/竞争的枷锁_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E13",
+      "rule_id": "AN-05",
+      "source_id": "S91d5015153",
+      "paragraph_start": 285,
+      "paragraph_end": 285,
+      "quote": "气死老子了，一个字也看不懂！",
+      "evidence_type": "剧情文本",
+      "mechanism": "不识字使主角自我解释与他人判断长期冲撞，可持续产生行动喜剧。",
+      "limitation": "不能把阅读障碍当纯侮辱；本例真正笑点是自信、误练与外部后果。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/谁让这个文盲修仙的__7668904735717477400.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E14",
+      "rule_id": "AN-05",
+      "source_id": "S731ca35157",
+      "paragraph_start": 151,
+      "paragraph_end": 151,
+      "quote": "不可能，我可是水中霸主鳄鱼！怎么被不锈钢盆单杀了？",
+      "evidence_type": "剧情文本",
+      "mechanism": "宏大自我认知被小身体与日常工具纠正。",
+      "limitation": "首次失误后必须换方法；反复同样受辱会耗尽喜剧。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/重生扬子鳄：从网购开始吞噬进化__7682022576490548248.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E15",
+      "rule_id": "AN-05",
+      "source_id": "Se9d904c945",
+      "paragraph_start": 273,
+      "paragraph_end": 273,
+      "quote": "一个个也太闪了吧！早知道再给自己编一个能自动遮光的能力了。",
+      "evidence_type": "剧情文本",
+      "mechanism": "把视觉奇观转成角色的实际麻烦，庄严与日常需求形成落差。",
+      "limitation": "第十季幻境的规则不可未经解释移植给首集。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/唢呐修仙，一曲炸翻修仙界第十季__7683457453203147801.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E16",
+      "rule_id": "AN-06",
+      "source_id": "S005e55c69a",
+      "paragraph_start": 89,
+      "paragraph_end": 89,
+      "quote": "我这耗费灵药治不好的伤，竟被这可乐治好了。",
+      "evidence_type": "剧情文本",
+      "mechanism": "功能兑现后顾客改口并求购，经营爽感有验证链。",
+      "limitation": "只限作品虚构商品；P0037辣条尚未验证功能，不能复制成已发生疗效。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/玄幻：神级大店长第一季_前三集剧本与内容分析报告__7687905841738943512.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E17",
+      "rule_id": "AN-06",
+      "source_id": "S2ed6620fa6",
+      "paragraph_start": 289,
+      "paragraph_end": 289,
+      "quote": "本来还觉得自己是不是被坑了，现在觉得简直物超所值",
+      "evidence_type": "剧情文本",
+      "mechanism": "买家由价格异议经试吃转追加订单，是产品被承认的可观察回报。",
+      "limitation": "追加五只并不等于总任务三百销量完成。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/石老板的食谱随机刷新，客人馋疯了第三季_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E18",
+      "rule_id": "AN-06",
+      "source_id": "S96382b6f04",
+      "paragraph_start": 541,
+      "paragraph_end": 541,
+      "quote": "计算器上显示7410。林辰抬眼，嘴微张，手停在桌沿。",
+      "evidence_type": "剧情文本",
+      "mechanism": "能力从表演验证到现金结算，数字与反应共同落实阶段回报。",
+      "limitation": "收入是片内叙事标尺，不作现实收入预测；源内精确总账存在未知。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/回到零四年进军彩铃界_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E19",
+      "rule_id": "AN-07",
+      "source_id": "Sa72298e660",
+      "paragraph_start": 221,
+      "paragraph_end": 221,
+      "quote": "你说以后订单多了，按件分钱。",
+      "evidence_type": "剧情文本",
+      "mechanism": "主角由询问成本切换到核对承诺，谈话也是策略行动。",
+      "limitation": "前三集尚未离店创业；被压迫阶段不等于无主角行动。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/一针绣出自己的路__7681130432334662680.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E20",
+      "rule_id": "AN-07",
+      "source_id": "Sf02b18fc3c",
+      "paragraph_start": 151,
+      "paragraph_end": 151,
+      "quote": "在忐忑不安中，我还是拨打了110。",
+      "evidence_type": "剧情文本",
+      "mechanism": "主角在观察、复查、联络失败后求助，使悬疑从等待他人解释转入行动。",
+      "limitation": "同段“只有一种解释”是角色猜测，不是凶案或丈夫罪行已被证明。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/搬进江景房，老公每晚对着鱼缸坐两小时_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E21",
+      "rule_id": "AN-07",
+      "source_id": "S1bf2debedc",
+      "paragraph_start": 279,
+      "paragraph_end": 279,
+      "quote": "第一步，找到爸爸；第二步，让爸爸认我；第三步，让爸爸心甘情愿给妈妈治病。",
+      "evidence_type": "剧情文本",
+      "mechanism": "非战斗目标有明确分步障碍，寻亲同样可以形成连载任务。",
+      "limitation": "这是孩子计划，前三集没有找父成功或治疗结果。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/满院亲戚全是上古大妖__7673855639302442008.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E22",
+      "rule_id": "AN-08",
+      "source_id": "S3b6dfb6de3",
+      "paragraph_start": 55,
+      "paragraph_end": 55,
+      "quote": "回报不是全剧情胜利，每次答案都带出更强的问题。",
+      "evidence_type": "解析作者分析",
+      "mechanism": "单集兑现局部问题后，沿同一因果生成新问题。",
+      "limitation": "前三集停在公司名，正式求生尚未开始；不能保证后续兑现。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/末世降临，我是末日生存方案供应商_前三集剧本与内容分析报告__7688194965624589336.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E23",
+      "rule_id": "AN-08",
+      "source_id": "S4a1db5fcb1",
+      "paragraph_start": 373,
+      "paragraph_end": 373,
+      "quote": "第一集以治疗异常收尾，第二集开头立即确认眼睛，不拖延旧问题。",
+      "evidence_type": "解析作者分析",
+      "mechanism": "下一集应尽快偿还上一集承诺，再扩展能力用途。",
+      "limitation": "这是该作选段机制，不是所有题材必须下一秒答谜底。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/一村人养一个神第三季__7682297801853635608.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E24",
+      "rule_id": "AN-08",
+      "source_id": "S67b19d99ec",
+      "paragraph_start": 225,
+      "paragraph_end": 225,
+      "quote": "二十四小时内成功进行一次星际强化，任务奖励一次机甲天赋觉醒机会。",
+      "evidence_type": "剧情文本",
+      "mechanism": "准备完成后导向有时限、有验收结果的新任务。",
+      "limitation": "奖励只是承诺；本地三集未完成客户机甲修复。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/星际机修师__7684185707165781017.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E25",
+      "rule_id": "AN-09",
+      "source_id": "S18ba3aad7b",
+      "paragraph_start": 40,
+      "paragraph_end": 40,
+      "quote": "观众比皇帝多知道一步，因此最后的“走”虽然不是售卖回报，仍有追看动力。",
+      "evidence_type": "解析作者分析",
+      "mechanism": "让观众先知真实摆摊地点，再观察角色按错误预期行动。",
+      "limitation": "信息差要造成选择与后果；凉皮未卖出，不能算经营收官。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/美食掌柜第五季__7683528589244910617.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E26",
+      "rule_id": "AN-09",
+      "source_id": "Sf02b18fc3c",
+      "paragraph_start": 50,
+      "paragraph_end": 50,
+      "quote": "亮点是答案被物理门禁阻断，身体现象先于说明。",
+      "evidence_type": "解析作者分析",
+      "mechanism": "悬念延迟有门、距离和联络失效的具体载体。",
+      "limitation": "三集均未揭谜底，是拖延风险样本，非可无限扣住解释的证明。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/搬进江景房，老公每晚对着鱼缸坐两小时_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E27",
+      "rule_id": "AN-09",
+      "source_id": "S6d87b69bdb",
+      "paragraph_start": 109,
+      "paragraph_end": 109,
+      "quote": "他们跟我说的正好相反。他们说你九十三，我九十一，所以四千八全部归你。",
+      "evidence_type": "剧情文本",
+      "mechanism": "同一可比较数字揭穿信息操控，反转不依靠突然新人物。",
+      "limitation": "数字需在各角色知情表里一致；不要复制原家庭伤害桥段。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/竞争的枷锁_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E28",
+      "rule_id": "AN-10",
+      "source_id": "S2ed6620fa6",
+      "paragraph_start": 62,
+      "paragraph_end": 62,
+      "quote": "系统硬限制→设备与食品准备→第一买家态度反转→熟人传播→追卖家未果。",
+      "evidence_type": "解析作者分析",
+      "mechanism": "经营连载由不同问题接力，不靠反复宣称好吃。",
+      "limitation": "实际传播数据缺失；故事内熟人分享不是平台口碑验证。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/石老板的食谱随机刷新，客人馋疯了第三季_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E29",
+      "rule_id": "AN-10",
+      "source_id": "S5efe3f12dd",
+      "paragraph_start": 22,
+      "paragraph_end": 22,
+      "quote": "三日准备期结束，荒原上成排升起传送光柱，普通蓝星人类此时才到达。",
+      "evidence_type": "解析作者分析",
+      "mechanism": "倒计时归零改变竞争环境，阶段目标结束后更新阻力。",
+      "limitation": "后续人群竞争未在三集展开，不能编出战果。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/我提前三天被丢进了末世_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E30",
+      "rule_id": "AN-10",
+      "source_id": "Se9d904c945",
+      "paragraph_start": 77,
+      "paragraph_end": 77,
+      "quote": "有人先怕危险，有人急着尝试新能力，有人旁观研究，有人发现商机。",
+      "evidence_type": "解析作者分析",
+      "mechanism": "群像注意力不同，同一事件产生互相牵制的行动线。",
+      "limitation": "多人不同动机必须保留清晰主目标，不能让讨论淹没行动。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/唢呐修仙，一曲炸翻修仙界第十季__7683457453203147801.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E31",
+      "rule_id": "AN-11",
+      "source_id": "S96382b6f04",
+      "paragraph_start": 842,
+      "paragraph_end": 842,
+      "quote": "要分开画内演唱、人物心声、观众评价与画外配乐。",
+      "evidence_type": "解析作者分析",
+      "mechanism": "音乐可作为职业能力与交易产品，剧本先区分声源与叙事职责。",
+      "limitation": "原报告混合音轨未听审，具体曲速、音色、编曲未知。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/回到零四年进军彩铃界_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E32",
+      "rule_id": "AN-11",
+      "source_id": "Sf02b18fc3c",
+      "paragraph_start": 112,
+      "paragraph_end": 112,
+      "quote": "然后就是一段长时间的安静，安静得有些不正常。",
+      "evidence_type": "剧情文本",
+      "mechanism": "角色察觉的静默触发停止洗碗和查看，声音缺失也能推动行动。",
+      "limitation": "这是旁白文本，不证明音轨实际长度、静默或混音；只能作新作声音设计的叙事参照。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/搬进江景房，老公每晚对着鱼缸坐两小时_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E33",
+      "rule_id": "AN-11",
+      "source_id": "Se9d904c945",
+      "paragraph_start": 5,
+      "paragraph_end": 5,
+      "quote": "片名虽然带有唢呐，但本次可核视频的主体是幻境冒险",
+      "evidence_type": "解析作者分析",
+      "mechanism": "不能从标题替代本段实际叙事声源。",
+      "limitation": "本轮未听原声，不声称有或没有某乐器录音。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/唢呐修仙，一曲炸翻修仙界第十季__7683457453203147801.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E34",
+      "rule_id": "AN-12",
+      "source_id": "Sa72298e660",
+      "paragraph_start": 402,
+      "paragraph_end": 402,
+      "quote": "同一空间承担不同冲突任务，而不是认为少场景就必然便宜。",
+      "evidence_type": "解析作者分析",
+      "mechanism": "复用场景时以道具、任务、关系变化驱动戏，成本仍需实测。",
+      "limitation": "针线、手指和工具接触要求高；少场景不等于低难度。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/一针绣出自己的路__7681130432334662680.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E35",
+      "rule_id": "AN-12",
+      "source_id": "S2ed6620fa6",
+      "paragraph_start": 458,
+      "paragraph_end": 458,
+      "quote": "完整包、咬口、馅汁和袋中数量跨动作要维持",
+      "evidence_type": "解析作者分析",
+      "mechanism": "先列物件前后状态与数量，让制作可检查。",
+      "limitation": "报告未统计故障率，不能宣称此生产方法已降本或完全成功。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/石老板的食谱随机刷新，客人馋疯了第三季_前三集完整剧本与声画核实分析.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AN-E36",
+      "rule_id": "AN-12",
+      "source_id": "S4a1db5fcb1",
+      "paragraph_start": 46,
+      "paragraph_end": 46,
+      "quote": "不应把生成失误解释成新角色或分身设定。",
+      "evidence_type": "解析作者分析",
+      "mechanism": "身份、数量与能力规则要独立于图像生成瑕疵。",
+      "limitation": "原报告记录骷髅道人重复疑点，本轮未复看视频确认故障。",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 漫剧/一村人养一个神第三季__7682297801853635608.docx",
+      "route": "animation"
+    },
+    {
+      "id": "AR01",
+      "source_id": "Sf67eebf48c",
+      "paragraph_start": 219,
+      "paragraph_end": 219,
+      "quote": "我给燕大发过电报了，你自愿放弃入学，他们已经补录新生。",
+      "mechanism": "已拥有的录取资格被一张回执关闭，损失从争论变为不可忽略的行动结果。",
+      "limitation": "角色对白与文档还原不等于真实招生制度；没有独立核片。",
+      "rule_ids": [
+        "R01"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/1992，我不做养子了__7676385195880107033.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR02",
+      "source_id": "Scfa4e6b336",
+      "paragraph_start": 67,
+      "paragraph_end": 67,
+      "quote": "两百块，买米、买油、买菜，还要交水电费。你算算，够吗？",
+      "mechanism": "用一笔金额所承载的具体开销表现资源不足。",
+      "limitation": "四万二与两百为剧情数额，不能当家庭财务审计或现实统计。",
+      "rule_ids": [
+        "R01"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/迟来的深情：月薪四万老婆花两百_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR03",
+      "source_id": "S438a5e3234",
+      "paragraph_start": 191,
+      "paragraph_end": 191,
+      "quote": "这可是要拿去换钱的，千万别浪费了，用一两个就够了。",
+      "mechanism": "资源已有替代用途，创新必须支付机会成本。",
+      "limitation": "前三集未见鸡蛋饼成品、摆摊、盈利；两枚蛋不是已证明的致富公式。",
+      "rule_ids": [
+        "R01"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/我靠现代美食在古代发家致富_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR04",
+      "source_id": "S9ca19cf0e8",
+      "paragraph_start": 165,
+      "paragraph_end": 165,
+      "quote": "我不拿毕业赌你一句信我。",
+      "mechanism": "反对者把可确认的处分风险排在尚未可见的危险之前。",
+      "limitation": "唐晓不是已证实内应；不能按主角正确倒推他人必有恶意。",
+      "rule_ids": [
+        "R02"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/今晚查寝，别开门__7683785246940072984.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR05",
+      "source_id": "S92c350b18b",
+      "paragraph_start": 162,
+      "paragraph_end": 162,
+      "quote": "涨价也提前说一声啊。到了跟前才改牌。",
+      "mechanism": "熟客争的不只有价格，还有被提前告知和被尊重。",
+      "limitation": "材料未证明任何一家配料作假；不得从片名替角色裁决。",
+      "rule_ids": [
+        "R02"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/良心有价，底线无价__7679822355018812478.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR06",
+      "source_id": "S6913556b7c",
+      "paragraph_start": 93,
+      "paragraph_end": 93,
+      "quote": "走，回家。这买卖爸爸做不了。",
+      "mechanism": "父亲在便宜动物与保护孩子之间作风险取舍。",
+      "limitation": "虚构兽语前提，不能迁移为现实猛兽接触建议。",
+      "rule_ids": [
+        "R02"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/萌娃兽语满级，动物园天天爆红_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR07",
+      "source_id": "S5c94ca51bd",
+      "paragraph_start": 55,
+      "paragraph_end": 55,
+      "quote": "今年我准备离婚，谁愿意操持谁去。",
+      "mechanism": "女主以撤回实际家务劳动改变关系，而非只宣布态度。",
+      "limitation": "拒绝筹备不等于离婚完成；没有要求每场都升级为决裂。",
+      "rule_ids": [
+        "R03"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/冷战三年，提离婚裴总跪地悔红眼_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR08",
+      "source_id": "Sea105ad3ee",
+      "paragraph_start": 115,
+      "paragraph_end": 116,
+      "quote": "沈清禾：当然，明天你陪我去城里，我们把钱取出来。\n周成海：什么，去城里，不行。",
+      "mechanism": "将对方想要的钱与自己想要的退出路径绑定，逼出控制意图。",
+      "limitation": "存折实际余额、求援发送状态及逃离结果均未在材料中证实。",
+      "rule_ids": [
+        "R03"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/新婚夜，婆婆递来的账单_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR09",
+      "source_id": "S7189a8ffe6",
+      "paragraph_start": 51,
+      "paragraph_end": 51,
+      "quote": "陈铭的手停在两人之间，没有继续碰她；",
+      "mechanism": "对方的拒绝改变施动者动作，修复先从停止侵入开始。",
+      "limitation": "当下停手与道歉尚不能证明改过或取得谅解。",
+      "rule_ids": [
+        "R04"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/悔悟，我用余生偿前错_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR10",
+      "source_id": "S6913556b7c",
+      "paragraph_start": 115,
+      "paragraph_end": 115,
+      "quote": "她听完，没有立刻逼近，而是先停住自己的身体。",
+      "mechanism": "理解恐惧后先改变自己，再由对方反应兑现信任。",
+      "limitation": "只能提炼关系动作，不能将幻想动物交流当驯兽程序。",
+      "rule_ids": [
+        "R04"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/萌娃兽语满级，动物园天天爆红_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR11",
+      "source_id": "S3eb5085cce",
+      "paragraph_start": 138,
+      "paragraph_end": 138,
+      "quote": "小霞想收回手，手腕仍被他握着。",
+      "mechanism": "一个接触动作同时包含发起者目标与承受者反应。",
+      "limitation": "原文存在女方拒绝和名誉施压，不应整理成全程自愿甜蜜。",
+      "rule_ids": [
+        "R04"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/纨绔下乡之顽郎亦不负流年_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR12",
+      "source_id": "Se5fc1bb0c6",
+      "paragraph_start": 119,
+      "paragraph_end": 119,
+      "quote": "成人持着肉碗，姐弟仍在床边；碗没有回到孩子手中。",
+      "mechanism": "道具在谁手里即谁控制稀缺食物，无需旁白解释支配权。",
+      "limitation": "拿碗具体接触在文档P117仍有接过或拿起的歧义，不能自行补成确定抢夺手法。",
+      "rule_ids": [
+        "R05"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/一块槽头肉，养出个省状元_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR13",
+      "source_id": "Sf67eebf48c",
+      "paragraph_start": 260,
+      "paragraph_end": 261,
+      "quote": "△ 林大强低下视线，伸手握住胸前的吊坠，拇指停在“远”字旁。\n林大强：林远，远方的远。",
+      "mechanism": "前集身世物件成为本集主动命名自己的触发。",
+      "limitation": "取机制不照搬吊坠字样与改名情节；血缘最终真相未知。",
+      "rule_ids": [
+        "R05"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/1992，我不做养子了__7676385195880107033.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR14",
+      "source_id": "S5c94ca51bd",
+      "paragraph_start": 86,
+      "paragraph_end": 86,
+      "quote": "拿起协议翻看，看到签名，眼神猛地定住，攥紧纸页。",
+      "mechanism": "同一纸件从被否认的诉求变成无法忽视的行动证据。",
+      "limitation": "原文只确认签名状态；不能倒造落笔过程或正式离婚生效。",
+      "rule_ids": [
+        "R05"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/冷战三年，提离婚裴总跪地悔红眼_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR15",
+      "source_id": "Sf67eebf48c",
+      "paragraph_start": 316,
+      "paragraph_end": 316,
+      "quote": "Third page, the date is wrong. July does not have a thirty-sixth.",
+      "mechanism": "前集英语能力在后集解决一处读者能理解的合同日期问题。",
+      "limitation": "具体错字是剧中实例；奖励只到能力被识别，没有事业成功。",
+      "rule_ids": [
+        "R06"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/1992，我不做养子了__7676385195880107033.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR16",
+      "source_id": "S79e8debcc8",
+      "paragraph_start": 362,
+      "paragraph_end": 362,
+      "quote": "算，但得先出场有镜头，死前要有演绎过程。纯躺着不动，那是道具。",
+      "mechanism": "角色尝试走最短路线时才把系统的约束问出来。",
+      "limitation": "系统台词与任务窗后续存在冲突；不能用78%图文推定既有进度。",
+      "rule_ids": [
+        "R06"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/系统：万人迷神颜顶流只想演炮灰1_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR17",
+      "source_id": "S438a5e3234",
+      "paragraph_start": 187,
+      "paragraph_end": 187,
+      "quote": "村里人肯定抢着摘，不能再拖了，必须尽快说服爹妈让我去摆摊。",
+      "mechanism": "知识优势仍受资源竞争、时机与家庭授权限制。",
+      "limitation": "这是角色预期，未证实已经发生竞争或已经获准经营。",
+      "rule_ids": [
+        "R06"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/我靠现代美食在古代发家致富_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR18",
+      "source_id": "Sba1802f539",
+      "paragraph_start": 210,
+      "paragraph_end": 210,
+      "quote": "微慈行礼，随月灯离开正堂；文氏望着她们走出去。",
+      "mechanism": "先让主角离开，才具备观众知道而主角不知的秘密披露条件。",
+      "limitation": "后续婚配还只是计划；不能让未听见者凭空知道。",
+      "rule_ids": [
+        "R07"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/步步深陷_前三集深度剧本拆解与传播制作分析_待声画复核.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR19",
+      "source_id": "Sba1802f539",
+      "paragraph_start": 218,
+      "paragraph_end": 218,
+      "quote": "我打算年后把微慈嫁给张廷义做妻。",
+      "mechanism": "公开接纳在私谈中被重新解释成政治交换。",
+      "limitation": "张廷义的传言与婚事均属人物说法或计划；没有相亲婚礼。",
+      "rule_ids": [
+        "R07"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/步步深陷_前三集深度剧本拆解与传播制作分析_待声画复核.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR20",
+      "source_id": "S9ca19cf0e8",
+      "paragraph_start": 278,
+      "paragraph_end": 278,
+      "quote": "门外人（画外）：程妍、唐晓、林乔、何雨晴。",
+      "mechanism": "回避自己的名字却报出屋内名单，同一证据既像身份背书又构成威胁。",
+      "limitation": "来者身份、名单来源、人数及后续机制未知。",
+      "rule_ids": [
+        "R07"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/今晚查寝，别开门__7683785246940072984.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR21",
+      "source_id": "Sea105ad3ee",
+      "paragraph_start": 94,
+      "paragraph_end": 94,
+      "quote": "沈清禾贴近卧室门，侧头听门外母子的说话。",
+      "mechanism": "偷听让女主改变策略有信息来源。",
+      "limitation": "门内听闻须与当面对话区分，原片声层未独立听审。",
+      "rule_ids": [
+        "R07"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/新婚夜，婆婆递来的账单_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR22",
+      "source_id": "S92c350b18b",
+      "paragraph_start": 253,
+      "paragraph_end": 253,
+      "quote": "不是不好吃，味太顶。我吃不惯。",
+      "mechanism": "价格与重量比较后，引入口味这个不能被统一裁决的新维度。",
+      "limitation": "钱叔个人偏好不能证明廉价饼有毒或不合格。",
+      "rule_ids": [
+        "R08"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/良心有价，底线无价__7679822355018812478.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR23",
+      "source_id": "Sf67eebf48c",
+      "paragraph_start": 256,
+      "paragraph_end": 256,
+      "quote": "苏慧低头翻包，取出一个橘子，剥开外皮，分出一半递过去。",
+      "mechanism": "两段强压迫之间，用互助与分享让尊严被具体承认。",
+      "limitation": "暖场仍承接帮助与认识过程，不是凭空贵人承包全部困难。",
+      "rule_ids": [
+        "R08"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/1992，我不做养子了__7676385195880107033.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR24",
+      "source_id": "S9ca19cf0e8",
+      "paragraph_start": 55,
+      "paragraph_end": 55,
+      "quote": "第三集再次讲晚归记录，强化心理却新信息较少；",
+      "mechanism": "原作者直接指出重复争辩造成的新信息不足，是可纳入的负例。",
+      "limitation": "这是报告作者分析，不是实测流失率或观众结论。",
+      "rule_ids": [
+        "R08"
+      ],
+      "evidence_type": "document_analysis",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/今晚查寝，别开门__7683785246940072984.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR25",
+      "source_id": "Sea105ad3ee",
+      "paragraph_start": 68,
+      "paragraph_end": 68,
+      "quote": "老公说得对，一家人就该互相帮衬，",
+      "mechanism": "甜言作为掩饰警觉与争取行动空间的策略。",
+      "limitation": "必须连同P75-P78收随身物阅读；孤立摘录会误读为真顺从。",
+      "rule_ids": [
+        "R09"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/新婚夜，婆婆递来的账单_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR26",
+      "source_id": "Sea105ad3ee",
+      "paragraph_start": 78,
+      "paragraph_end": 78,
+      "quote": "全部都要带上，他们想让我当冤大头，不可能。",
+      "mechanism": "私下动作目的与公开表态相反，构成潜台词。",
+      "limitation": "原文心声声层待听审；原创可以设计但还原不可擅改发声方式。",
+      "rule_ids": [
+        "R09"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/新婚夜，婆婆递来的账单_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR27",
+      "source_id": "S92c350b18b",
+      "paragraph_start": 227,
+      "paragraph_end": 227,
+      "quote": "卖你的，少拿我垫话。",
+      "mechanism": "对白直接阻断对手利用师徒关系宣传自己的策略。",
+      "limitation": "短句有具体交涉对象才有力，不应把每句都写成口号。",
+      "rule_ids": [
+        "R09"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/良心有价，底线无价__7679822355018812478.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR28",
+      "source_id": "S3eb5085cce",
+      "paragraph_start": 101,
+      "paragraph_end": 102,
+      "quote": "年轻知青：我爹疯了。\n郑小霞（心声）：家里有个疯子，是不好娶媳妇。",
+      "mechanism": "同一词被夸张使用与按字面理解，笑点依人物理解差。",
+      "limitation": "不能据此编造父亲实际精神疾病；女方也不等于没有判断能力。",
+      "rule_ids": [
+        "R09"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/纨绔下乡之顽郎亦不负流年_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR29",
+      "source_id": "S79e8debcc8",
+      "paragraph_start": 424,
+      "paragraph_end": 424,
+      "quote": "灰衣青年：接。",
+      "mechanism": "已得到一顿饭和入组机会，再把长线推到下一件明确任务。",
+      "limitation": "只接受侍卫任务，没有完成拍摄、成功演出或赚到百亿。",
+      "rule_ids": [
+        "R10"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/系统：万人迷神颜顶流只想演炮灰1_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR30",
+      "source_id": "S96d35f0e35",
+      "paragraph_start": 233,
+      "paragraph_end": 233,
+      "quote": "山谷里没有出现搜救者。",
+      "mechanism": "求生状态改变后仍保留脱困问题，悬念有清楚未完成对象。",
+      "limitation": "不借标题补反杀、救援或生子；报告中的求生与医学不是实践指南。",
+      "rule_ids": [
+        "R10"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/绝壁自生花__7680838197286276158.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR31",
+      "source_id": "S7189a8ffe6",
+      "paragraph_start": 97,
+      "paragraph_end": 97,
+      "quote": "失去的信任，我自己挣回来，靠谁都不如靠自己，",
+      "mechanism": "行动目标从发誓转为出门谋生，但信任债仍留下。",
+      "limitation": "该句是人物承诺；猎获与修复尚未发生，不能当成客观成功。",
+      "rule_ids": [
+        "R10"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/悔悟，我用余生偿前错_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR32",
+      "source_id": "S9ca19cf0e8",
+      "paragraph_start": 60,
+      "paragraph_end": 60,
+      "quote": "出现五个人物图像，不能当第五室友登场；",
+      "mechanism": "少场景悬疑靠空间和人数可信，生成连续性错误会直接破坏推理。",
+      "limitation": "这是源报告指出的画面问题，本次未独立看图或逐帧复核。",
+      "rule_ids": [
+        "R11"
+      ],
+      "evidence_type": "document_analysis",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/今晚查寝，别开门__7683785246940072984.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR33",
+      "source_id": "Sba1802f539",
+      "paragraph_start": 112,
+      "paragraph_end": 112,
+      "quote": "手部、剑/簪接触、面部瞬态及同一人物跨切口的完全连续性仍需逐帧人工验收",
+      "mechanism": "接触、关键道具与多人身份是仿真人制作应提前列出的验收节点。",
+      "limitation": "源作者列风险，不等于已证明全部发生漂移；不据此断言某模型做不到。",
+      "rule_ids": [
+        "R11"
+      ],
+      "evidence_type": "document_analysis",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/步步深陷_前三集深度剧本拆解与传播制作分析_待声画复核.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR34",
+      "source_id": "S96d35f0e35",
+      "paragraph_start": 193,
+      "paragraph_end": 193,
+      "quote": "她蹬着峭壁，将一条腿翻上枝干，再把身体挪过去，终于坐在靠岩壁的一端，背抵石壁喘气。",
+      "mechanism": "复杂动作拆成明确起点、转移与终点，求生进展必须在身体状态上兑现。",
+      "limitation": "属于虚构危险场景；复杂接触与重心变化不能用文字当作成片生成已通过。",
+      "rule_ids": [
+        "R11"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/绝壁自生花__7680838197286276158.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR35",
+      "source_id": "S79e8debcc8",
+      "paragraph_start": 367,
+      "paragraph_end": 368,
+      "quote": "隔壁大哥（画外，练词）：你杀了我吧，从我嘴里你问不出一个字。\n灰衣青年（独白）：对啊，现成的领路人这不就在隔壁吗？",
+      "mechanism": "先前嫌弃的画外练词声成为寻找入行资源的触发，声音完成伏笔回收。",
+      "limitation": "练词不是现实威胁；原声、声线及混音未独立听审。",
+      "rule_ids": [
+        "R12"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/系统：万人迷神颜顶流只想演炮灰1_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR36",
+      "source_id": "S9ca19cf0e8",
+      "paragraph_start": 273,
+      "paragraph_end": 273,
+      "quote": "门外人（画外）：临时查寝，开门就行。",
+      "mechanism": "声源隔门且不露脸，声音信息足以制造身份不确定性。",
+      "limitation": "材料只支持声音角色与台词层；具体敲门声、声像与BGM未知。",
+      "rule_ids": [
+        "R12"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/今晚查寝，别开门__7683785246940072984.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR37",
+      "source_id": "Se5fc1bb0c6",
+      "paragraph_start": 37,
+      "paragraph_end": 37,
+      "quote": "肉铺老板（画外自述）：我在菜市场卖了20年肉，记住一个小女孩。",
+      "mechanism": "回望视角先赋予反常动作意义，再用日常重复建立关系。",
+      "limitation": "画外自述不是现场对女孩说话；无法由文字确认原声细节。",
+      "rule_ids": [
+        "R12"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/一块槽头肉，养出个省状元_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR38",
+      "source_id": "S5c94ca51bd",
+      "paragraph_start": 135,
+      "paragraph_end": 135,
+      "quote": "“未知”表示无可采信听证，不代表无音乐。",
+      "mechanism": "明确区分声音事实缺失与后期创作建议。",
+      "limitation": "只说明源报告的证据边界，不支持推断实际音乐为空。",
+      "rule_ids": [
+        "R12"
+      ],
+      "evidence_type": "document_analysis",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/冷战三年，提离婚裴总跪地悔红眼_前三集完整剧本与声画核实分析.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR39",
+      "source_id": "Sc708478c40",
+      "paragraph_start": 262,
+      "paragraph_end": 262,
+      "quote": "一个染着黄毛的人骑着单车停在我面前。",
+      "mechanism": "黄毛有正文发色与相遇动作依据，不只是标题标签。",
+      "limitation": "没有穿越证据，也没有隐藏首富或豪门复仇结果。",
+      "rule_ids": [
+        "T01"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/我有六个黄毛爹__7676072855259319358.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR40",
+      "source_id": "Sc708478c40",
+      "paragraph_start": 268,
+      "paragraph_end": 268,
+      "quote": "我……我可以不吃那口饭，但你们能供我读书吗？",
+      "mechanism": "被帮助者保留自己的未来目标，拒绝仅作为可怜对象。",
+      "limitation": "只提出求学愿望，尚无学费、入学或成绩兑现。",
+      "rule_ids": [
+        "R02"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/我有六个黄毛爹__7676072855259319358.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR41",
+      "source_id": "Sc708478c40",
+      "paragraph_start": 332,
+      "paragraph_end": 332,
+      "quote": "今天不赊，加七个蛋，七份炒粉，多放辣。",
+      "mechanism": "帮助需支付实际成本，承诺才变为可观察关系。",
+      "limitation": "只是一顿饭，不等于永久经济保障。",
+      "rule_ids": [
+        "R08"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/我有六个黄毛爹__7676072855259319358.docx",
+      "route": "realistic"
+    },
+    {
+      "id": "AR42",
+      "source_id": "Sc708478c40",
+      "paragraph_start": 387,
+      "paragraph_end": 387,
+      "quote": "可我一闭上眼，就睡着了。",
+      "mechanism": "关系阶段回报可以是安全感与身体松弛，不必强行悬崖结尾。",
+      "limitation": "只说明此刻安睡，不能推断创伤治愈或全剧结局。",
+      "rule_ids": [
+        "R10"
+      ],
+      "evidence_type": "document_script",
+      "source_path": "/Users/yubowen/解析剧/红果 AI 仿真人/我有六个黄毛爹__7676072855259319358.docx",
+      "route": "realistic"
+    }
+  ]
+}

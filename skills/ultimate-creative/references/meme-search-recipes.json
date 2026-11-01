@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "mode": "on_demand",
+  "automated_scheduler_enabled": false,
+  "windows_days": [7, 30],
+  "discovery_queries": ["{YYYY-MM} 热梗盘点", "{YYYY-MM} 评论区 句式", "嘴硬 自嘲 最近 梗", "认真服务 控场 搞笑 句式", "社恐 关心 反差 最近 梗"],
+  "verification_queries": ["\"{phrase}\" 什么意思 原语境", "\"{phrase}\" 前后 对话", "\"{phrase}\" {YYYY-MM}"],
+  "channels": [
+    {"id":"douyin", "domains":["douyin.com","jingxuan.douyin.com"], "method":"公开正文搜索，必要时已登录Chrome站内精确词句搜索", "evidence_required":"可打开作品URL及具体文字上下文", "do_not_infer":"聚合页ASR等于原声；聚合列表等于独立作品"},
+    {"id":"bilibili", "domains":["bilibili.com"], "method":"meme_refresh.py公开搜索API及网页作品简介／动态", "evidence_required":"BV或动态ID、日期、上下文", "do_not_infer":"搜索排名或累计播放等于当前增长"},
+    {"id":"weibo", "domains":["weibo.com","weibo.cn"], "method":"精确词句查公开正文与话题；受限时只保留索引证据", "evidence_required":"帖子URL与公开文字；日期缺失则留空", "do_not_infer":"机器人式聚合总结等于多个独立创作者"},
+    {"id":"xiaohongshu", "domains":["xiaohongshu.com"], "method":"网页定向搜索；无结果时尝试已登录Chrome生活／社交场景笔记", "evidence_required":"具体笔记URL、日期和可读语境", "do_not_infer":"媒体报道小红书现象等于直接采集成功"},
+    {"id":"news_and_language", "domains":["news.cn","chinanews.com","thepaper.cn","people.com.cn"], "method":"带月份／年份的解释和实例搜索", "evidence_required":"文献URL、发表日期、实际释义", "do_not_infer":"年度榜单等于当前热榜；转述首创等于已独立核实"}
+  ],
+  "record_contract": ["canonical_family_id", "expression_and_variants", "source_url", "published_at_or_null", "observed_at", "before_and_after_context", "speaker_target_and_response", "context_or_audio_dependency", "role_intent", "avoid", "plain_alternative", "readiness", "freshness_evidence"],
+  "selection_principle": "采集广，选用少；先写人物普通对白，再按目的与关系筛。旧词保留年份，未知留空。"
+}
